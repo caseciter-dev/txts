@@ -56,6 +56,10 @@
         </div>
 
         <div id="ordersContainer" class="space-y-3.5"></div>
+        
+        <div id="infiniteLoader" class="hidden flex justify-center py-6 text-slate-400">
+            <div class="animate-spin rounded-full h-5 w-5 border-b-2 border-slate-400"></div>
+        </div>
     </main>
 
     <footer class="bg-white border-t border-slate-200 py-6 text-center text-xs text-slate-400">
@@ -66,12 +70,14 @@
         // URL pointing directly to your text source
         const RAW_TXT_URL = "https://raw.githubusercontent.com/caseciter/txts/refs/heads/main/latest_order.txt";
         let allOrders = [];
+        let filteredOrders = [];
+        let currentPage = 1;
+        const ITEMS_PER_PAGE = 50; // Performance tuning: render 50 elements at a time
 
         async function fetchAndRenderOrders() {
             const container = document.getElementById('ordersContainer');
             const statusMessage = document.getElementById('statusMessage');
             const metaCounter = document.getElementById('metaCounter');
-            const resultCount = document.getElementById('resultCount');
 
             try {
                 const response = await fetch(RAW_TXT_URL);
@@ -89,19 +95,17 @@
 
                 // Process lines into data models
                 allOrders = lines.map((line, index) => {
-                    // Typical parsing format assumption: "1. Party vs Party 2024 INSC 1 – Subject Matter Description"
-                    // Or fallback cleanly to full text rendering
                     let indexNum = index + 1;
                     let cleanText = line;
                     
-                    // Attempt to extract prefix index numbers if present (e.g. "1. ")
+                    // Extract prefix index numbers if present (e.g. "1. ")
                     const dotIndex = line.indexOf('.');
                     if (dotIndex > 0 && dotIndex < 6 && !isNaN(line.substring(0, dotIndex))) {
                         indexNum = line.substring(0, dotIndex).trim();
                         cleanText = line.substring(dotIndex + 1).trim();
                     }
 
-                    // Attempt to split metadata on typical en-dash/em-dash tags (– or -)
+                    // Split metadata on typical en-dash/em-dash tags (– or -)
                     let components = cleanText.split(/ [–- ] /);
                     let title = components[0] || cleanText;
                     let metaTags = components.slice(1).join(' • ');
@@ -114,11 +118,15 @@
                     };
                 });
 
-                // Clear loader state
+                filteredOrders = [...allOrders];
                 statusMessage.classList.add('hidden');
                 metaCounter.classList.remove('hidden');
                 
-                renderList(allOrders);
+                currentPage = 1;
+                renderList(true); // Clear layout and perform initial partial draw
+
+                // Attach lazy load scroll watcher
+                window.addEventListener('scroll', handleScroll);
 
             } catch (error) {
                 statusMessage.innerHTML = `
@@ -131,13 +139,17 @@
             }
         }
 
-        function renderList(items) {
+        function renderList(resetContainer = false) {
             const container = document.getElementById('ordersContainer');
             const resultCount = document.getElementById('resultCount');
-            container.innerHTML = '';
-            resultCount.innerText = `Showing ${items.length} record${items.length === 1 ? '' : 's'}`;
+            
+            if (resetContainer) {
+                container.innerHTML = '';
+            }
+            
+            resultCount.innerText = `Showing ${filteredOrders.length} record${filteredOrders.length === 1 ? '' : 's'}`;
 
-            if(items.length === 0) {
+            if (filteredOrders.length === 0) {
                 container.innerHTML = `
                     <div class="text-center py-12 text-slate-400 border border-dashed border-slate-200 rounded-xl bg-white">
                         <i data-lucide="search-code" class="w-8 h-8 mx-auto mb-2 opacity-60"></i>
@@ -147,14 +159,21 @@
                 return;
             }
 
-            items.forEach(item => {
+            // Slice out current item window chunk
+            const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+            const endIndex = startIndex + ITEMS_PER_PAGE;
+            const pageItems = filteredOrders.slice(startIndex, endIndex);
+
+            // Using DocumentFragment stops expensive DOM tree layout operations
+            const fragment = document.createDocumentFragment();
+
+            pageItems.forEach(item => {
                 const card = document.createElement('div');
                 card.className = "bg-white border border-slate-200 hover:border-blue-300 rounded-xl p-4 shadow-2xs hover:shadow-xs transition duration-150 ease-in-out flex gap-4 items-start group";
                 
-                // Check if it's a standard VS format to apply bold highlighting
                 const hasVs = item.title.includes(" vs ") || item.title.includes(" Vs ") || item.title.includes(" VS ");
                 let formattedTitle = item.title;
-                if(hasVs) {
+                if (hasVs) {
                     formattedTitle = item.title.replace(/( vs | Vs | VS )/ig, '<span class="text-blue-600 font-semibold text-xs bg-blue-50 border border-blue-100 rounded px-1 mx-1">VS</span>');
                 }
 
@@ -176,25 +195,46 @@
                         <i data-lucide="chevron-right" class="w-5 h-5"></i>
                     </div>
                 `;
-                container.appendChild(card);
+                fragment.appendChild(card);
             });
 
-            // Refresh icons globally for generated nodes
+            container.appendChild(fragment);
             lucide.createIcons();
         }
 
-        // Live instant searching event
-        document.getElementById('searchInput').addEventListener('input', function(e) {
-            const query = e.target.value.toLowerCase().trim();
-            if(!query) {
-                renderList(allOrders);
-                return;
+        // Infinite Scroll Engine
+        function handleScroll() {
+            if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 600) {
+                if ((currentPage * ITEMS_PER_PAGE) < filteredOrders.length) {
+                    const loader = document.getElementById('infiniteLoader');
+                    loader.classList.remove('hidden');
+                    
+                    currentPage++;
+                    renderList(false); // Append without rebuilding existing items
+                    
+                    loader.classList.add('hidden');
+                }
             }
-            const filtered = allOrders.filter(order => order.raw.includes(query));
-            renderList(filtered);
+        }
+
+        // Search Input Debouncer: Waits 150ms before running data matching
+        let searchTimeout;
+        document.getElementById('searchInput').addEventListener('input', function(e) {
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(() => {
+                const query = e.target.value.toLowerCase().trim();
+                currentPage = 1;
+                
+                if (!query) {
+                    filteredOrders = [...allOrders];
+                } else {
+                    filteredOrders = allOrders.filter(order => order.raw.includes(query));
+                }
+                renderList(true); // Reset view panel layout viewport
+            }, 150);
         });
 
-        // Initialize on setup loaded
+        // Application bootstrap configuration
         window.addEventListener('DOMContentLoaded', () => {
             fetchAndRenderOrders();
             lucide.createIcons();
