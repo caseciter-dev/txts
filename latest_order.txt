@@ -1,398 +1,1836 @@
 --- Page 1 ---
 Supreme Court of India
-Orders of the Day - 11 October 2026
+Orders of the Day - 13 October 2026
 # Case Reference Page Len.
-1 SHAILENDRA MANI TRIPATHI VS. GOVIND MOHAN, - - Diary Number 2 11
+1 Kuldeep Jajoo vs. Priya Jajoo T.P.(C) No. 987/2026 2 14
+2 Mohit Kaushik vs. Shalini Dixit T.P.(C) No. 2775/2025 16 3
+3 NAVIN MANGALDAS PATEL VS. STATE OF GUJARAT - - Diary Number 19 3
+4 NIHAL SINGH VS. AMIT KUMAR - - Diary Number 1512 / 2026 - 06 22 3
+5 Rabin Pandey Alias Rabindra Pandey vs. State of Bihar (now J SLP(Crl) No. 3888/2013 25 3
+6 Edelweiss Asset Reconstruction Company Ltd. vs. Chemstar Org C.A. No. 5619/2023 28 2
+7 Sridevi Koya vs. Ganesh Krishna Kanyadhari T.P.(Crl.) No. 120/2025 30 2
+8 SHAFIQUE AHMED MOHAMMED SALIM VS. UNION OF INDIA - - Diary N 32 2
+9 M/s Maa Durga Mining Works vs. State of Uttar Pradesh SLP(C) No. 21377-21380/202 34 2
+10 M/s Sahyog Hospitality vs. Sunder Lal Gupta SLP(C) No. 35066-35067/202 36 2
+11 Priti vs. the State of Maharashtra SLP(C) No. 8300/2021 38 2
+12 Dheerendra Singh Pawan vs. Anfasul Hasan SLP(Crl) No. 3463/2026 40 2
+13 SUNIL KUMAR YADAV VS. THE STATE OF UTTAR PRADESH - - Diary N 42 2
+14 Sri Mallampeta Srikanth Goud vs. Sri Chennamaneni Ram Krishn SLP(C) No. 28907/2026 44 2
+15 Ammu Ajith vs. Prem Chander CONMT.PET.(C) No. 625/202646 2
+16 Pooja vs. Bharat T.P.(C) No. 786/2026 48 2
+17 GURJODH SINGH VS. STATE OF PUNJAB - - Diary Number 58194 / 2 50 2
+18 Prakash Arsid vs. the State of Telangana CONMT.PET.(C) No. 822/202652 1
+19 M/s Geo Miller and Company Pvt Ltd vs. Ajmer Municipal Corpo SLP(C) No. 32120-32121/202 53 1
+20 Alisha @ Alisha Mansoori vs. Salman Khan SLP(Crl) No. 15672/2026 54 1
+21 Chakkiarth Dasan vs. the State of Kerala Crl.A. No. 441/2011 55 1
+22 S. ESWARAMOORTHY VS. UNION OF INDIA - - Diary Number 59820 / 56 1
+23 Raman Puri vs. State of Nct of Delhi SLP(Crl) No. 19167/2026 57 1
+24 Ram Karan vs. State of Haryana SLP(Crl) No. 19437/2026 58 1
+25 Hafiz Hamza vs. State of Kerala SLP(Crl) No. 19641/2026 59 1
+26 M/s Beach Mineral Sands Company vs. Union of India SLP(C) No. 27601/2025 60 1
+27 Deepak Singh vs. Union Territory of Jammu and Kashmir SLP(Crl) No. 15815/2026 61 1
 
 --- Page 2 ---
-ITEM NOS.1 + 2           COURT NO.5               SECTION PIL-W
-               S U P R E M E  C O U R T  O F  I N D I A
-                       RECORD OF PROCEEDINGS
-CONTEMPT PETITION (CIVIL) Diary No(s). 63801/2026
-[Arising out of impugned judgment and order dated 09-10-2026 in
-Diary No. 63560/2026 passed by the Supreme Court of India]
-SHAILENDRA MANI TRIPATHI                           Petitioner(s)
-                                VERSUS
-GOVIND MOHAN,                                      Respondent(s)
-(IA No. 317555/2026 - APPLICATION FOR PERMISSION and IA No.
-317566/2026 - EXEMPTION FROM FILING AFFIDAVIT)
+IN THE SUPREME COURT OF INDIA
+CIVIL/CRIMINAL ORIGINAL JURISDICTION
+TRANSFER PETITION (CIVIL) NO.987 OF 2026
+KULDEEP JAJOO ..... PETITIONER
+              VERSUS
+PRIYA JAJOO     ..... RESPONDENT
 WITH
-ITEM NO. 2
-WRIT PETITION(CRIMINAL) Diary No(s). 63858/2026
- 
-Date : 11-10-2026 This matter was called on for hearing today.
-CORAM :  HON'BLE MR. JUSTICE JOYMALYA BAGCHI
-         HON'BLE MRS. JUSTICE V. MOHANA
-For Petitioner(s) : Dr. Menaka Guruswamy, Sr. Adv.
-                   Mr. Chand Qureshi- 3063, AOR
-                   Mr. Shailendra Mani Tripathi In Person, Adv.
-                   Mr. Rakesh Kumar, Adv.
-                   Mr. Pradeep Kumar Yadav, Adv.
-                   Ms. Pooja Shilpkar, Adv.
-                   Mr. Priyendu Raghav Mishra, Adv.
-                   Mr. Vishal Kumar, Adv.
-                   Mr. Tayyab Khan Salmani, Adv.
-                   Mr. Harish Lodhi, Adv.
-                   Mr. Mujahid Ahmad, Adv.
-                   Mr. Mohit Yadav, Adv.
-                   Mr. Imran Siddiqui, Adv.
-                   Mr. Shahid Ali Siddiqui, Adv.
-                   Mr. Gaurav Yadava, Adv.
-                   Ms. Davinder Pal Kaur, Adv.
-                   Mr. Mohd Shahzad Ansari, Adv.
-                   Mr. Shahzad Naqvi, Adv.
-                   Mr. Aarif Ali, Adv.
-Ms. Anjali Kumari, Adv.
-Mr. Deepak Yadav, Adv.
-Mr. Sanjay Hegde, Sr.  Adv.
-Mr. Devvrat, Adv.
+T.P.(C) No.997/2026
+ T.P.(Crl.) No.354/2026
+O R D E R
+1. These petitions are filed for transfer of guardianship petition proceedings in
+G.W.O.P. No.1779 of 2022, divorce petition being F.C.O.P No.2083 of 2022 and
+Maintenance Petition being M.C. No.440 of 2024 initiated by the respondent-
+wife, from Family Court, Hyderabad to Family Court, Mumbai.
+2. The parties have entered into a settlement agreement on 25.08.2026. The
+terms of the agreement, as agreed to, between the parties, reads as under :
+“1. DISSOLUTION OF MARRIAGE BY MUTUAL CONSENT
+1.1.  The  marriage  has  broken  down  irretrievably.  The  Parties  have
+therefore  mutually  and  freely  agreed  to  dissolve  the  marriage  by
+mutual consent in accordance with law, on the terms recorded in this
+Deed.
+1.2.  The  Transfer  Petitions  are  already  pending  before  the  Hon'ble
+Supreme Court. The Parties will therefore jointly file an application in
 1
 
 --- Page 3 ---
-Ms. Yugandhara Pawar Jha, Adv.
-Ms. Khushbu Sahu, Adv.
-Ms. Nivedita Nair, Adv.
-Ms. Meenakshi Kalra, Adv.
-Mr. Anas Tanwir, AOR
-Mr. Gaurav Kumar, Adv.
-Mr. S. Misra, Adv.
-Mr. Naman Shrestra, Adv.
-Mr.  Vishal Tiwari, Adv.
-Mr. Anuj Saxena, AOR
-Mr. Kapil Sibal, Sr. Adv.
-Mr. N. Hariharan, Sr. Adv.
-Mr. P.V. Dinesh, Sr. Adv.
-Mr. Subhash Chandran, AOR
-Mr. Anirudh K.P., Adv.
-Ms. Ashima Mandla, Adv.
-Ms. Aparajita Jamal, Adv.
-Mr. Siddharth K., Adv.
-Mr. Sumedh Sarkar, Adv.
-Mr. Nikhil Pahwa, Adv.
-Mr. Arjan Singh Mandla, Adv.
-Ms. Mandakini Singh, Adv.
-Mr. Fidal Tom, Adv.
-Mr. Dhruva Kumar, Adv.
-Ms. Sunita Majumdar, Adv.
-Mr. Ranjit Kumar Biswas, Adv.
-Mr. Shah Mohd., Adv.
-Mr. K.K. Venugopal, Sr. Adv.
-Mr. Gopal Sankaranarayanan, Sr. Adv.
-Ms. Pooja Dhar, Adv.
-Ms. Chinmayee Chandra, Adv.
-Mr. Vishal Sinha, Adv.
-Mr. Shourya Dasgupta, Adv.
-Mr. Siddharth Venugopal, Adv.
-Mr. Tushar Srivastava, Adv.
-Ms. Bijaharini Gopal Krishnan, Adv.
-Mr. Rishav Ranjan, Adv.
-Ms. Samriddhi Agarwal, Adv.
-Mr. Divyansh Thakur, Adv.
-Ms. Gantavaya Vasisth, Adv.
-Ms. Nivedita Rani, Adv.
-Mr. Arpit Malviya, Adv.
-Ms. Pratistha Aggarwal, Adv.
-Mr. Apar Gupta, Adv.
-Mr. Aditya Mishra, Adv.
-Mr. Aditya Dubey, Adv.
-Mr. Dhandapani M., Adv.
+the Transfer Petitions, place this Deed on record, and pray that the
+Hon'ble  Court,  in  exercise  of  its  power  under  Article  142  of  the
+Constitution of India:
+a) dissolve the marriage by a decree of divorce by mutual consent,
+waiving the waiting period under Section 13B(2) of the HMA;
+b) take on record the undertakings of the Parties to abide by this Deed;
+and
+c) dispose of the Pending Proceedings, including the DV Case, in terms
+of this settlement.
+1.3. For this purpose, the Wife will enter appearance in the Transfer
+Petitions  through  counsel  of  her  choice.  Both  Parties  shall  remain
+present  before  the  Hon'ble  Court,  in  person  or  through  video-
+conference, as and when required.
+1.4. If the Hon'ble Supreme Court declines to grant the decree, the
+Parties will take every step necessary until a decree is granted.
+1.5. Neither Party will withdraw or resile from the consent for divorce,
+so long as the other complies with this Deed, and subject to the terms
+contained in this Deed.
+2. SETTLEMENT AMOUNT AND PAYMENT SCHEDULE
+2.1. In place of all separate claims for alimony, maintenance and the
+Children's expenses, the Parties have agreed on a single, consolidated
+settlement.
+2.2. The Husband will pay a total of INR 3,00,00,000/- [Rupees Three
+Crore  only]  ["Settlement  Amount"]  a  one-time  capital  settlement
+amount, in the following tranches:
+2.2.1. INR 50,00,000/- [Rupees Fifty Lakh only] shall be paid to
+the  Wife,  on  or  before  30.10.2026,  towards  the  welfare  of  the
+Children;
+2.2.2. INR 1,50,00,000/- [Rupees One Crore Fifty Lakh only]
+shall be paid to the Wife, on or before 31.03.2027, towards -
+2.2.2.1.INR  1,00,00,000/-  [Rupees  One  Crore  only]  towards
+permanent alimony and all personal claims of the Wife;
+2.2.2.2.  INR  50,00,000/-  [Rupees  Fifty  Lakh  only]  towards
+streedhan, jewellery. gifts and dowry articles etc.
+The  aforesaid  amounts  shall  be  credited  directly  into  the
+following bank account of the Wife:
 2
 
 --- Page 4 ---
-Mr. Kapil Sibal, Sr. Adv.
-Mr. Gopal Sankaranarayanan, Sr. Adv.
-Mr. Shoeb Alam, Sr. Adv.
-Ms. Fauzia Shakil, AOR
-Ms. Rashmi Singh, Adv.
-Ms. Aparjita Jamwal, Adv.
-Mr. Ujjwal Singh, Adv.
-Mr. Khalid Ali, Adv.
-Mr. Nazmeen Ahmed, Adv.
-Mr. Surit Chaubey, Adv.
-Ms. Ishtha Singh, Adv.
-Mr. Avi Singh, Sr. Adv.
-Ms. Arundhati Katju, Sr. Adv.
-                   Mr. Lavkesh Bhambhani- 4313, AOR
-                   Ms. Ritika Meena, Adv.
-                   Ms. Spriha Pachauri, Adv.
-                   Ms. Shaswati Parhi, Adv.
-                   Mr. Anmol Gupta, Adv.
-                   Ms. Bhumika Yadav, Adv.
-Mr. Sanjay Hegde, Sr. Adv.
-Mr. Devvrat, Adv.
-Ms. Yugandhara Pawar Jha, Adv.
-Mr. Aljo Joseph, Adv.
-Ms. Pallavi Barua, Adv.
-Ms. Khushbu Sahu, Adv.
-Ms. Nivedita Nair, Adv.
-Ms. Meenakhsi Kalra, Adv.
-Ms. Reena Pandey, Adv.
-Mr. Anas Tanwir, AOR
-Mr. Kapil Sibal, Sr. Adv.
-Mr. Narendra Mishra, Adv.
-Ms. Aakansha Tiwari, Adv.
-Ms. Tanushree Bhalla, Adv.
-Mr. Ashish Pandey, AOR
-Ms. Meenu Padha, Adv.
-Mr. Mohsin Alam, Adv.
-Mr. Shadan Farasat, Sr. Adv.
-Dr. Monika Gusain, Sr. Adv.
-                   
-For Respondent(s) : Mr. Tushar Mehta, Solicitor General
-Mr. Tarun Johri, AOR
-Mr. Tushar Mehta, Solicitor General
-Mr. S.V. Raju, ASG
+a. Account Holder: Mrs. Priya Kuldeep Jajoo
+b. Bank: IDBI
+c. Branch: GOREGAON WEST
+d. Account Number: 0691104000067388
+e. IFSC: IBKL0000691
+2.2.3. INR 79,00,000/- [Rupees Seventy-Nine Lakh only] shall
+be paid to the Son's account, on or before 31.07.2029, as a gift, for
+the  welfare  of  the  Son  (i.e.,  when  the  Son  attains  the  age  of
+majority);
+2.2.3.1.The  said  INR  79,00,000/-  shall  be  unrestricted  and
+irrevocable and shall be held and managed by the Wife for the
+welfare and benefit of the Son. The Wife shall have full discretion
+to retain, manage, invest, utilise or otherwise deal with the said
+amount for the welfare and benefit of the Son, and its use shall
+not be restricted to education, marriage, medical expenses, day-
+to-day expenses or any other specified purpose.
+2.2.3.2. Upon payment and credit of the said amount into the
+Son's account, the payment shall be treated as fully paid and
+irrevocably settled for the benefit of the Son. The Husband shall
+thereafter  have  no  right,  title,  interest,  claim  or  entitlement
+whatsoever in or to the said amount and shall not be entitled to
+revoke,  cancel,  reclaim,  recover,  withdraw,  set  off,  adjust  or
+otherwise  seek  return  of  the  said  amount  for  any  reason
+whatsoever.
+2.2.3.3. Time shall be of the essence in respect of the payment
+of  INR  79,00,000/-The  Husband's  obligation  to  pay  the  said
+amount  on  or  before  31.07.2029  shall  be  absolute,
+unconditional, continuing and independently enforceable.
+2.2.3.4. If the Husband fails to pay the said INR 79,00,000/- in
+full on or before 31.07.2029, the entire unpaid principal amount
+shall remain due and payable in full. Any interest, compensation,
+costs, damages or other amount payable as a consequence of
+such default shall be in addition to and shall not constitute a
+substitute  for,  discharge,  waiver,  reduction,  adjustment  or
+satisfaction of the principal amount of INR 79,00,000/-.
+2.2.3.5.  The  obligation  to  pay  the  full  INR  79,00,000/-  shall
+continue  until  the  entire  principal  amount  has  actually  been
+received in the Son's bank account. The Wife and/or the Son shall
+be entitled to immediately enforce the Husband's obligation for
+payment of the entire  outstanding  principal  amount,  together
+with such interest, costs and other remedies as may be available
 3
 
 --- Page 5 ---
-Mr. Annam Venkatesh, Adv.
-Mr. Bhuvan Kapoor, Adv.
-Ms. Sansriti Pathak, Adv.
-Ms. Astha Singh, Adv.
-Ms. Srishti Mishra, Adv.
-Ms. Pragya Choudhary, Adv.
-Mr. A.K. Sharma, AOR
-For applicant(s)
-in IA/impleader: Mr. Vipin, Adv.
-Mr. Hemraj Murmu, Adv.
-Mr. Ajit Kumar Ekka, AOR
-Mr. Sunil Roy, Adv.
-Ms. Dimple Singh, Adv.
-Mr. Kaffi Beniwal, Adv.
-Mr. Praneet Pranav, Adv.
-Mr. Bhaskar Gautam, Adv.
-Mr. V.C. Shukla, AOR
-Mr. Lakshya S. Pandey, Adv.
-Ms. Astha Singh, Adv.
-Ms. Isha B., Adv.
-Mr. Saurabh Mishra, Sr. Adv.
-Mr. Santosh Kumar, Adv.
-Mr. Tadimalla Bhaskar Gowtham, Adv.
-Mr. Alabhya Dhamija, AOR
-Mr. Vishal Kumar Singh, Adv.
-Mr. Vivek Kumar Pandey, Adv.
-Ms. Jyoti Tiwary, Adv.
-Mr. Krishna Kant Dubey, Adv.
-Mr. Gopal Jha, Adv.
-Ms. Jahnavi Verma, Adv.
-Mr. Jainendra Kumar, Adv.
-Ms. Mahima Pandey, Adv.
-Mr. Surya Pratap Tyagi, Adv.
-Mr. Sunil Kumar, Adv.
-Mr. Shrey Ravi Dambhare, Adv.
-Mr. Dheeraj, Adv.
-Mr. Sanjeev Kumar, Adv.
-Mr. Kunal Mehra, Adv.
-Mr. Pavan Narang, Sr. Adv.
-Mr. Piyush Beriwal, AOR
-Ms. Ruchita Srivastava, Adv.
-Mr. Sparsh Jain, Adv.
-Mr. Kirti Uppal, Sr. Adv.
-Mr. Neeraj, Applicant/intervenor in person
-Mr. Satya Ranjan Swain, Adv.
-Mr. Shoumendu Mukherji, AOR
-Mr. Rajesh Singh Chauhan, Adv.
+under this Deed and applicable law.
+2.2.3.6. The Husband shall not be entitled to withhold, set off,
+adjust, reduce, postpone or otherwise avoid payment of the said
+INR 79,00,000/- on account of any dispute, claim, alleged breach
+or proceeding between the Husband and the Wife.
+2.2.3.7.  The  obligation  to  pay  the  said  INR  79,00,000/-  shall
+remain fully binding and enforceable notwithstanding any change
+in the personal circumstances or status of either Party, including
+the remarriage of the Husband or the Wife, whether before or
+after the payment becomes due.
+2.2.3.8. No subsequent personal event or any other change in the
+personal  circumstances  of  either  Party,  shall  in  any  manner
+cancel,  reduce,  postpone,  modify,  extinguish,  invalidate  or
+otherwise  affect  the  Husband's  obligation  to  pay the  said  INR
+79,00,000/-.
+The aforesaid amounts shall be credited directly into the following bank
+account of the Son:
+a. Account Holder: Mr. Rhythm Jajoo
+b. Bank: HDFC Bank
+c. Branch: Malad West
+d. Account Number: 50100304758940
+e. IFSC: HDFC0001574
+2.2.4. INR 10,000/- [Rupees Ten Thousand only] per month shall
+be paid to the Son's account and  INR 15,000/- [Rupees Fifteen
+Thousand  only]  per  month  to  the  Daughter's  account,  for  84
+months starting October 2026, totaling to a total of INR 21,00,000/-
+[Rupees Twenty-One Lakh only] , for their day-to-day expenses.
+Each instalment will be paid by the Husband between the 1st and
+10th of each month.
+The aforesaid amounts shall be credited directly into the following bank
+account of the Daughter:
+a. Account Holder: Ms. Ishika Jajoo
+b. Bank: ICICI Bank
+c. Branch: Goregaon West
+d. Account Number: 777701155235
+e. IFSC: ICICI0004963
+2.3. All payments will be made by bank transfer to the accounts
+specified  in  this  Deed.  Bank  records  will  be  conclusive  proof  of
+payment. The Wife and the Daughter will acknowledge receipt in
+writing if requested.
 4
 
 --- Page 6 ---
-Mr. Kautilya Birat, Adv.
-Mr. Tushar Hazrati, Adv.
-Mr. B.L. Shivhare, Adv.
-Mr. Shivam Kumar, Adv.
-Mr. Himanshu Pathak, Adv.
-Mr. Vedansh Anand, Adv.
-Mr. Rahul G. Tanwar, Adv.
-Mr. Nishant Kumar, AOR
-Ms. Rachna Shrivastava, Sr. Adv.
-Mr. Akash Vajpai, AOR
- 
-          UPON hearing the counsel the Court made the following
-                             O R D E R
-1. Application  for  permission  to  file  contempt  petition  is
-allowed.
-2. In view of the urgent applications alleging violation of our
-earlier order dated 09.10.2026 and also alleging illegal detention
-of large number of individuals at Delhi on 10.10.2026, this Court
-has assembled for an urgent hearing.
-3. During hearing, Mr. K.K. Venugopal, Mr. Kapil Sibal, Mr. N.
-Hariharan, Mr. Gopal Sankaranarayanan, Dr. Menaka Guruswamy, Mr.
-Shadan Farasat, Dr. Monika Gusain, Mr. Shoeb Alam, Mr. Sanjay
-Hegde, learned senior counsel and Mr. Devvrat, learned AOR along
-with other learned senior counsel/counsel submitted that there were
-flagrant  violations  of  directions  given  in  our  order  dated
-09.10.2026; metro railway was not functioning; New Delhi railway
-station and Nizamuddin railway station remained closed; no traffic
-advisories were issued and large number of persons were subjected
-to undue harassment and illegal detention even beyond the area
-which was covered by the prohibitory order passed under Section 163
+2.4. Time is of the essence for every payment.
+2.5. The Son attains majority on 23.06.2029; until then, the Wife will
+operate his account as his guardian and use the amounts credited to
+it only for his benefit. Payments falling due after that date, including
+2.2.3,  will  be  made  to  the  same  account,  under  the  Son's  own
+operation.
+3. FULL AND FINAL SETTLEMENT
+3.1.  This  settlement  is  intended  to  close  every  monetary  and
+proprietary  claim  arising  out  of  the  marriage.  Accordingly,  in
+consideration of the Settlement Amount, the Wife gives up every
+claim, past, present or future, against the Husband and against his
+parents,  siblings,  relatives  and  family  members  (including  all
+respondents in the DV Case listed in Schedule I). This includes claims
+for: (a) maintenance under any law, including Sections 24 and 25 of
+the  HMA,  Section  125  of  the  Code  of  Criminal  Procedure,
+1973/Section 144 of the Bharatiya Nagarik Suraksha Sanhita, 2023,
+Section  18  of  the  Hindu  Adoptions  and  Maintenance  Act,  1956
+["HAMA"], and Sections 18 to 22 of the Protection of Women from
+Domestic Violence Act, 2005 [" DV Act"]; (b) alimony; (c) streedhan,
+jewellery,  gifts  and  dowry  articles;  (d)  right  of  residence  in  any
+shared  household  under  Section  17  of  the  DV  Act;  and  (e)
+compensation, damages and costs.
+3.2. The amounts to be paid as aforesaid shall also be in full and final
+settlement  of  the  Wife's  claim(s),  if  any,  towards  streedhan,
+jewellery, gifts and dowry articles etc. The Wife confirms that nothing
+further remains due to her on account thereof.
+3.3. The Children's rights, if any, in the estate of the Husband are
+governed exclusively by Clause 8.6 of this Deed, and no further or
+additional right is created by this Clause.
+3.4.  The  Husband,  in  consideration  of  the  mutual  settlement
+recorded in this Deed, gives up every claim, past, present or future,
+against  the  Wife  and  against  her  parents,  siblings,  relatives  and
+family members, including any claim for damages, compensation,
+costs, return of gifts, or any claim arising out of or in connection with
+the marriage, the Pending Proceedings, or the conduct of the Wife or
+her family in the course thereof.
+4. THE DAUGHTER
+4.1.  The  Daughter  is  a  major.  No  custody  or  guardianship
+arrangement applies to her. She is free to live with, meet and spend
 5
 
 --- Page 7 ---
-of the Bharatiya Nagarik Suraksha Sanhita, 2023 (“BNSS”).  It was
-also contended that there was a complete shutdown of the internet
-and that the city bore a curfew like look with suspension of
-transport and free movement of people and goods.
-4. In addition to such submissions, oral mentionings were made in
-respect of Diary No. 63952/2026, Diary No. 63943/2026 and Diary No.
-63944/2026 wherein similar prayers had been made.
-5. Dr. Menaka Guruswamy in support of the listed matters being
-Diary  No.63801/2026  (in  Diary  No.63560/2026)  and  Diary
-No.63858/2026 took us through the pleadings, wherein it has been
-averred that the metro railway stations namely GTB Nagar Metro
-Station and Viswavidyalaya Metro Station among other metro stations
-were completely shut out to public and there has been a deliberate
-and wilful violation of our order as aforesaid.
-6. Addressing  us  on  the  Habeas  Corpus  petition  (Diary
-No.63858/2026), Dr. Guruswamy forcibly contended that the prayer
-re: illegal detention is not merely restricted to the personalities
-referred to therein but is a plea against widespread illegal
-detention of about 7,000 individuals in the city.
-7. In rebuttal, Mr. Tushar Mehta, learned Solicitor General of
-India & Mr. S.V. Raju, learned Additional Solicitor General of
-India contend that the petitions which were orally mentioned have
-not been served on the Union and accordingly they are unable to
-assist the Court on the issues pleaded therein.
+time with either parent as she chooses.
+4.2. The Parties encourage the Daughter to meet the Husband, stay
+with  him,  speak  with  him  and  travel  with  him,  on  weekends,
+vacations, festivals, birthdays and otherwise. Being a major, she will
+do so of her own will, and the Wife will not obstruct or discourage
+this in any manner.
+4.3. The Daughter confirms that:
+a. she has read and understood this Deed;
+b. she unconditionally  and irrevocably waives, for all time, any
+claim against the Husband under Section 20(3) of the HAMA or any
+other law, in consideration of the arrangements recorded in Clause
+2 and Clause 6. This waiver takes effect on execution of this Deed
+and is not contingent on the Husband's continued performance of
+4.4. The Daughter's rights, if any, in the estate of the Husband are
+governed exclusively by Clause 8.6 of this Deed, and no further or
+additional right is created by this Clause.
+5. THE SON: CUSTODY AND ACCESS
+5.1. The Son will remain in the custody of the Wife. The Husband
+shall continue  to be his natural guardian under Section 6 of the
+Hindu Minority and Guardianship Act, 1956.
+5.2. The Husband shall have reasonable access to meet and spend
+time with the Son, and the Wife shall facilitate such access, subject
+always  to  the  Son's  academic  schedule,  school  commitments,
+examinations and overall welfare.
+6. CHILDREN'S FUTURE EXPENSES
+6.1.  The  Wife  will  arrange  and  bear  all  future  expenses  of  both
+Children; and no further demand on the Husband for these expenses
+shall be raised.
+6.2. The Parties and the Daughter confirm that this arrangement is in
+the best interests of the Children and that the Settlement Amount is
+fair and adequate for these purposes.
+6.3. The provision made for the Children's future expenses in this
+Clause is independent of, and does not enlarge, any right addressed
+in Clause 8.6 of this Deed.
 6
 
 --- Page 8 ---
-8. With  regard  to  the  allegations  made  in  the  Diary  No.
-63801/2026,  Mr.  Tushar  Mehta  orally  denies  and  disputes  the
-allegations of violation of order dated 09.10.2026 and contends
-that the Delhi Metro was functioning normally, however, 45 out of
-303 stations had been closed to maintain law and order.  In
-response to the Habeas Corpus petition, he denied any one had been
-illegally detained and otherwise the petition is infructuous as the
-detenues referred to have since been released.
-9. With regard to the submission that the essential services
-still remain suspended, he assured this Court that all metro
-stations are open since 10 p.m. yesterday, trains are functioning
-normally and internet connection has been restored.  With regard to
-a serious insinuation that Section 163 of the BNSS had been clamped
-in and around the Supreme Court premises, Mr. Mehta sought time to
-seek instructions.
-10. Other counsel have made prayers for intervention in these
-proceedings and contend that the fundamental freedoms must be
-exercised  in  a  reasonable  manner  and  must  be  subjected  to
-reasonable restrictions.
-11. Having heard the learned senior counsel as well as the learned
-Solicitor General of India and learned Additional Solicitor General
-of India, we note that our order dated 09.10.2026, inter alia, held
-as follows:
-“7.  It  appears  that  the  notifications  are
-overreaching, as they impose a complete ban upon
-essential public transportation. Upon our indication
+7. WITHDRAWAL OF PENDING PROCEEDINGS
+7.1.  The  object  of  this  settlement  is  that  no  litigation  survives
+between  the  Parties  or  their  families.  Accordingly,  all  Pending
+Proceedings listed in Schedule I will be withdrawn or disposed of as
+settled, viz.:
+(a) the Wife will unconditionally withdraw DV Case No. 0000443 of
+2025  [titled,  Priya  Kuldeep  Jajoo  v.  Kuldeep  Babulal  Jajoo  and  4
+Others] against the Husband and against all other respondents in it,
+within 2 weeks of dissolution of marriage, or such reasonable times
+as the Parties may agree;
+(b) G.W.O.P. No. 1779 of 2022 [ Smt. Priya Jajoo v. Sri Kuldeep Jajoo ],
+F.C.O.P.  No.  2083  of  2022  and  M.C.  No.  440  of  2024  will  be
+withdrawn or disposed of as settled, and the Parties will file the
+necessary documents and make the necessary statements before
+the concerned courts within 2 weeks of dissolution of marriage, or
+such reasonable times as the Parties may agree;
+(c) the Transfer Petitions, together with the applications in them, will
+be disposed of in terms of the settlement.
+7.2. Each Party bears its own costs, and will sign all applications,
+memos,  consent  terms,  affidavits  and  vakalatnamas,  and/or  any
+other necessary document needed to give effect to this Clause.
+7.3.  Each  Party  confirms  that,  apart  from  Schedule  I,  no  case,
+complaint, FIR or application filed at its instance is pending against
+the other or the other's family members.
+7.4.  Neither  Party  will  start,  support  or  instigate  any  new
+proceeding, civil or criminal, against the other or the other's family
+members, for anything connected with the marriage up to the date
+of the decree.
+8. PROPERTY AND INHERITANCE
+8.1.  The  Parties  intend  to  have  a  clean  and  complete  financial
+separation. After the decree, neither Party will have any right, title,
+interest  or  claim  in  any  property.  asset,  investment,  business,
+inheritance or other asset of the other Party, whether owned now or
+acquired later, and whether self-acquired or otherwise.
+8.2. On dissolution of marriage, each Party ceases to be a spouse
+and heir of the other Party under the Hindu Succession Act, 1956, or
+any other law.
 7
 
 --- Page 9 ---
-that a distinction exists between total ‘prohibition’
-and  the  ‘regulation’  of  Metro  and  other  train
-movements, learned Solicitor General of India has
-fairly agreed to impress upon the authorities to
-reassess such prohibitions. Consequently, they will
-permit the operation of Metro trains and other rail
-services  in  such  a  regulated  manner,  that  no
-inconvenience is caused to the residents and general
-public of Delhi, while adhering to the principles of
-proportionality.
-8. Regarding that assurance, we clarify that although
-there shall be no outright prohibition on the movement
-of Metro trains, a prudent decision may be made to
-permit the operation of Metro trains and other rail
-services in a suitable and regulated manner. Such a
-decision  should  be  widely  publicised  to  prevent
-further inconvenience.
-9. In this vein, a traffic advisory shall also be
-published in respect of smooth movement of vehicles in
-newspapers and on online platforms to ensure that no
-hardship or inconvenience is caused to the public in
-the course of traveling within the city. The order
-will be issued today to ensure that the decision
-receives publicity and that there is ample clarity on
-the prevailing circumstances.
-10. During the course of hearing, it was suggested,
-and learned senior counsel and counsel for the parties
-were  ad idem , that it is high time basic amenities
-were provided to those engaged in peaceful and lawful
-protest.  To  that  end,  suitable  alternative  sites
-capable of housing such infrastructure need to be
-identified and designated. Let the Competent Authority
-consider  this  suggestion  and  take  an  appropriate
-decision thereon.
-11. Let a compliance report be filed by the Delhi
-Metro  Rail  Corporation,  the  requisite  Railway
-authorities and Delhi Police (Traffic) in this regard
-within four days.
-12. Ordered accordingly.”
+8.3.  Each  Party  gives  up  all  claims  to  the  other  Party's  estate,
+service and terminal benefits, provident fund, gratuity, insurance
+proceeds  and  nominations  [and/or  anything  falling  under
+inheritance].
+8.4. Within 2 weeks of the decree, or such reasonable times as the
+Parties  may  agree,  each  Party  will  remove  the  other  Party  as
+nominee from its own accounts, policies, funds and investments, if
+so required. Until then, any amount received as nominee by one
+Party will be held in trust for the estate of the other Party.
+8.5. The Children have no present right, ownership or claim in the
+self-acquired property of either parent. Each Party remains free to
+hold, use, sell, gift or bequeath its self-acquired property, by Will or
+otherwise. Nothing in this Deed creates any such right in favour of
+the other Party or the Children. The Daughter confirms this Clause.
+8.6. The provisions made for the Children in this Deed are to take
+care/with respect to any share, right or expectation the Children may
+otherwise  claim  in  the  property,  estate  or  inheritance  of  the
+Husband, whether self-acquired or otherwise, during his lifetime or
+after.  The  Children  will  make  no  claim  to  the  Husband's  estate.
+Succession  to  his  estate  will  be  governed  only  by  his  Will.  The
+Daughter confirms and accepts this for herself. The Wife confirms
+that she will not raise, support or fund any such claim on behalf of
+the Son.
+8.7. Each Party may make a Will in favour of any person. Succession
+to each Party's estate will be governed by that Party's Will, and
+otherwise by law.
+8.8. The Parties confirm there are no joint bank accounts, lockers,
+investments or jointly held properties between them.
+8.9. The Wife will vacate and hand over vacant, peaceful possession
+of  Tower  4-601.  Rustomjee  Ozone,  Goregaon-Mulund  Link  Road,
+Goregaon (West), Motilal Nagar, Mumbai, Maharashtra 400104, to
+the Husband within 8 weeks of the dissolution of marriage, or such
+reasonable times as the Parties may agree, and will have no further
+right  of  residence  therein  under  Section  17  of  the  DV  Act  or
+otherwise, notwithstanding Clauses hereinabove.
+9. PERSONAL FREEDOM AND CONDUCT
+9.1.  After  the  dissolution  of  marriage,  each  Party  is  free  to  live
+independently, and to reside, work, travel, take personal decisions
+and/or remarry. Neither will interfere in the other's life, directly or
+indirectly.
 8
 
 --- Page 10 ---
-12. In summary, by the said order, firstly, the authorities
-concerned had been directed to revisit the earlier notification
-issued by Delhi Metro regarding closure of 57 metro stations
-keeping in mind the fact that the operation of metro train and
-other rail services may be regulated in appropriate situations but
-not prohibited outrightly. Secondly, the order had also directed
-the authorities to give wide publicity to the reconsidered decision
-to avoid further inconvenience to the public.  Thirdly, the order
-had directed fresh traffic advisories in newspapers and online
-platforms in respect of free vehicle movement. The order has also
-called upon the authorities to submit a compliance report within
-four days i.e., 13.10.2026.
-13. Having considered the submissions of the learned counsel for
-the parties and perused the averments in the Contempt Petition, we
-are of the opinion that the petitioners have made out a prima facie
-case.  Accordingly, we issue notice upon the alleged contemnors.
-They are directed to file counter affidavit to the said petition
-including a compliance report in terms of our order as aforesaid by
-13.10.2026. Their personal presence is dispensed with in the
-meanwhile. Similarly, notice is issued in Habeas Corpus Petition
-(Diary No.63858/2026).
-14. The other unlisted mentioned petitions shall be served upon
-the office of the Solicitor General during the course of the day
-and  shall  be  tagged  with  the  present  matters.
-Intervention/impleadment application(s) shall also be tagged with
-these matters.
+9.2. Neither Party will defame or disparage the other Party or the
+other  Party's  family  members,  in  any  forum,  including  and  not
+limited to social media.
+9.3. Neither Party will defame or disparage the other Party or the
+other Party's family members before the Children.
+9.4. The terms of this Deed are confidential, except for disclosures
+required as per law and/or to legal, tax and financial advisors.
+10. DEFAULT
+10.1. If the Husband misses any payment under Clause 2 and does
+not cure the default within 30 days of a written notice from the Wife
+specifying the default:
+a. the entire unpaid balance of the Settlement Amount becomes
+immediately due;
+b. the defaulted amounts carry interest at 12% per annum from the
+due date until payment; and
+c.  the  Wife  may  enforce  this  Deed  and  the  undertakings,  by
+execution and/or by contempt, and may revive her claims.
+10.2.  If  the  Wife  or  the  Daughter  breaches  this  Deed  while  the
+Husband is in compliance, the Husband may set up this Deed and
+the orders of the Hon'ble Court as a complete defence to any such
+proceeding  and  may  enforce  the  undertakings  and  seek  costs.
+However,  payments  meant  for  the  Children  under  Steps  "2.2.2",
+"2.2.3" and "2.2.4" will not be withheld on account of a breach by
+the Wife.
+10.3. Delay or indulgence by a Party in enforcing this Deed is not a
+waiver of its performance.
+11. UNDERTAKINGS TO THE HON'BLE COURT
+11.1. The Parties will file this Deed with their joint application and
+will each give an undertaking to the Hon'ble Supreme Court to abide
+by it. They will pray that the Deed and the undertakings be made
+part of the Hon'ble Court's order, and that a decree granting divorce
+may be passed accordingly.
+11.2. Once taken on record, any breach of this Deed will also be a
+breach  of  those  undertakings  made  before  the  Hon'ble  Supreme
+Court.
 9
 
 --- Page 11 ---
-15. Learned counsel have strongly urged for ad-interim reliefs
-with regard to smooth operation of metro rail, traffic, internet
-services  and  free  movement  of  people,  especially  lawyers,
-journalists  and  other  professionals.  Mr.  Mehta  has,  on
-instructions, submitted that internet facilities have since been
-restored and all metro railway stations are fully functional. He
-also  assures  the  Court  that  lawyers,  journalists  and  other
-professionals  shall  not  be  impeded  in  discharge  of  their
-professional duties.
-16. Taking note of such submissions, we direct as follows:
-(a) Metro trains and railway facilities shall function normally
-until and unless they need to be regulated keeping in mind
-reasonable restrictions envisaged under Article 19(2).
-(b) Similarly, free movement of people in the city shall be
-ensured  subject  to  law  and  order  situation  and/or  traffic
-regulations. Imposition of barricades on roads shall be reviewed
-forthwith to ensure free movement subject to law and order and
-traffic requirements. 
-(c) Internet facilities should function unhindered.
-(d) There shall be no illegal detention, particularly in cases of
-peaceful unarmed assemblage of people beyond the area where Section
-163 BNSS is in operation.
-(e) We have been informed that a notice board stating Section 163
-BNSS has been invoked in and around the precincts of the Supreme
-Court has been put up in the Court premises. We direct the
-authorities concerned to forthwith take down the said board, if not
+12. GENERAL
+12.1. This Deed is the entire agreement between the Parties on its
+subject  matter.  Any  change  must  be  in  writing,  signed  by  both
+Parties, and by the Daughter for clauses concerning her.
+12.2. If any clause is held invalid, the rest of the Deed remains in
+force and shall be treated as severable from the invalid clause.
+12.3. Notices, if any, will be in writing, delivered to the addresses
+stated above, and to the following emails:
+12.3.1. Husband:
+12.3.2. Wife:
+12.4. Notice, if any, may be addressed through other modes, as may
+be agreed by the Parties.
+12.5.  The  present  Deed  shall  be  governed  by  and  construed  in
+accordance with the laws of India, and the Parties agree to submit to
+the exclusive jurisdiction of the Courts in Mumbai.
+12.6. This Deed is executed in triplicate and will be stamped as
+required by law. The Parties will bear the respective stamp duty.
+12.7. Each Party, and the Daughter, has read this Deed, understood
+it, taken independent legal advice, and signed it voluntarily, without
+force, fraud, coercion, undue influence or misrepresentation.
+12.8.  The  Parties  hereto  confirm  and  declare  that  they  have
+voluntarily and of their own free will arrived at this Deed and agree
+to abide by the procedure as prescribed under the Act.”
+3. Both the parties are virtually present and they agree that settlement is
+voluntary without any threat, force, coercion or inducement and this Court after
+having interacted with the parties and being satisfied that settlement entered
+between them is out of free will and volition and the parties who are present
+virtually having been identified by their respective learned advocates, we are of
+the view that there is no impediment in accepting the same. Accordingly, the
+settlement agreement dated 25.08.2026 stands accepted
 10
 
 --- Page 12 ---
-already done, so that there is no apprehension with regard to
-ingress and egress to the Supreme Court or any other court of law. 
-(f) Lawyers, journalists and other professionals shall not be
-hindered in discharge of their professional duties in any manner
-whatsoever.
-17. List on 13.10.2026 for further consideration along with Diary
-No. 63952/2026, Diary No. 63943/2026, Diary No. 63944/2026 and
-application(s) for intervention/impleadment.
-(NITIN TALREJA)                            (PREETHI DILEEP KUMAR)
-ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
+4. Respondent-wife has agreed that she would receive the amount as indicated
+in Clause 2 of the settlement agreement including the amount which she would
+receive in future as per the time stipulated thereunder. In the light of the said
+agreement entered into between the parties and same being voluntarily, the
+same stands accepted.
+5. I.A. No.264271/2026 has been filed by the parties with a prayer for grant of a
+decree of divorce by mutual consent. In view of the settlement agreement
+entered into between the parties and despite efforts put forth by this Court for
+reunion of the parties, having not yielded any fruitful result, and both parties
+being well educated and being conversant with the consequences that would
+flow from the  dissolution  of the  marriage  and the differences  between the
+parties  having  reached  the  situation  where  they  cannot  reconcile  the
+differences, we are of the considered view that continuation of marriage would
+not serve any purpose. Hence, the prayer sought for dissolution of marriage,
+which  came  to  be  solemnized  on  02.12.2003  between  the  parties  stands
+dissolved.  The  disputes  that  are  pending  before  the  various  forums  stand
+quashed.
+6. In view of the above, the Registry is directed to draw the decree in terms of
+the  settlement  agreement  and  both  the  parties  are  directed  to  bear  their
+respective costs.
+7. The Transfer Petitions stand disposed of accordingly.
 11
+
+--- Page 13 ---
+8. Pending application(s), if any, shall stand disposed of.
+..................J.
+(ARAVIND KUMAR)
+..................J.
+(VIPUL M. PANCHOLI)
+NEW DELHI;
+OCTOBER 05, 2026.
+12
+
+--- Page 14 ---
+ITEM NO.41               COURT NO.11               SECTION XVI-A
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Transfer Petition(s)(Civil) No(s).987/2026
+KULDEEP JAJOO                                      Petitioner(s)
+                                VERSUS
+PRIYA JAJOO                                        Respondent(s)
+IA No. 264271/2026 - APPLN. UNDER SEC 142 OF THE CONSTITUTION R/W 
+SEC 13B OF H.M.A.
+IA No. 102673/2026 - EX-PARTE STAY
+ 
+WITH
+T.P.(C) No. 997/2026 (XVI-A)
+FOR FOR STAY APPLICATION ON IA 103730/2026
+IA No. 103730/2026 - STAY APPLICATION
+T.P.(Crl.) No. 354/2026 (XVI-A)
+FOR FOR EX-PARTE STAY ON IA 106548/2026
+IA No. 106548/2026 - EX-PARTE STAY
+ 
+Date : 05-10-2026 These matters were called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Mr. Nikilesh Ramachandran- 1406, AOR
+                   Mr. Shubham Seth, Adv.
+                   Mr. Aditya Krishnan, Adv.
+                   
+                   
+For Respondent(s) :Mr. Siddhartha Iyer- 3384, AOR
+                   Ms. Devina Bhandari, Adv.
+                   Ms. Jaispriya Poply, Adv.
+                   Mr. Aman Gupta, Adv.
+                   Mr. R. Gunaalan, Adv.
+                   Mr. Rajat Khattry, Adv.
+                   
+                   
+13
+
+--- Page 15 ---
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+Transfer Petitions are disposed of in terms of the Signed
+Order which is placed on the file.
+Pending application(s), if any, shall stand disposed of.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+14
+
+--- Page 16 ---
+              
+                   IN THE SUPREME COURT OF INDIA
+CIVIL ORIGINAL JURISDICTION
+TRANSFER PETITION(S)(CIVIL) NO.2775 OF 2025
+MOHIT KAUSHIK                                       PETITIONER
+                                VERSUS
+SHALINI DIXIT                                       RESPONDENT
+O R D E R
+1. This is a petition filed under Section 25 of the Code of Civil Procedure,
+1908. The petitioner has filed this Transfer Petition seeking the following reliefs:
+"Transfer  HMA  Petition  No.2510  of  2024,  titled  as  ‘Mohit
+Kaushik  v.  Shalini  Dixit’,  pending  before  the  Family  Court,
+Ghaziabad, Uttar Pradesh to the  Family Court, Karkardooma
+Court, New Delhi."
+2. We have heard the learned counsel for both the parties. Learned counsel
+for the respondent submits he has no objection. 
+3. Having heard the learned counsel for the petitioner and on perusal of the
+material on record, we find that the petitioner has made out a case for transfer
+of the aforesaid petition. 
+4. In the result, the Transfer Petition is allowed and HMA Petition No.2510
+of 2024, titled as ‘Mohit Kaushik v. Shalini Dixit’, pending before the Family
+Court,  Ghaziabad,  Uttar  Pradesh  is  hereby  transferred  to  the  Family  Court,
+Karkardooma Court, New Delhi.
+1
+
+--- Page 17 ---
+5. Registry to communicate this order to the transferor court for taking
+steps in accordance with this order. 
+6. On an application made by the respondent, the Court to which the case
+is transferred shall permit the respondent to appear through video-conference
+on all dates except on the dates on which his personal presence is absolutely
+mandatory.
+7. The transfer petition stands allowed in the aforesaid terms. 
+8. Pending application(s), if any, shall stand disposed of.
+  
+  ……………………………………………………………………J.
+                           [ARAVIND KUMAR]
+       ………………………………………………………………………J.
+    [VIPUL M. PANCHOLI]
+NEW DELHI;
+OCTOBER 09, 2026.
+2
+
+--- Page 18 ---
+ITEM NO.38               COURT NO.11               SECTION XVI-A
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Transfer Petition(s)(Civil)  No(s).  2775/2025
+MOHIT KAUSHIK                                      Petitioner(s)
+                                VERSUS
+SHALINI DIXIT                                      Respondent(s)
+MEDIATION REPORT RECEIVED 
+IA No. 250037/2025 - EX-PARTE STAY
+IA No. 250038/2025 - EXEMPTION FROM FILING O.T.
+ 
+Date : 09-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Mr. Niteen Kumar Sinha- 3262, AOR
+                   Mr. Vikram Pratap Singh, Adv.
+                   Mr. Prashant Gautam, Adv.
+                   Mr. Rajeshwar Kaithvas, Adv.
+                   
+For Respondent(s) :Mr. Yogendra Kumar Verma, Adv.
+                   Mr. Aditya Saurabh, Adv.
+                   Mr. Jayesh Kain, Adv.
+                   Mr. Arun Kumar Assija, Adv.
+                   Mr. Shivam Verma, Adv.
+                   Mr. Rohit Kumar Maurya, Adv.
+                   Mr. Abhaya Nath Das, Adv.
+                   Mr. K Gopinath, Adv.
+                   Mr. Mohd Yasin, Adv.
+                   Ms. Swati Khanna, Adv.
+                   Mr. Hitesh C Soni, Adv.
+                   Ms. Vaishali H Soni, Adv.
+                   Mr. Satish Kumar- 1822, AOR
+                                      
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+The Transfer Petition is allowed in terms of the Signed Order 
+which is placed on the file.
+Pending application(s), if any, shall stand disposed of.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+3
+
+--- Page 19 ---
+THE SUPREME COURT OF INDIA
+INHERENT JURISDICTION
+REVIEW PETITION (Crl)   Diary No(s). 45590    OF 2026  
+IN 
+PETITION FOR SPECIAL LEAVE TO APPEAL (Crl) Nos.7669-7670/2019 
+NAVIN MANGALDAS PATEL   Petitioner(s)
+                                VERSUS
+STATE OF GUJARAT & ORS.              Respondent(s)
+  O R D E R
+On perusal of Office Report dated 24.09.2026, we find
+that there are certain defects in the Review Petition(s).
+The defects were notified to the learned counsel on
+19.08.2026 and learned counsel has cured all the defects
+except providing three sets of paper books of the Special
+Leave Petitions.
+Application for oral hearing is rejected.
+There is a delay of 500 days in filing the Review
+Petition(s) which has not been satisfactorily explained.
+Even otherwise, h aving carefully gone through the Review
+Petition(s),  the  order(s)  under  challenge  and  the  papers
+annexed therewith, we are satisfied that there is no error
+apparent on the face of the record or any merit in the Review
+Petition(s),  warranting  reconsideration  of  the  order(s)
+impugned. 
+Contd..
+
+--- Page 20 ---
+- 2 -
+Accordingly, the Review Petition(s) is/are dismissed both
+on the ground of delay as well as on merits.
+However, all contentions with regard to  validity of the
+registration of FIR can be raised before the appropriate forum.
+Liberty is also reserved to file Review Petition before
+the High Court.
+Pending application(s) shall stand disposed of.
+      .....................J.
+  (B.V. NAGARATHNA)
+      .....................J.     
+NEW DELHI;   (SATISH CHANDRA SHARMA)
+OCTOBER 06, 2026
+
+--- Page 21 ---
+ITEM NO.1008                                       SECTION II-E
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+REVIEW PETITION (CRIMINAL) Diary No(s). 45590/2026
+[Arising out of impugned final judgment and order dated  14-02-2025
+in SLP(Crl) No. 7669/2019 14-02-2025 in SLP(Crl) No. 7670/2019
+passed by the Supreme Court of India]
+NAVIN MANGALDAS PATEL                              Petitioner(s)
+                                VERSUS
+STATE OF GUJARAT & ORS.                            Respondent(s)
+IA No. 286639/2026 - CONDONATION OF DELAY IN FILING
+IA No. 219981/2026 - ORAL HEARING
+ 
+Date : 06-10-2026 This matter was circulated today.
+CORAM : 
+         HON'BLE MRS. JUSTICE B.V. NAGARATHNA
+         HON'BLE MR. JUSTICE SATISH CHANDRA SHARMA
+                    By Circulation
+          UPON perusing papers the Court made the following
+                             O R D E R
+Application for oral hearing is rejected.
+The Review Petition(s) is/are dismissed both on the 
+ground of delay as well as on merits in terms of the 
+signed order.
+Pending application(s) shall stand disposed of.
+(NEETU SACHDEVA)                                (DIVYA BABBAR)
+DEPUTY REGISTRAR                              COURT MASTER (NSH)
+(SIGNED ORDER IS PLACED ON THE FILE)
+
+--- Page 22 ---
+THE SUPREME COURT OF INDIA
+INHERENT JURISDICTION
+REVIEW PETITION (C)   Diary No(s). 1512    OF 2026  
+IN 
+CIVIL APPEAL No.5488/2025 
+NIHAL SINGH   Petitioner(s)
+                                VERSUS
+AMIT KUMAR & ORS.                 Respondent(s)
+  O R D E R
+On perusal of Office Report dated 24.09.2026, we find
+that there are certain defects in the Review Petition. The
+defects were notified to the learned counsel on 11.03.2026
+but the same  have not been cured so far.
+Application for oral hearing is rejected.
+There is a delay of 231 days in filing the Review Petition
+which has not been satisfactorily explained.
+Even otherwise, h aving carefully gone through the Review
+Petition, the order under challenge and the papers annexed
+therewith, we are satisfied that there is no error apparent on
+the face of the record or any merit in the Review Petition,
+warranting reconsideration of the order(s) impugned.  Moreover,
+the miscellaneous application has already been disposed of with
+relief.
+Contd..
+
+--- Page 23 ---
+- 2 -
+Accordingly, the Review Petition is dismissed both on the
+ground of delay as well as on merits.
+Pending application(s) shall stand disposed of.
+      .....................J.
+  (B.V. NAGARATHNA)
+      .....................J.     
+NEW DELHI;    (M.M. SUNDRESH)
+OCTOBER 06, 2026
+
+--- Page 24 ---
+ITEM NO.1001                                       SECTION III-A
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+REVIEW PETITION (CIVIL) Diary No(s). 1512/2026
+[Arising out of impugned final judgment and order dated  23-04-2025
+in C.A. No. 5488/2025 passed by the Supreme Court of India]
+NIHAL SINGH                                        Petitioner(s)
+                                VERSUS
+AMIT KUMAR & ORS.                                  Respondent(s)
+IA No. 8753/2026 - ORAL HEARING
+ 
+Date : 06-10-2026 This matter was circulated today.
+CORAM : 
+         HON'BLE MRS. JUSTICE B.V. NAGARATHNA
+         HON'BLE MR. JUSTICE M.M. SUNDRESH
+                    By Circulation
+          UPON perusing papers the Court made the following
+                             O R D E R
+Application for oral hearing is rejected.
+The Review Petition is dismissed both on the ground 
+of delay as well as on merits in terms of the signed 
+order.
+Pending application(s) shall stand disposed of.
+(NEETU SACHDEVA)                                (DIVYA BABBAR)
+DEPUTY REGISTRAR                              COURT MASTER (NSH)
+(SIGNED ORDER IS PLACED ON THE FILE)
+
+--- Page 25 ---
+ITEM NO.1               COURT NO.11               SECTION II-A
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.)  No(s).  3888/2013
+[Arising out of impugned final judgment and order dated 08-12-2011
+in CRA No. 191/1990 passed by the High Court of Jharkhand at
+Ranchi]
+RABIN PANDEY ALIAS RABINDRA PANDEY                 Petitioner(s)
+                                VERSUS
+STATE OF BIHAR (NOW JHARKHAND)                     Respondent(s)
+FOR ADMISSION 
+IA No. 198894/2026 - GRANT OF BAIL
+Date : 08-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Mr. Barun Kumar Sinha Advocate, Adv.
+                   Mrs. Pratibha Sinha, Adv.
+                   Mr. Sneh Vardhan, Adv.
+                   Mr. Pankaj Kumar Shukla, Adv.
+                   Mr. Vaibhav Singh, Adv.
+                   Mr. Anantha Narayana M.G., AOR                  
+                   
+For Respondent(s) :Mr. Shantanu Sagar- 2058, AOR
+                   Mr. Anil Kumar, Adv.
+                   Mr. Prakash Kumar Mangalam, Adv.
+                   Mr. Abhishek Kumar Gupta, Adv.
+                   
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+IA No.198894/2026
+1. Heard the learned counsels appearing for the parties.
+2. Petitioner/applicant  has  been  arraigned  as  an  accused  for  the  offences
+punishable under Section 307 read with Section 34 of the  Indian Penal Code,
+1860 (IPC) later converted into Section 302 IPC, came  to be convicted after trial
+by judgment dated 07.09.1990.
+1
+
+--- Page 26 ---
+3. On an appeal being filed by all the accused persons, Uday Nath Pandey, (co-
+accused), came to be acquitted for the offences under Section 302 IPC. The
+present  petitioner/applicant  and  co-accused,  Kundan  Pandey,  came  to  be
+convicted and one more co-accused by name Smt. Kusum Devi died during the
+pendency of the appeal before the High Court and as such appeal got abated. 
+4. Having heard the learned counsels appearing for the parties, we notice that
+the cause for death as evidenced from the post-morten report is due to shock
+and haemorrhage on account of the injuries sustained. The injury sustained by
+the deceased is as under:
+“Bruise 4" x 1/2" over lower part of the Rt side of chest laterally.
+On dissection there was fracture of 8th & 9th ribs on the Rt side
+of chest. There was laceration of the liver. There was fracture of
+9th & 10th ribs on the left side of the chest. There was laceration
+of the spleen. The abdominal cavity was full of blood.” 
+5. Even according to the charge-sheet material the appellant was having a lathi
+and he had assaulted the deceased twice. As to whether the fatal injuries are
+attributable to the appellant or the injuries sustained due to the assault made
+by Smt. Kusum Devi , is an issue which will have to be evaluated by this Court
+on re-appreciation of the evidence since prima facie the medical evidence does
+not corroborate the injury allegedly caused by lathi on the deceased.
+6. Hence,  we  are  of  the  considered  view  that  petitioner/applicant  –  Rabin
+Pandey alias Rabindra Pandey, is entitled for the grant of bail by suspending the
+sentence imposed on him subject to the terms and conditions as jurisdictional
+court may deem fit to impose.
+7. Accordingly Interlocutory Application stands allowed.
+2
+
+--- Page 27 ---
+Registry to verify filing of I A No.24646/2026 and list the same along with
+the main matter(s).
+List the matter(s) after six weeks.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+3
+
+--- Page 28 ---
+ITEM NO.46               COURT NO.11               SECTION XVII-B
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Civil Appeal  No(s).  5619/2023
+EDELWEISS ASSET RECONSTRUCTION COMPANY LTD.        Appellant(s)
+                                VERSUS
+CHEMSTAR ORGANICS (INDIA) LIMITED & ANR.           Respondent(s)
+[As per ROP dated 18.09.2026 Mr. Devashish Bharuka, Learned Senior 
+Counsel has been appointed as Amicus Curiae to assist the Court.]
+ 
+IA No. 134389/2023 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT and IA No. 118132/2025 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES
+ 
+Date : 09-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Appellant(s) : Mr. Amarjit Singh Bedi- 1560, AOR
+                   Mr. R.P. Agrawal, Adv.
+                   Mr. Varun Chandiok, Adv.
+                   Ms. Riya Seth, Adv.
+                   Mr. Armaan Sharma, Adv.
+                   Ms. Manisha Agrawal, Adv.
+                   
+                   
+For Respondent(s) :Mr. Mahesh Agarwal, Adv.
+                   Mr. Shivam Shukla, Adv.
+                   Mr. Kaustubh Singh, Adv.
+                   Mr. Maj. Nirvikar Singh, Adv.
+                   Mr. E. C. Agrawala, AOR
+                   Mr. Aditya Shukla, AOR
+                   
+                   
+1
+
+--- Page 29 ---
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1.   Mr.Aditya Shukla, learned AOR,  appearing on behalf of Resolution
+Professional, seeks and granted two weeks’ time to file counter affidavit.
+2. We request Mr.Devashish Bharuka, learned Senior Counsel, who has
+been appointed as Amicus Curiae vide order dated 18.09.2026, to continue to
+assist the Court.  Learned Amicus Curiae is permitted to take the assistance of
+learned AOR of his choice for administrative convenience.
+3. List on 25.11.2026.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+2
+
+--- Page 30 ---
+IN THE SUPREME COURT OF INDIA
+CRIMINAL ORIGINAL JURISDICTION
+TRANSFER PETITION (CRIMINAL) NO.120 OF 2025
+SRI DEVI KOYA ..... PETITIONER
+              VERSUS
+GANESH KRISHNA KANYADHARI & ANR.   ..... RESPONDENTS
+O R D E R
+We do not find any good ground to entertain this petition. The
+Transfer Petition is, accordingly, dismissed.
+However,  the  petitioner  would  be  at  liberty  to  appear
+virtually  and  in  the  event  of  such  prayer  being  made,  the
+jurisdictional court adjudicating the O.S. No.1467/2024, shall
+grant the said prayer to the petitioner herein.
+ Pending application(s), if any, shall stand disposed of.
+..................J.
+(ARAVIND KUMAR)
+..................J.
+(VIPUL M. PANCHOLI)
+NEW DELHI;
+OCTOBER 09, 2026.
+
+--- Page 31 ---
+ITEM NO.37               COURT NO.11               SECTION II-E
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Transfer Petition(s)(Criminal)  No(s).  120/2025
+SRIDEVI KOYA                                       Petitioner(s)
+                                VERSUS
+GANESH KRISHNA KANYADHARI & ANR.                   Respondent(s)
+MEDIATION REPORT RECEIVED 
+IA No. 279626/2025 - AMENDMENT OF THE PETITION
+IA No. 40243/2025 - EX-PARTE STAY
+ 
+Date : 09-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) : Ms. Minakshi Vij- 1090, AOR
+                   
+For Respondent(s) :Mr. Dhurva Shankar Mishra- 4192, AOR
+                   Mr. Vikas Kumar Singh, Adv.
+                   Mr. Gopal Sharan Pathak, Adv.
+                   Ms. Archana Kumari, Adv.
+                   Ms. Kanchan Kumari, Adv.
+                   
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R’
+The Transfer Petition is dismissed in terms of the Signed 
+Order which is placed on the file.
+Pending application(s), if any, shall stand disposed of.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 32 ---
+ITEM NO.32               COURT NO.11               SECTION II-A
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+SPECIAL LEAVE PETITION (CRIMINAL) Diary No(s). 52570/2026
+[Arising out of impugned final judgment and order dated  22-04-2026
+in CRLA No. 107/2026 passed by the High Court of Judicature at
+Bombay]
+SHAFIQUE AHMED MOHAMMED SALIM                      Petitioner(s)
+                                VERSUS
+UNION OF INDIA & ORS.                              Respondent(s)
+IA No. 301934/2026 - CONDONATION OF DELAY IN FILING
+IA No. 301925/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+IA No. 301923/2026 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES
+IA No. 301929/2026 - PERMISSION TO FILE PETITION (SLP/TP/WP/..)
+ 
+WITH
+Diary No(s). 52574/2026 (II-A)
+IA No. 302736/2026 - CONDONATION OF DELAY IN FILING
+IA No. 302731/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+IA No. 302729/2026 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES
+IA No. 302734/2026 - PERMISSION TO FILE PETITION (SLP/TP/WP/..)
+Diary No(s). 58291/2026 (II-A)
+FOR ADMISSION and I.R.
+IA No. 295653/2026 - CONDONATION OF DELAY IN FILING
+IA No. 295646/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+IA No. 295640/2026 - PERMISSION TO FILE PETITION (SLP/TP/WP/..)
+ 
+Date : 09-10-2026 These matters were called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Ms. Rupali Francesca Samuel- 4335, AOR
+                   Mr. Aradhya Trivedi, Adv.
+                                      
+                   Ms. Nitya Ramakrishnan, Sr. Adv.
+                   Ms. Nitya Ramakrishnan, Adv.
+                   Mr. Yash S. Vijay- 3775, AOR
+                   Ms. Stuti Rai, Adv.
+                   Mr. Shahid Nadeem, Adv.
+                   Mr. Shikhar Aggarwal, Adv.
+1
+
+--- Page 33 ---
+                   Mr. Joshua Tom Thomas, Adv.
+                   Mr. Ishit Patel, Adv.
+                   Mr. Aditya Krishna, Adv.
+                   
+                   
+For Respondent(s) : 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+Diary No(s). 52570/2026 and Diary No(s). 52574/2026
+1. Delay condoned.
+2. Permission to file the petition is granted.
+3. Issue notice, returnable on 27.11.2026.
+Diary No(s). 58291/2026
+1. Delay condoned.
+2. Permission to file the petition is granted.
+3. Having heard learned senior counsel appearing for the petitioner(s)  it is
+noticed  that the  prayer sought for in the present petition  is for  expunging
+certain observations in Paragraph Nos. 14, 17 and 18 of the impugned order on
+the  ground  that  such  observations  may  prejudice  the  petitioner(s)  in  the
+pending Criminal Appeal No.440 of 2016 and connected appeals.
+4.  It is needless to state  that the  observations  made  under the  impugned
+order(s) in the aforesaid paragraphs is confined to the said case only. With this
+observation, the Special Leave Petition stands dismissed.
+5. Pending application(s), if any, shall stand disposed of.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+2
+
+--- Page 34 ---
+ITEM NO.36               COURT NO.11               SECTION XI
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (C)  
+No(s).  21377-21380/2026
+[Arising out of impugned final judgment and order dated  08-05-2026
+in WRITC No. 10755/2026 08-05-2026 in WRITC No. 12100/2026 08-05-
+2026 in WRITC No. 11154/2026 08-05-2026 in WRITC No. 12260/2026
+passed by the High Court of Judicature at Allahabad]
+M/S MAA DURGA MINING WORKS                         Petitioner(s)
+                                VERSUS
+STATE OF UTTAR PRADESH & ORS.                      Respondent(s)
+FOR ADMISSION 
+IA No. 175035/2026 - EXEMPTION FROM FILING O.T.
+ 
+WITH
+SLP(C) No. 21745/2026 (XI)
+IA No. 176670/2026 - EXEMPTION FROM FILING O.T.
+IA No. 176669/2026 - PERMISSION TO FILE PETITION (SLP/TP/WP/..)
+SLP(C) No. 29543/2026 (XI)
+FOR ADMISSION
+IA No. 226099/2026 - EXEMPTION FROM FILING O.T.
+IA No. 226097/2026 - PERMISSION TO FILE PETITION (SLP/TP/WP/..)
+SLP(C) No. 29544/2026 (XI)
+FOR ADMISSION..
+IA No. 220514/2026 - EXEMPTION FROM FILING O.T.
+IA No. 220513/2026 - PERMISSION TO FILE PETITION (SLP/TP/WP/..)
+ 
+Date : 09-10-2026 These matters were called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Mr. Abhimanyu Kumar Singla- 2678, AOR
+                   
+                   Mr. Pinaki Misra, Sr. Adv.
+                   Mr. Sharad Chauhan- 3518, AOR
+                   Mr. Utkarsh Sharma, Adv.
+                   Mr. Ashish Pandey, Adv.
+                   Ms. Jaya Singh, Adv.
+                   
+                   
+For Respondent(s) :Mr. Sharan Dev Singh Thakur, Sr. A.A.G.
+                   Mr. Sudeep Kumar- 2779, AOR
+                   Mr. Abhishek Saket, Adv.
+
+--- Page 35 ---
+                   Mr. Siddharth Thakur, Adv.
+                   Ms. Manisha, Adv.
+                   Ms. Rupali, Adv.
+                   Ms. Ayushi Srivastva, Adv.
+                   
+                   
+                   Mr. Shariq Ahmed, Adv.
+                   Mr. Tavleen Singh, Adv.
+                   M/s Ahmadi Law Offices- 3108, AOR
+                   
+                   
+                   Mr. Ardhendu Mauli Kumar Prasad, Sr. Adv.
+                   Mr. Utkarsh Sharma, Adv.
+                   Mr. Sharad Chauhan- 3518, AOR
+                   Mr. Ashish Pandey, Adv.
+                   
+                   
+                   Mr. Manish Tiwari- 3172, AOR
+                   Ms. Vibha Datta Makhija, Sr. Adv.
+                   Mr. Manish Tiwari, Adv.
+                   Mr. Abhishek Kr Chaubey, Adv.
+                   Mr. Kapil Gupta, Adv.
+                   Mr. Prabhu Singh, Adv.
+                   Mr. Sagar Devgan, Adv.
+                   Ms. Rohini Narayanan, Adv.
+                   
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+Learned counsel appearing for M/s. Kant Construction Company
+undertakes to file affidavit for withdrawing the writ applications
+filed before the High Court.
+Re-list these matters on 25.11.2026. 
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 36 ---
+ITEM NO.23               COURT NO.11               SECTION XIV
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (C)  
+No(s).  35066-35067/2026
+[Arising out of impugned final judgment and order dated  13-07-2026
+in OMP(COMM) No. 297/2026 23-09-2026 in IA No. 26307/2026 passed by
+the High Court of Delhi at New Delhi]
+M/S SAHYOG HOSPITALITY & ORS.                      Petitioner(s)
+                                VERSUS
+SUNDER LAL GUPTA & ORS.                            Respondent(s)
+IA No. 305062/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+IA No. 305063/2026 - EXEMPTION FROM FILING O.T.
+IA No. 305064/2026 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES
+ 
+Date : 09-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Mr. Dhruv Mehta, Sr. Adv.
+                   Mr. Vijay Kasana- 3369, AOR
+                   Mr. Mrinal Vardhan Singh, Adv.
+                   Mr. Aaditya Mishra, Adv.
+                   Mr. Kartikeya Sharma, Adv.
+                   Ms. Chetna Singh, Adv.
+                   Ms. Muskaan Khurana, Adv.
+                   Mr. Dewansh Shukla, Adv.
+                   Mr. Abhiroop Singh, Adv.
+                   Mr. Chirag Verma, Adv.
+                   Mr. Vaibhav Sharma, Adv.
+                   Mr. Kushank Khari, Adv.
+                   
+                   
+For Respondent(s) :Mr. Amarjit Singh Bedi, Adv.
+                   Ms. Surekha Raman, Adv.
+                   Mr. Shreyash Kumar, Adv.
+                   Mr. Sidharth Nair, Adv.
+                   Mr. Harshit Singh, Adv.
+                   Mr. Yashwant Senjebam, Adv.
+                   M/S.  K J John And Co- 1287, AOR
+                   
+                   
+
+--- Page 37 ---
+      
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1.  Shri Dhruv Mehta, learned Senior Counsel appearing for petitioner(s) has
+handed over a Demand Draft for Rs.2 crores to the learned counsel appearing
+for respondent(s), who has acknowledged the same without prejudice to the
+rights of the respondent(s). The said amount is towards arrears of rent.
+2. For payment of balance arrears of rent, re-list these matters on 15.10.2026.
+3. Status quo shall be maintained till the next date of hearing.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 38 ---
+ITEM NO.45               COURT NO.11               SECTION IX
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (C)  No(s).  8300/2021
+[Arising out of impugned final judgment and order dated  11-06-2021
+in WP No. 1745/2020 passed by the High Court of Judicature at
+Bombay at Aurangabad]
+PRITI & ORS.                                       Petitioner(s)
+                                VERSUS
+THE STATE OF MAHARASHTRA & ORS.                    Respondent(s)
+IA No. 74532/2021 - EXEMPTION FROM FILING AFFIDAVIT
+IA No. 74420/2021 - EXEMPTION FROM FILING AFFIDAVIT
+IA No. 72600/2021 - EXEMPTION FROM FILING AFFIDAVIT
+IA No. 93148/2021 - EXEMPTION FROM FILING AFFIDAVIT
+IA No. 72598/2021 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+IA No. 93146/2021 - EXEMPTION FROM FILING O.T.
+IA No. 72599/2021 - EXEMPTION FROM FILING O.T.
+IA No. 74419/2021 - INTERVENTION APPLICATION
+IA No. 93144/2021 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES
+IA No. 74522/2021 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES
+ 
+Date : 09-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) : Mr. Vatsalya Vigya- 3007, AOR
+                   
+For Respondent(s) :Mr. Shrirang B. Varma, Adv.
+                   Mr. Siddharth Dharmadhikari, Adv.
+                   Mr. Aaditya Aniruddha Pande- 3259, AOR
+                   
+                   Ms. Manisha T Karia, Sr. Adv.
+                   Mrs. Geetanjali Mohan- 206, AOR
+                   Ms. Ananya Arora, Adv.
+                   Ms. Shreya Gupta, Adv.
+                   Ms. Saumya Tiwari, Adv.
+                   Mr. Arth Arora, Adv.
+                   Mr. Deepin Deepak Sahani, Adv.
+                   Mr. Varun Khetwani, Adv.
+                   Mr. Vishal Navale, Adv.
+                   Mr. Kshitiz, Adv.
+                   
+
+--- Page 39 ---
+                   
+    
+        UPON hearing the counsel the Court made the following
+                             O R D E R
+Registry is directed to list this matter on 08.12.2026 along
+with all the connected matters as reflected in the Office Report
+which are against the same common impugned order.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 40 ---
+ITEM NO.41               COURT NO.11               SECTION II-E
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.)  No(s).  3463/2026
+[Arising out of impugned final judgment and order dated 08-10-2025
+in MCRL No. 36501/2025 passed by the High Court of Madhya Pradesh
+at Gwalior]
+DHEERENDRA SINGH PAWAN                             Petitioner(s)
+                                VERSUS
+ANFASUL HASAN & ORS.                               Respondent(s)
+ 
+WITH
+SLP(Crl) No. 1953/2026 (II-E)
+FOR PERMISSION TO FILE ADDITIONAL DOCUMENTS/FACTS/ANNEXURES ON IA 
+35005/2026 
+FOR EXEMPTION FROM FILING O.T. ON IA 35006/2026 
+FOR EXEMPTION FROM FILING O.T. ON IA 75801/2026 
+FOR MODIFICATION OF COURT ORDER ON IA 78204/2026 
+FOR APPLICATION FOR PERMISSION ON IA 165131/2026 
+FOR APPLICATION FOR PERMISSION ON IA 165764/2026
+IA No. 165764/2026 - APPLICATION FOR PERMISSION
+IA No. 165131/2026 - APPLICATION FOR PERMISSION
+IA No. 75801/2026 - EXEMPTION FROM FILING O.T.
+IA No. 35006/2026 - EXEMPTION FROM FILING O.T.
+IA No. 78204/2026 - MODIFICATION OF COURT ORDER
+IA No. 35005/2026 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES
+ 
+Date : 09-10-2026 This petition was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Dr. K.S. Chauhan, Sr. Adv.
+                   Mr. P.S. Teji, Sr. Adv.
+                   Mr. Ajit Kumar Ekka- 2765, AOR
+                   Mr. Abhishek Chauhan, Adv.
+                   Mr. R.S.M. Kalky, Adv.
+                   Mr. S.P. Singh, Adv.
+                   Mr. Ravi Shankar Singh, Adv.
+                   Ms. Deeksha Singh, Adv.
+                   Dr. Rajesh Kumar Dev, Adv.
+                   
+    
+
+--- Page 41 ---
+               
+For Respondent(s) :Ms. Sadhana Sandhu- 1929, AOR
+                   Mr. Shashank Singh- 3052, AOR
+                   
+                   Mr. B H Marlapalle, Sr. Adv.
+                   Mr. Avinash Kumar Saurabh, Adv.
+                   Mr. Raj Shekhar, Adv.
+                   Mr. Prashant Kumar, Adv.
+                   Mr. Deep Narayan, Adv.
+                   Mr. Amol Chitravanshi- 3819, AOR
+                                     
+                   Mr. Amit Sharma, A.A.G.
+                   Ms. Kanti, Adv.
+                   Mr. Yashraj Singh Bundela, AOR
+                   Mr. Arpit Garg, Adv.
+                   
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+List on 01.12.2026.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 42 ---
+ITEM NO.4               COURT NO.10               SECTION II
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+SPECIAL LEAVE PETITION (CRIMINAL) Diary No(s). 58731/2026
+[Arising out of impugned final judgment and order dated  19-09-2022
+in CRLMA No. 1/2022 passed by the High Court of Judicature at
+Allahabad, Lucknow Bench]
+SUNIL KUMAR YADAV                                  Petitioner(s)
+                                VERSUS
+THE STATE OF UTTAR PRADESH                         Respondent(s)
+IA No. 303376/2026 - CONDONATION OF DELAY IN FILING
+IA No. 303393/2026 - EXEMPTION FROM CUSTODY CERTIFICATE
+IA No. 303368/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+IA No. 303371/2026 - EXEMPTION FROM FILING O.T.
+ 
+Date : 12-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Mr. Pradeep Kumar Yadav, Adv.
+                   Ms. Anjale Kumari, Adv.
+                   Mr. P Murugesan, Adv.
+                   Mr. Taiyyab Khan Salmani, Adv.
+                   Mr. Tota Ram, Adv.
+                   Mr. Sanjeev Malhotra- 728, AOR
+                   
+                   
+For Respondent(s) : Mr. Namit Saxena- 2887, AOR
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Learned counsel appearing for petitioner submits that the application for
+grant of bail and suspension of sentence has subsequently been filed. If it is so,
+we request the High Court to consider the said application on its own merits and
+in accordance with law.
+
+--- Page 43 ---
+2.  In view of the above, we do not propose to entertain this petition and it
+stands dismissed without expressing any opinion on merits.
+3. The Special Leave Petition is, accordingly, dismissed on the ground of delay
+as well as on merits.
+4. Pending application(s), if any, shall stand disposed of.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 44 ---
+ITEM NO.51               COURT NO.3               SECTION XII-A
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (C)  No(s).  28907/2026
+[Arising out of impugned final judgment and order dated  30-07-2026
+in CRP No. 1329/2026 passed by the High Court for The State of
+Telangana at Hyderabad]
+SRI MALLAMPETA SRIKANTH GOUD                       Petitioner(s)
+                                VERSUS
+SRI CHENNAMANENI RAM KRISHNA HARI PAVAN KUMAR & ANR.Respondent(s)
+IA No. 264909/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 246414/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+IA No. 264911/2026 - EXEMPTION FROM FILING O.T.
+ 
+Date : 09-10-2026 This matter was called on for hearing today.
+CORAM : 
+         HON'BLE MRS. JUSTICE B.V. NAGARATHNA
+         HON'BLE MR. JUSTICE R. MAHADEVAN
+For Petitioner(s) : Mr. Narendar Rao Thaneer, Adv.
+Mr. Yannam Narapa Reddy- 3848, AOR
+                   
+For Respondent(s) :Mrs. K. Radha, Adv.
+                   Mr. K. Maruthi Rao, Adv.
+                   Mrs. Anjani Aiyagari- 1155, AOR   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+We  have  heard  learned  counsel  appearing  for  the  
+respective parties.
+Learned counsel for the respondent(s) submitted that the 
+decree granted in favour of the respondent(s) has been  
+executed and respondent(s) has/have been given the possession 
+of the suit scheduled property.
+In the circumstances, we do not find any reason to  
+interfere with the impugned order.The Special Leave Petition 
+is hence dismissed.
+Contd..
+
+--- Page 45 ---
+- 2 -
+However, we reserve liberty to the petitioner herein to 
+seek appropriate relief(s) as against the seller of the suit 
+scheduled property who happens to be mother in law of the 
+petitioner. 
+Pending application(s) shall stand disposed of.
+(NEETU SACHDEVA)                                (DIVYA BABBAR)
+DEPUTY REGISTRAR                               COURT MASTER (NSH)
+
+--- Page 46 ---
+ITEM NO.49               COURT NO.3               SECTION II-D
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+ CONMT.PET.(C) No. 625/2026 in Crl.A. No. 1302/2026
+AMMU AJITH                                         Petitioner(s)
+                                VERSUS
+PREM CHANDER                                       Respondent(s)
+[TO BE TAKEN UP AT 2.00 P.M.] 
+ 
+Date : 09-10-2026 This petition was called on for hearing today.
+CORAM : 
+         HON'BLE MRS. JUSTICE B.V. NAGARATHNA
+         HON'BLE MR. JUSTICE R. MAHADEVAN
+For Petitioner(s) :Mr. Akhil Suri, Adv.
+                   Mr. Ritik Malik, Adv.
+                   Ms. Geetanjali Setia, Adv.
+                   Ms. Manisha Suri, Adv.
+                   Mr. Nishi Kant Singh, Adv.
+                   Ms. Ila Shikhar Sheel- 2883, AOR
+                   Mr. Utsav Suri, Adv.
+                   Mr. Shikhar Sheel, Adv.                   
+                   
+For Respondent(s) : Mr. Mukund P. Unny- 3224 , AOR
+Mr. S. Asit Ali Zaidi, Adv.                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+We  have  heard  learned  counsel  appearing  for  the  
+respective parties.
+The  respondent  has  also  appeared  through  video  
+conferencing facility.
+We expect the respondent to comply with the terms of the
+Settlement  Agreement  as  expeditiously  as  possible.  For  
+that purpose, any cooperation required from the appellant  
+shall also be extended. We, therefore grant some time for the
+said purpose.
+Hence, list on 05.11.2026 at 02.00 P.M.
+For the aforesaid purpose, learned counsel for the  
+respective parties at U.K may interact with each other.
+(NEETU SACHDEVA)                                (DIVYA BABBAR)
+DEPUTY REGISTRAR                              COURT MASTER (NSH)
+
+--- Page 48 ---
+1
+ITEM NO.41               COURT NO.5               SECTION XVI-A
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Transfer Petition(Civil)  No.  786/2026
+POOJA                                              Petitioner(s)
+                                VERSUS
+BHARAT                                             Respondent(s)
+[MEDIATION REPORT RECEIVED] 
+(IA No. 86172/2026 - EXEMPTION FROM FILING O.T. & IA No. 86171/2026
+- STAY APPLICATION)
+ 
+Date : 12-10-2026 This matter was called on for hearing today.
+CORAM : 
+         HON'BLE MR. JUSTICE J.B. PARDIWALA
+         HON'BLE MR. JUSTICE K. VINOD CHANDRAN
+For Petitioner(s) : 
+                   Mr. H. D. Thanvi, Adv.
+                   Mr. Nikhil Kumar Singh, Adv.
+                   Mr. Kshitish Bikarmia, Adv.
+                   Mr. Rishi Matoliya- 2217, AOR                   
+For Respondent(s) : 
+                   Mr. Sanjay Kumar- 3569, AOR
+                   Mr. Harsh Nath Tiwari, Adv.
+                   Mr. Rishabh Jain, Adv.
+                   Mr. Param Nigam, Adv.
+                   Ms. Gaurika Prabhakar, Adv.                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. We are informed by the learned counsel appearing for the
+parties that the parties have by and large reached to a consensus
+before the Supreme Court Mediation Centre.
+2. The settlement agreement has been reduced into writing, duly
+signed by the parties, their respective counsel, including the
+learned mediator.
+3. The Settlement Agreement is ordered to be taken on record.
+4. There  are  some  obligations  which  the  parties  have  to
+discharge.
+
+--- Page 49 ---
+2
+5. They pray for six months' time in this regard.
+6. Post this matter after six months.
+7. In the meantime, all proceedings between the parties, civil
+and criminal, if any, shall remain stayed.
+8. Interim order to continue.
+ (VISHAL ANAND)                                    (POOJA SHARMA)
+DEPUTY REGISTRAR                                 COURT MASTER (NSH)
+
+--- Page 50 ---
+REVISED FOR APPEARANCE ONLY
+ITEM NO.15               COURT NO.11               SECTION II-B
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+SPECIAL LEAVE PETITION (CRIMINAL) Diary No(s). 58194/2026
+[Arising out of impugned final judgment and order dated 13-05-2026
+in CRMM No. 26142/2026 01-09-2026 in CRM No. 36243/2026 passed by
+the High Court of Punjab & Haryana at Chandigarh]
+GURJODH SINGH                                      Petitioner(s)
+                                VERSUS
+STATE OF PUNJAB                                    Respondent(s)
+IA No. 293912/2026 - CONDONATION OF DELAY IN FILING
+IA No. 293914/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+ 
+Date : 05-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Mr. M.M.S Bedi, Sr. Adv.
+                   Mr. Ashok Mathur- 55, AOR
+                   Ms. Shradha Zutshi, Adv.                   
+                   
+For Respondent(s) :Mr. Siddhant Sharma, AOR
+ 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+Delay condoned.
+Issue notice.
+List on 16.11.2026.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 51 ---
+ITEM NO.15               COURT NO.11               SECTION II-B
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+SPECIAL LEAVE PETITION (CRIMINAL) Diary No(s). 58194/2026
+[Arising out of impugned final judgment and order dated 13-05-2026
+in CRMM No. 26142/2026 01-09-2026 in CRM No. 36243/2026 passed by
+the High Court of Punjab & Haryana at Chandigarh]
+GURJODH SINGH                                      Petitioner(s)
+                                VERSUS
+STATE OF PUNJAB                                    Respondent(s)
+IA No. 293912/2026 - CONDONATION OF DELAY IN FILING
+IA No. 293914/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+ 
+Date : 05-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Mr. M.M.S Bedi, Sr. Adv.
+                   Mr. Ashok Mathur- 55, AOR
+                   Ms. Shradha Zutshi, Adv.                   
+                   
+For Respondent(s) : 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+Delay condoned.
+Issue notice.
+List on 16.11.2026.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 52 ---
+ITEM NO.27               COURT NO.11               SECTION II
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+CONMT.PET.(C) No. 822/2026 in SLP(Crl) No. 10398/2024
+PRAKASH ARSID                                      Petitioner(s)
+                                VERSUS
+PREETHI KARTAN                                     Respondent(s)
+ 
+Date : 09-10-2026 This petition was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Mr. Nitish Banka, Adv.
+                   Mr. Chand Qureshi- 3063, AOR
+                   Mr. Lakhshay Manchanda, Adv.
+                   Ms. Chetna, Adv.
+                   Ms. Sakshi Kumari, Adv.
+                   Mr. Lokesh Bhaimad, Adv.
+                   Mr. Saheel Baiymaad, Adv.
+                   Mr. Vijay Kumar, Adv.
+                   Mr. Sundeep Pandhi, Adv.
+                   
+For Respondent(s) : 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+Issue notice, returnable in eight weeks.
+Petitioner is permitted to take out notice by way of dasti and
+upon Mr. D Mahesh Babu,learned AOR, who is appearing in SLP (Crl.)
+No.10398/2024 on behalf of wife-Preethi Kartan.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 53 ---
+ITEM NO.33               COURT NO.11               SECTION XV
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (C)  
+No(s).  32120-32121/2026
+[Arising out of impugned final judgment and order dated  29-07-2026
+in DBCMA No. 2741/2026 06-08-2026 in DBCMA No. 2741/2026 passed by 
+the High Court of Judicature for Rajasthan at Jaipur]
+M/S GEO MILLER AND COMPANY PVT LTD                 Petitioner(s)
+                                VERSUS
+AJMER MUNICIPAL CORPORATION & ORS.                 Respondent(s)
+IA No. 272976/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT and IA No. 272979/2026 - EXEMPTION FROM FILING O.T.
+ 
+Date : 09-10-2026 This matter was called on for hearing today.
+CORAM : 
+         HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) : Ms. Shweta Sinha- 4136, AOR
+                   
+For Respondent(s) : 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Learned counsel appearing for the petitioner(s) seeks leave of the Court to
+withdraw  the  petitions  with  liberty  to  approach  the  High  Court.  Petitions
+dismissed  as  withdrawn.  We  reserve  liberty  to  the  petitioner(s)  to  file
+appropriate  application  for  vacating  or  modifying  the  impugned  order  by
+narrating all the facts and as deemed fit by the applicant. In the event of such
+an application being filed, the jurisdictional High Court shall consider the same
+on its own merits expeditiously.
+2.  With  this  observation  the  Special  Leave  Petitions  stand  dismissed  as
+withdrawn.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 54 ---
+ITEM NO.25               COURT NO.11               SECTION II
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.)  No(s).  15672/2026
+[Arising out of impugned final judgment and order dated  27-04-2026
+in A482 No. 8273/2023 passed by the High Court of Judicature at
+Allahabad]
+ALISHA @ ALISHA MANSOORI                           Petitioner(s)
+                                VERSUS
+SALMAN KHAN & ORS.                                 Respondent(s)
+FOR ADMISSION 
+IA No. 252228/2026 - EXEMPTION FROM FILING O.T.
+ 
+Date : 09-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :  Petitioner-in-person
+                    
+For Respondent(s) : 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+Ms. Ankita Sharma (AOR), Standing Counsel for the State of
+Chhattisgarh, is appointed as Amicus Curiae to assist the Court in
+the matter.
+List after two weeks
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 55 ---
+ITEM NO.1               COURT NO.10               SECTION II-D
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Criminal Appeal No(s).  441/2011
+CHAKKIARTH DASAN & ORS.                            Appellant(s)
+                                VERSUS
+THE STATE OF KERALA                                Respondent(s)
+IA No. 272274/2026 - GRANT OF BAIL
+Date : 12-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Appellant(s) : Mr. Siddharth Luthra, Sr. Adv.
+                   Mr. Nachiketa Joshi, Sr. Adv.
+                   Mr. Ankit Anandraj Shah, AOR
+                   Mr. Santosh Kumar, Adv.
+                   Mr. Tadimalla Bhaskar Gowtham, Adv.
+                   Mr. Alabhaya Dhamija, Adv.
+                   Mr. Sudheesh Kk, Adv.
+                   Mr. Rishikesh Haridas, Adv.
+                   Mr. Pankaj Singhal, Adv.
+                   Mr. Sai Shashank, Adv.
+                   Mr. Ankit Kumar Tiwari, Adv.
+                   Mr. Avneesh Kumar Upadhyaya, Adv.
+                   Mr. Amit Sharma, Adv.
+                   Ms. Tanushree Karnawat, Adv.
+                   Ms. Madhushruti Neelakanthan, Adv.
+                   Ms. Aditi Paul, Adv.                   
+                   
+For Respondent(s) :Mr. Harshad V. Hameed- 2127, AOR
+                   
+                   Mr. Aljo K. Joseph, AOR
+                   Mr. Sashwat Mishra, Adv.
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+Issue notice on IA No. 272274/2026, returnable in three weeks.
+Counter affidavit, if any, shall be filed within two weeks
+from today.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 56 ---
+ITEM NO.5               COURT NO.10               SECTION II-C
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+SPECIAL LEAVE PETITION (CRIMINAL) Diary No(s). 59820/2026
+[Arising out of impugned final judgment and order dated 24-06-2026
+in CRLOP No. 7260/2026 passed by the High Court of Judicature at
+Madras]
+S. ESWARAMOORTHY                                   Petitioner(s)
+                                VERSUS
+UNION OF INDIA                                     Respondent(s)
+IA No. 302225/2026 - CONDONATION OF DELAY IN FILING
+IA No. 302224/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+ 
+Date : 12-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Dr. G. Sivabalamurugan- 2197, AOR
+                   Mr. Selvaraj Mahendran, Adv.
+                   Mr. Harikrishnan, Adv.
+                   Mr. Kavinananth. C, Adv.
+                   Mr. Adi Kesavan, Adv.
+                   Ms. G.S. Shrinithi, Adv.
+                   
+                   
+For Respondent(s) :Mr. K.M.Nataraj, A.S.G.
+                   Ms. Astha Singh, Adv.
+                   Ms. Yashraj Bundela, Adv.
+                   Mr. Kartikay Aggarwal, Adv.
+                   Mr. Vinayak Sharma, Adv.
+                   Mr. Amrish Kumar- 2986, AOR
+                   Dr. Arun Kumar Yadav, Adv.
+                                      
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+Delay condoned.
+Issue notice, returnable in six weeks.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 57 ---
+ITEM NO.6               COURT NO.10               SECTION II-D
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.)  No(s).  19167/2026
+[Arising out of impugned final judgment and order dated  31-08-2026
+in BA No. 603/2026 passed by the High Court of Delhi at New Delhi]
+RAMAN PURI                                         Petitioner(s)
+                                VERSUS
+STATE OF NCT OF DELHI                              Respondent(s)
+FOR ADMISSION 
+IA No. 308130/2026 - EXEMPTION FROM FILING O.T.
+IA No. 308127/2026 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES
+ 
+Date : 12-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Mr. Puneet Jain, Sr. Adv.
+                   Mr. Saurabh Soni, Adv.
+                   Mr. Anupam Singh- 3182, AOR
+                   Ms. Mannat Singh, Adv.
+                   Mr. Sanjeet Thakur, Adv.
+                   Mr. Kratiney Goel, Adv.
+                   Mr. Abhyudai Mehrotra, Adv.
+                   Mr. Pavan Vashishth, Adv.
+                   Ms. Christy, Adv.
+                   
+                   
+For Respondent(s) : 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+Issue notice, returnable in eight weeks.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 58 ---
+ITEM NO.7               COURT NO.10               SECTION II-B
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.)  No(s).  19437/2026
+[Arising out of impugned final judgment and order dated  11-09-2026
+in CRMM No. 42285/2026 passed by the High Court of Punjab & Haryana
+at Chandigarh]
+RAM KARAN                                          Petitioner(s)
+                                VERSUS
+STATE OF HARYANA                                   Respondent(s)
+IA No. 312330/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+ 
+Date : 12-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Mr. Ajay Pal, Adv.
+                   Ms. Sugandh Rathor- 4393, AOR
+                   Mr. Mayank Dahiya, Adv.
+                   Mr. Kustubh Singh, Adv.
+                   
+                   
+For Respondent(s) : 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+We do not find any good ground to entertain this petition. The
+Special Leave Petition is, accordingly, dismissed. In the event of
+there being any change in the circumstances, the petitioner would
+be at liberty to move fresh bail application.
+Pending application(s), if any, shall stand disposed of.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 59 ---
+ITEM NO.54               COURT NO.10               SECTION II-D
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.)  No(s).  19641/2026
+[Arising out of impugned final judgment and order dated  01-10-2026
+in BA No. 5551/2026 passed by the High Court of Kerala at
+Ernakulam]
+HAFIZ HAMZA                                        Petitioner(s)
+                                VERSUS
+STATE OF KERALA                                    Respondent(s)
+IA No. 315254/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT and IA No. 315255/2026 - EXEMPTION FROM FILING O.T.
+ 
+Date : 12-10-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Mr. Shinoj K.Narayanan, Adv.
+                   Mr. K. Rajeev- 1352, AOR
+                   Ms. Niveditha R Menon, Adv.
+                   Mr. Aditya Verma, Adv.
+                   Mr. Tarun Kumar, Adv.
+                   Mr. Christy J Philip Vettickattu, Adv.
+                                      
+For Respondent(s) :Mr. Aljo K Joseph, AOR
+                   Mr. Sashwat Mishra, Adv. 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Issue notice.
+2. Mr. Aljo K Joseph, learned AOR, accepts and waives service of notice upon
+respondent-State.
+3. There shall be interim protection from any coercive steps being taken against
+the petitioner, until further orders, subject to the petitioner cooperating with the
+investigation and he shall appear before the Investigating Officer (IO) as and
+when called upon.
+4. List after four weeks.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 60 ---
+ITEM NO.802               COURT NO.10               SECTION XII
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (C)  No(s).  27601/2025
+[Arising out of impugned final judgment and order dated  17-02-2025
+in SMWP No. 1592/2015 passed by the High Court of Judicature at
+Madras]
+M/S BEACH MINERAL SANDS COMPANY & ORS.             Petitioner(s)
+                                VERSUS
+UNION OF INDIA & ORS.                              Respondent(s)
+ 
+Date : 12-10-2026 This petition was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) :Ms. Iyer Shruti Gopal- 3074, AOR
+                   
+For Respondent(s) :Mr. Sudarshan Lamba- 3667, AOR
+                   Ms. Vrinda Bhandari- 3550, AOR
+                   Mr. Shilp Vinod- 3811, AOR
+                   M/S.  Parekh & Co.- 1370, AOR
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+Tag with SLP (C) Nos.10939-10942 of 2025.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 61 ---
+ITEM NO.801               COURT NO.10               SECTION II-C
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.)  No(s).  15815/2026
+[Arising out of impugned final judgment and order dated  23-04-2026
+in Crl.A(D) No. 4/2024 passed by the High Court of Jammu & Kashmir
+and Ladakh at Jammu]
+DEEPAK SINGH                                       Petitioner(s)
+                                VERSUS
+UNION TERRITORY OF JAMMU AND KASHMIR               Respondent(s)
+FOR ADMISSION 
+ 
+Date : 12-10-2026 This petition was mentioned today.
+CORAM :  HON'BLE MR. JUSTICE ARAVIND KUMAR
+         HON'BLE MR. JUSTICE VIPUL M. PANCHOLI
+For Petitioner(s) : Mr. Manu Shanker Mishra- 1436, AOR
+                   
+For Respondent(s) : 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+Not to be deleted from the already notified date i.e. 13.10.2026.
+(RASHI GUPTA)                                   (AVGV RAMU)
+COURT MASTER (SH)                             COURT MASTER (NSH)
 
