@@ -1,403 +1,847 @@
 --- Page 1 ---
 Supreme Court of India
-Orders of the Day - 8 November 2026
+Orders of the Day - 10 November 2026
 # Case Reference Page Len.
-1 In Re: Curbing Air Pollution in the National Capital Region REGULATORY AND POLICY FRAM2 5
-2 A. TAMILARASI VS. THE GOVT. OF TAMIL NADU REP. BY ITS PRINIC 7 2
-3 Rishabh Duggal vs. Bar Council of India Through Its Chairman W.P.(C) No. 1023/2016 9 2
-4 Bar Council of the State of Telangana vs. Bar Council of Ind W.P.(C) No. 1451/2026 11 2
-5 Lt. Col (dr) Deep Shikha vs. Union of India W.P.(C) No. 1095/2022 13 2
+1 Shailendra Mani Tripathi vs. Union of India W.P.(Crl.) No. 280/2026 2 12
+2 Preeti Bansal vs. the State of Rajasthan C.A. No. 13994/2026 14 7
+3 Dlf Home Developers Limited (previously Eastern India Powert SLP(C) No. 20224/2021 21 2
+4 Ahsan Ur-rab vs. Mohd Rafi SLP(C) No. 38418/2026 23 1
+5 Sobhandeb Chattopadhyay vs. Honble Speaker, West Bengal Legi W.P.(C) No. 1419/2026 24 1
 
 --- Page 2 ---
 1
-ITEM NO.11               COURT NO.1               SECTION PIL-W
+ITEM NOS.41 + 48           COURT NO.1               SECTION PIL-W
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
-SUO MOTO WRIT PETITION(CIVIL)  No(s).  11/2026
-IN RE: CURBING AIR POLLUTION IN THE NATIONAL CAPITAL REGION -  
-REGULATORY AND POLICY FRAMEWORK, AIR QUALITY GOVERNANCE AND OTHER  
-ANCILLARY ISSUES ...Petitioner(s)
+Writ Petition(s)(Criminal)  No(s).  280/2026
+SHAILENDRA MANI TRIPATHI                           Petitioner(s)
+                                VERSUS
+UNION OF INDIA & ORS.                              Respondent(s)
+(IA  No.  252619/2026  -  APPROPRIATE  ORDERS/DIRECTIONS,  IA  No.  
+223792/2026 - APPROPRIATE ORDERS/DIRECTIONS, IA No. 217875/2026 -  
+APPROPRIATE ORDERS/DIRECTIONS, IA No. 258046/2026 - APPROPRIATE  
+ORDERS/DIRECTIONS, IA No. 226656/2026 - EXEMPTION FROM FILING O.T.,  
+IA No. 244626/2026 - EXEMPTION FROM FILING O.T., IA No. 228533/2026  
+- EXEMPTION FROM FILING O.T., IA No. 217464/2026 - INTERVENTION  
+APPLICATION, IA No. 252611/2026 - INTERVENTION APPLICATION, IA No.  
+221812/2026  -  INTERVENTION  APPLICATION,  IA  No.  244625/2026  -  
+INTERVENTION  APPLICATION,  IA  No.  237606/2026  -  INTERVENTION  
+APPLICATION, IA No. 228532/2026 – INTERVENTION/IMPLEADMENT, IA No.  
+228520/2026  –  INTERVENTION/IMPLEADMENT,  IA  No.  220095/2026  –  
+INTERVENTION/IMPLEADMENT,  IA  No.  218078/2026  –  
+INTERVENTION/IMPLEADMENT, IA No. 217465/2026 - PERMISSION TO APPEAR  
+AND ARGUE IN PERSON, IA No. 252621/2026 - PERMISSION TO APPEAR AND  
+ARGUE IN PERSON, IA No. 244549/2026 - PERMISSION TO APPEAR AND  
+ARGUE IN PERSON and IA No. 317371/2026 - PERMISSION TO FILE  
+ADDITIONAL DOCUMENTS/FACTS/ANNEXURES)
  
-Date : 06-11-2026 This petition was called on for hearing today.
-CORAM :  HON'BLE THE CHIEF JUSTICE
-         HON'BLE MR. JUSTICE JOYMALYA BAGCHI
-         HON'BLE MRS. JUSTICE V. MOHANA
-Ms. Aparajita Singh, Sr. Adv. (A.C.)
-Ms. Uttara Babbar,  Sr. Adv. (A.C.)
-Ms. Shibani Ghose, Adv. (A.C.)
-For Petitioner(s) : By Courts Motion
-Mr. Onkar Singh, Adv.
-Ms. Avni Singh, Adv.
-Ms. Anshika Singh, Adv.
-Ms. Shreya Singh, Adv.
-Ms. Sanya, Adv.
-Mr. Saurabh Singh, Adv.
-Mr. M.K. Singh, Adv.
-Mr. Ram Narayan Mohanty, Adv.
-  
-For Respondent(s) : Mrs. Aishwarya Bhati, A.S.G.
-                   Mr. Gurmeet Singh Makker- 2357, AOR
-                   Ms. Prerna Dhall, Adv.
-                   Ms. Medha Pushkarna, Adv.
-                   Ms. Shivika Mehra, Adv.
-                   Ms. Chitrangda Rastrwara, Adv.
-  
-                   Ms. Aishwarya Bhati, Sr. Adv.
-                   Ms. Jyoti Mendiratta- 1522, AOR
-                   Ms. Ananya Basudha, Adv.
-  
-                   Ms. Ruchi Kohli, Sr. Adv.
-                   Ms. Srishti Mishra- 3929, AOR
-                     
-                   Mr. Pradeep Misra- 510, AOR
-                   Mr. Daleep Dhyani, Adv.
-                   Mr. Manoj Kumar Sharma, Adv.
-                   Mr. Suraj Singh, Adv.
+WITH
+W.P.(Crl.) No. 279/2026 (X)
+[Dr. Monika Gusain, Senior Advocate and Mr. C. Solomon, Advocate-
+on-Record as learned Amicus Curiae Ms. Ashima Mandla, Advocate-on-
+Record, Mr. Daksh Kadian, Advocate and Ms. Astha Singh, Advocate-
+on-record as Nodal Officers]
+(IA  No.  213827/2026  -  APPROPRIATE  ORDERS/DIRECTIONS,  IA  No.  
+215310/2026  -  INTERVENTION  APPLICATION,  IA  No.  221781/2026  –  
+INTERVENTION/IMPLEADMENT  and  IA  No.  216101/2026  -  
+INTERVENTION/IMPLEADMENT)
+W.P.(Crl.) No. 286/2026 (PIL-W)
+W.P.(Crl.) No. 282/2026 (PIL-W)
+IA No. 215863/2026 - EX-PARTE AD-INTERIM RELIEF
+W.P.(Crl.) No. 283/2026 (PIL-W)
+(IA  No.  218921/2026  -  INTERVENTION  APPLICATION  and  IA  No.  
+217895/2026 - INTERVENTION APPLICATION)
 
 --- Page 3 ---
 2
-                   Mr. Anupam Misra, Adv.
-                   Mr. Dinesh Jindal, Adv. 
-Mr. Sanjiv Sen, Sr. Adv.
-Mr. Sanjay Vashishtha, Adv.
-Mr. Sankey Agarwal, AOR
-Mr. Prahalad Balaji, Adv.
-Ms. Jharna Singh, Adv.
-Mr. Lokesh Sinhal, Sr. AAG
-Mr. Rahul Khurana, AOR
-Ms. Bhavya Singla, Adv.
-Mr. Gurmeet Singh Makker, AOR
-Ms. T. Geetha, Adv. 
-          UPON hearing the counsel the Court made the following
-                             O R D E R
-1. This Suo Moto Writ Petition has been registered in pursuance  
-of the directions in judgement dated 12.03.2026 passed by this  
-Court in WP (C) No. 13029/1985. In that Writ Petition, this Court  
-was occasioned to deal with various issues concerning the degrading  
-air quality in the National Capital Region (NCR). Vide the above-
-cited judgment, we recognized that the scope of the proceedings in  
-the said Writ Petition were multi-faceted and required a more  
-contemporary method of addressing the wide variety of concerns  
-raised therein, thus directing the registration of five separate  
-Suo Moto Writ Petitions, each pertaining to a separate aspect of  
-air pollution in NCR. It was also clarified that these newly  
-registered cases would not be the closure of the proceedings in the  
-older Writ Petition, but amount to a re-shaping of the same.
-2. Ms. Aishwarya Bhati, learned ASG on behalf of the Union of  
-India and the Commission for Air Quality Management in National  
-Capital Region and Adjoining Areas (CAQM), Ms. Aparajita Singh, Ms.  
-Uttara Babbar, and Ms. Shibani Ghose, learned  Amici Curiae , and 
-other Senior Counsel/Counsel for the various parties have, thus,  
-addressed us on the steps taken meanwhile towards curbing the air  
-pollution in Delhi-NCR.
-3. Ms. Bhati has highlighted some of the efforts taken by the  
+W.P.(C) No. 917/2026 (PIL-W)
+(IA No. 217509/2026 - APPROPRIATE ORDERS/DIRECTIONS)
+W.P.(C) No. 958/2026 (PIL-W)
+W.P.(C) No. 959/2026 (PIL-W)
+W.P.(C) No. 973/2026 (PIL-W)
+(IA No. 229510/2026 - APPROPRIATE ORDERS/DIRECTIONS)
+W.P.(Crl.) No. 324/2026 (X)
+Dr. Monika Gusain, Senior Advocate and Mr. C. Solomon, Advocate-on-
+Record as learned Amicus Curiae
+Ms. Ashima Mandla, Advocate-on-Record, Mr. Daksh Kadian, Advocate 
+and Ms. Astha Singh, Advocate-on-record as Nodal Officers
+(IA No. 241573/2026 - APPLICATION FOR TAGGING/DETAGGING, IA No.  
+241569/2026 - EX-PARTE AD-INTERIM RELIEF, IA No. 278708/2026 -  
+EXEMPTION FROM FILING O.T. and IA No. 241576/2026 - EXEMPTION FROM  
+FILING O.T.)
+W.P.(C) No. 969/2026 (PIL-W)
+(IA  No.  323884/2026  -  APPROPRIATE  ORDERS/DIRECTIONS,  IA  No.  
+323883/2026 - EARLY HEARING APPLICATION, IA No. 228490/2026 -  
+PERMISSION TO APPEAR AND ARGUE IN PERSON and IA No. 323886/2026 -  
+PERMISSION TO PLACE ON RECORD SUBSEQUENT FACTS)
+W.P.(C) No. 1042/2026 (PIL-W)
+(IA  No.  259093/2026  -  APPROPRIATE  ORDERS/DIRECTIONS,  IA  No.  
+259264/2026 - APPROPRIATE ORDERS/DIRECTIONS, IA No. 259091/2026 -  
+INTERVENTION APPLICATION)
+W.P.(Crl.) No. 321/2026 (X)
+(IA No. 318070/2026 - WITHDRAWAL OF CASE / APPLICATION)
+W.P.(C) No. 1066/2026 (PIL-W)
+(IA No. 269937/2026 - PERMISSION TO FILE ADDITIONAL DOCUMENTS/FACTS  
+/ANNEXURES)
+W.P.(C) No. 930/2026 (PIL-W)
+(IA No. 237832/2026 - INTERVENTION APPLICATION)
+WITH
+ITEM NO. 48
+Transfer Case (Criminal)  No(s).  6/2026
+ 
+Date : 05-11-2026 These matters were called on for hearing today.
+CORAM :  HON'BLE THE CHIEF JUSTICE
+         HON'BLE MR. JUSTICE JOYMALYA BAGCHI
+For Petitioner(s) :Dr. Abhishek Manu Singhvi, Sr. Adv.
+                   Mr. Shoeb Alam, Sr. Adv.
 
 --- Page 4 ---
 3
-Union of India as well as the different States/NCT, including,  
-inter alia, the restrictions on vehicular emissions and measures to 
-reduce stubble burning. At the same time, learned Amici Curiae have 
-pointed out that the compliance of previous orders, especially  
-orders dated 21.01.2026 and 23.02.2026, is yet to be properly  
-reported to this Court.
-4. Having  heard  learned  Amici  Curiae ,  ASG,  and  senior  
-counsel/counsel for the parties, it seems to us that substantive  
-consideration by this Court on each of the issues would require  
-that all the States place their submissions on (i) the steps taken  
-by them; (ii) their responses to each of the suggestions of the  
-CAQM and the Amici; and (iii) any action that they independently  
-propose to take moving forward. We thus grant the States two weeks’  
-time to place on record their submissions.
-5. During the course of proceedings, we were also apprised by the  
-learned  Amici Curiae , who placed before this Bench a graphical  
-representation depicting the status of compliance with the Graded  
-Response Action Plan (GRAP) for the period between 21.10.2026 and  
-03.11.2026. The data so presented indicates a substantial decline  
-in incidents of stubble burning across Delhi and the States of  
-Uttar Pradesh, Haryana and Rajasthan. While this development is  
-certainly laudable, the same data also brings to the fore a  
-converse and equally pressing concern, namely, the sharp increase  
-in issues attributable to vehicular emissions.
-6. It must be borne in mind that Delhi and the National Capital  
-Region  (NCR),  by  virtue  of  their  geographical  and  economic  
-interconnectedness, bear the cumulative burden of vehicular traffic  
-originating not merely within their own boundaries but also from  
-the neighbouring States of Uttar Pradesh, Haryana and Rajasthan.  
-The situation is further compounded by the substantial volume of  
-both commercial and non-commercial vehicles entering and plying  
-within the city from different parts of the region, thereby adding  
-to the existing vehicular emission load.
+                   Ms. Fauzia Shakil, Adv.
+                   Mr. Ujjwal Singh- 3226, AOR
+                   Ms. Nazmeen Ahmed, Adv.
+                   Mr. Khalid Ali, Adv.
+  
+                   Mr. Daksh Kadian, Adv.
+                   Ms. Trisha Chandran, AOR
+                   Mr. Tenzing Namgyal, Adv.
+                   Ms. Mallika Agarwal, Adv.
+                   Mr. Harsh Srivastava, Adv.
+                   Mr. Sreekar Aechuri, Adv.
+                   Ms. Smruthi Gangadharaiah, Adv.
+                   Ms. Aadya Khanna, Adv.
+                   Mr. Abhishek Singh, Adv.
+                   Mr. Mridul Godha, Adv.
+                   Ms. Ankita Gupta, Adv.
+                   Mr. Rithwik Narayanan, Adv.
+                   Ms. Sarah Ayreen Mir, Adv.
+                   Mr. Gladson Rodrigues, Adv.
+                   Ms. Aditi Singhal, Adv.
+  
+                   Mr. Gopal Sankaranarayanan, Sr. Adv.
+                   Mr. Gaurav Kumar, Adv.
+                   Mr. Shailendra Mani Tripathi, Adv.
+                   Mr. Naman Shresta, Adv.
+                   Ms. Pooja Shilpkar, Adv.
+                   Mr. Shourya Dasgupta, Adv.
+                   Mr. Smruthi Gangadharaiah, Adv.
+                   Mr. Priyendu Raghav Mishra, Adv.
+                   Mr. Mukesh Kumar, Adv.
+                   Mr. Himanshu Meena, Adv.
+                   Mr. Vishal Kumar, Adv.
+                   Mr. Sachin Hitkari- 4127, AOR
+                   Mr. Pulkit Agarwal- 2892, AOR
+                   Mr. Abhishek Sharma- 2061, AOR
+                   Mr. V. Elanchezhiyan- 2292, AOR
+                   Mr. Chand Qureshi- 3063, AOR
+                   Mr. Aakarshan Aditya- 2657, AOR
+                   Mr. Mahipal, Adv.
+                   Mr. Vibhu Tiwari, Adv.
+                   Mr. Tarurag Gaur, Adv.
+  
+                   Dr. Menaka Guruswamy, Sr. Adv.
+                   Mr. Subhash Chandran K.R., AOR
+                   Mr. Anirudh K.P., Adv.
+                   Ms. Shaswati Parhi, Adv.
+                   Ms. Anmol Gupta, Adv.
+                   Ms. Bhumika Yadav, Adv.
+                   Ms. Anuka Bachawat, Adv.
+                   Mr. Ribhav Pande, Adv.
+                   Mr. Madhav Aggarwal, Adv.
+                   M/s Krs Associates, Adv.
 
 --- Page 5 ---
 4
-7. There can be little doubt that the issue warrants urgent and  
-immediate  intervention.  Accordingly,  we  direct  the  Municipal  
-Corporation of Delhi (MCD), the Government of NCT of Delhi (GNCTD),  
-the Delhi Police (Traffic Department), as well as the States of  
-Haryana, Rajasthan and Uttar Pradesh, to file their respective  
-detailed responses before the next date of hearing, specifically  
-addressing the following aspects:
-(i) The existing regulatory framework and enforcement mechanisms  
-governing the entry and plying of commercial and non-commercial  
-vehicles within Delhi and the National Capital Region, particularly  
-those originating from neighbouring States;
-(ii) The measures presently in place to identify, monitor and  
-regulate vehicles that do not conform to the prescribed emission  
-standards, including the enforcement of Pollution Under Control  
-(PUC) certification requirements;
-(iii) The steps taken to prevent the entry and operation of over-
-age, end-of-life, or otherwise non-compliant vehicles within the  
-National Capital Region;
-(iv)  The  enforcement  measures  undertaken  against  violations,  
-including the number of vehicles inspected, challaned, denied entry  
-or otherwise proceeded against during the relevant period;
-(v) The coordination mechanisms between the authorities of Delhi  
-and the neighbouring States for regulating inter-State vehicular  
-movement and ensuring compliance with applicable emission norms;  
-and
-(vi) Any further short-term and long-term measures proposed or  
-contemplated to mitigate vehicular emissions and reduce their  
-contribution to the deteriorating air quality in Delhi and the  
-National Capital Region.
-The  respective  authorities  shall  also  indicate  the  specific  
-measures  proposed  to  strengthen  the  existing  enforcement  
+  
+                   Ms. Vrinda Grover, Adv.
+                   Ms. Devika Tulsiani, Adv.
+                   Mr. Naman Kumar, Adv.
+                   Mr. Soutik Banerjee- 4281, AOR
+  
+                   Mr. Sanjiv Narang- 3116, AOR
+  
+                   Mr. N Hariharan, Sr. Adv.
+                   Ms. Ashima Mandla- 3671, AOR
+                   Ms. Mandakini Singh, Adv.
+                   Mr. Nipun Saxena, Adv.
+                   Mr. Arjan Singh Mandla, Adv.
+                   Ms. Vanshika Tewari, Adv.
+  
+                   Mr. Narander Mishra, Adv.
+                   Ms. Aakanksha Tiwari, Adv.
+                   Ms. Preeti Chauhan, Adv.
+                   Mrs. Priyanka Dwivedi, Adv.
+                   Mr. Neeraj Shrivastava, Adv.
+                   Mr. Tilak Raj Passi, Adv.
+                   Mr. Gyanendra Kumar Pandey, Adv.
+                   Ms. Preeti Sirohi, Adv.
+                   Mr. Sudhanshu Tiwari, Adv.
+                   Mr. Awadhesh Kumar Dubey, Adv.
+                   Mr. Parimal  Kumar Sarkar, Adv.
+                   Ms. Dipika Malhotra, Adv.
+                   Dr. Ashutosh Bansal, Adv.
+                   Mr. Shiv Sagar Tiwari- 1165, AOR
+  
+                   Mr. Daksh Kadian, AOR
+  
+                   Ms. Tanushree Bhalla, Adv.
+                   Mr. Mohsin Alam, Adv.
+                   Ms. Meenu Padha, Adv.
+                   Mr. Akash, Adv.
+                   Mr. Ashish Pandey, AOR
+Mr. Shiv Sagar Tiwari, AOR
+Mr. Rakesh Kumar, Adv.
+in Item 48 By Courts Motion
+                   Ms. Ashima Mandla- 3671, AOR
+  
+For Respondent(s) :Mr. Tushar Mehta, Solicitor General
+                   Mr. Suryaprakash V. Raju, A.S.G.
+  
+                   Mr. Aishwarya Bhati, A.S.G.
+                   Ms. Astha Singh, Adv.
+                   Ms. Disha Thakkar, Adv.
+                   Mr. Bhuvan Kapoor, Adv.
+                   Mr. Annam Venkatesh, Adv.
 
 --- Page 6 ---
 5
-mechanisms,  together  with  a  time-bound  roadmap  for  their  
-implementation.
-8. In the interest of giving adequate and full attention to each  
-facet of the larger matter, we direct the Registry to list the  
-following cases on the date indicated:
-(i) SMW  (C)  No.12/2026  (Vehicular  Emissions  and  Pollution)-  
-23.11.2026.
-(ii) SMW (C) No.13/2026 (Conservation and Enhancement of Green  
-Cover)- 30.11.2026.
-(iii) SMW (C) No.14/2026 (Pollution by Construction Activities,  
-Power Plants, and Other Industries)- 26.11.2026.
-(iv) SMW (C) No.15/2026 (Solid Waste Management and Burning of Crop  
-Residue and Firecrackers)- 25.11.2026.
-9. The learned  Amici are requested to file their short notes,  
-apart from any lengthier written submissions, at least two days  
-prior to the date of hearing of the respective issue(s) so as to  
-enable the parties to address this Court on the various concerns  
-that are raised therein.
-10. The Registry shall ensure that Paragraph 19 of the judgment  
-dated 12.03.2026 is duly complied with and the instant Suo Moto  
-Writ Petition shall be treated as the lead matter, to be listed on  
-each of the above dates.
-11. In the course of hearing, the learned  Amici Curiae  have  
-requested that Ms. Shibani Ghose be recorded as the ‘filing  
-Amicus’, so that she is able to file the relevant documents through  
-the e-filing portal. The Registry is directed to do the needful and  
-allow the learned  Amici to e-file their documents through an  
-appropriate mechanism.
+                   Ms. Sairica Raju, Adv.
+                   Mr. Madhav Sinhal, Adv.
+                   Mr. Mukesh Kumar Singh, Adv.
+                   Mr. Amrish Kumar-aor, Adv.
+                   Dr. Arun Kumar Yadav, Adv.
+                   Mr. B.L.N. Sanjit, Adv.
+                   Mr. Arvind Kumar Sharma- 1133, AOR
+  
+                   Mr. Azmat Hayat Amanullah- 2758, AOR
+                   Ms. Rebecca Mishra, Adv.
+                   Ms. Vanshita Gupta, Adv.
+  
+                   Dr. N. Visakamurthy- 3411, AOR
+  
+                   Mr. Tushar Mehta, Solicitor General
+                   Mr. Tarun Johri- 1213, AOR
+                   Mr. Ankur Gupta, Adv.
+                   Mr. Vishwajeet Tyagi, Adv.
+  
+                   Mr. Akshay Verma- 2523, AOR
+                   Ms. Sushma Verma, Adv.
+                   Mr. Muneesh Sharma, Adv.
+  
+                   Mr. Harish Pandey- 1715, AOR
+                   Mr. Ghanshyam Singh, Adv.
+  
+                   Ms. Akansha- 4029, AOR
+                   Ms. Eliza Barr, Adv.
+                   Ms. Anjali Saxena, Adv.
+                   Mr. Govind Sharma, Adv.
+                   Mr. Saanil Patnayak, Adv.
+  
+                   Mr. S.D. Sanjay, Advocate General
+                   Ms. Aditi Tripathi- 3192, AOR
+                   Mr. Udayan Sinha, Adv.
+                   Ms. Shravya Pathak, Adv.
+  
+                   Mr. Shuvodeep Roy- 1672, AOR
+                   Mr. Saurabh Tripathi, Adv.
+                   Mr. Deepayan Dutta, Adv.
+  
+                   Mr. S.D. Sanjay, Advocate General
+                   Mr. Akshay Amritanshu- 3121, AOR
+                   Mr. Sarthak Srivastava, Adv.
+                   Mr. Akshat Aggrawal, Adv.
+                   Mr. Utkarsh Rai, Adv.
+                   Mr. Atharve Tiwari, Adv.
+  
+                   Mr. Abhay Anil Anturkar, Adv.
+                   Mr. Dhruv Tank, Adv.
+                   Mr. Sarthak Mehrotra, Adv.
+                   Ms. Surbhi Kapoor, AOR
+
+--- Page 7 ---
+6
+                   Mr. Uday Gautam, Adv.
+                   Ms. Aradhya Srivastava, Adv.
+                   Mr. Nakul Patwardhan, Adv.
+  
+                   Mr. Ashwarya Sinha, A.A.G.
+                   Ms. Ruchi Kohli, Sr. Adv.
+                   Ms. Srishti Mishra- 3929, AOR
+                   Ms. Srishti Mishra, AOR
+                   Mr. Kumar Saurav, Adv.
+                   Mr. Aditya Malhotra, Adv.
+                   Mr. Sankalp Mahindru, Adv.
+  
+                   Ms. Swati Ghildiyal- 3169, AOR
+                   Ms. Sonakshi Sinha, Adv.
+  
+                   Mr. Alok Sangwan, Sr. A.A.G.
+                   Mr. Samar Vijay Singh, AOR
+                   Mr. Sumit Kumar Sharma, Adv.
+                   Mr. Rajat Sangwan, Adv.
+                   Mr. Vaibhav Yadav, Adv.
+                   Mr. Harsh Mehla, Adv.
+                   Ms. Sabarni Som, Adv.
+                   Mr. Sahil Chaudhary, Adv.
+                   Mr. Vipul Jain, Adv.
+                   Mr. Vikrant Malwal, Adv.
+                   Mr. Vaskar Saha, Adv.
+  
+                   Mr. Anurag Pratyush Sahay- 4225, AOR
+                   Mr. Kartikeya Rastogi, D.A.G.
+                   Ms. Inderdeep Kaur Raina, Adv.
+  
+                   Mr. Nishant Patil, A.A.G.
+                   Mr. Sanchit Garga- 2748, AOR
+                   Mr. Shashwat Jaiswal, Adv.
+                   Mr. Arijit Dey, Adv.
+  
+                   Mr. Aljo K. Joseph, AOR
+                   Mr. Sashwat Mishra, Adv.
+                   Mr. Ajay M, Adv.
+  
+                   Mr. Prashant Singh, Advocate General
+                   Mr. D.S. Parmar, A.A.G.
+                   Mr. Amit Sharma, A.A.G.
+                   Mr. Harmeet Singh Ruprah- 2308, AOR
+                   Mr. Karan Singh, Adv.
+  
+                   Mr. Tushar Mehta, Solicitor General
+                   Mr. Siddharth Dharmadhikari, Adv.
+                   Mr. Aaditya Aniruddha Pande- 3259, AOR
+                   Mr. Shrirang B. Varma, Adv.
+                   Mr. Aditya Krishna, Adv.
+                   Ms. Sushmita Pandey, Adv.
+
+--- Page 8 ---
+7
+                   Ms. Arunima Das, Adv.
+                   Mr. Ashwin Arun Hirulkar, Adv.
+                   Ms. Kunika Bansal, Adv.
+                   Ms. Nupur Kumar- 3078, AOR
+  
+                   Mr. Rajan Kumar Chourasia, Adv.
+                   Mr. S. Udaya Kumar Sagar- 1132, AOR
+  
+                   Mr. Sameer Abhyankar- 2516, AOR
+                   Mr. Aryan Srivastava, Adv.
+                   Mr. Aakash Thakur, Adv.
+                   Ms. Yachna Sharma, Adv.
+  
+                   Ms. Devina Sehgal, AOR
+                   Mr. Yatharth Kansal, Adv.
+                   Mr. Srikanth Varma Mudunuru, Adv.
+  
+                   Ms. Ruchira Goel- 2477, AOR
+  
+                   Mr. Nishant Awana- 4068, AOR
+                   Mr. Suraj Kundu, Adv.
+                   Mr. Bhavesh Yadav, Adv.
+                   Mr. Amogh Pandey, Adv.
+  
+                   Mr. Tushar Mehta, Solicitor General
+                   Mr. Suryaprakash V. Raju, A.S.G.
+                   Mr. Varun Chugh, Adv.
+                   Mr. Krishna Kant Dubey, Adv.
+                   Ms. Archana Pathak Dave, A.S.G.
+                   Mr. Annam Venkatesh, Adv.
+                   Mr. Bhuvan Kapoor, Adv.
+                   Ms. Sairica Raju, Adv.
+                   Mr. Yashraj Singh Bundela, Adv.
+                   Ms. Astha Singh, Adv.
+                   Mr. Kamal Rattan Digpaul, Adv.
+                   Mr. Aman Mehta, Adv.
+                   Mr. Vikash Shukla, Adv.
+                   Mr. Yogya Rajpurohit, Adv.
+                   Mr. Shreekant Neelappa Terdal- 909, AOR
+  
+                   Mr. Aravindh S.- 2008, AOR
+                   Mr. Aadithya Aravindh, Adv.
+                   Ms. Anika Bansal, Adv.
+                   Mr. Vansh Malik, Adv.
+  
+                   Mr. Rahul Gupta- 3619, AOR
+                   Mr. C. Solomon- 3705, AOR
+  
+                   Mr. Sadashiv- 2364, AOR
+                   Mr. Mohd Shafat Ahamad, Adv.
+                   Mr. Mohd Arafat  Ahmad, Adv.
+                   Mr. Prashant Andrew Leo, Adv.
+
+--- Page 9 ---
+8
+                   Mr. Manoj Pandey, Adv.
+                   Mr. Sunil Kumar, Adv.
+                   Ms. Vandana, Adv.
+                   Mr. Ashish Kumar Pandey, Adv.
+                   Ms. Mumtaz Javed Shaikh, Adv.
+                   Mr. Gautam Barnwal, Adv.
+  
+                   Mr. Anilendra Pandey- 2501, AOR
+                   Mr. Animesh Shukla, Adv.
+                   Mr. Kamlesh Upadhyay, Adv.
+                   Mr. Nadeem Hussain, Adv.
+                   Ms. Aarati Sah, Adv.
+  
+                   Mr. Amit Rawal, Sr. Adv.
+                   Ms. Riahika, Adv.
+                   Mr. Kunal Mittal, Adv.
+                   Ms. Anindita Mitra, AOR
+                   Ms. Jaispriya Popli, Adv.
+  
+                   Mr. Tushar Mehta, Solicitor General
+                   Ms. Astha Singh- 3907, AOR
+                   Mr. Bhuvan Kapoor, Adv.
+  
+                   Mr. Tushar Mehta, Solicitor General
+                   Ms. Astha Singh- 3907, AOR
+                   Mr. Bhuvan Kapoor, Adv.
+  
+                   Ms. Ashima Mandla- 3671, AOR 
+  
+                   Mr. Sridhar Potaraju, Sr. Adv.
+                   Mr. Venkata Raghuvamsy D., AOR
+                   Ms. Chamundeswari P, Adv.
+                   Ms. Yashika Sharma, Adv.
+  
+                   Mr. Shadan Farasat, Sr. Adv.
+                   Mr. Yashwant Singh- 3912, AOR
+                   Mr. Harshit Anand, Adv.
+                   Mr. Nazrul Islam, Adv.
+                   Mr. Dheeraj Kumar, Adv.
+                   Ms. Anushka Dasgupta, Adv.
+  
+                   Mr. Ashwarya Sinha, A.A.G.
+                   Ms. Ruchi Kohli, Sr. Adv.
+                   Ms. Srishti Mishra- 3929, AOR
+                   Ms. Srishti Mishra, AOR
+                   Mr. Kumar Saurav, Adv.
+                   Mr. Aditya Malhotra, Adv.
+                   Mr. Sankalp Mahindru, Adv.
+  
+                    Applicant-in-person
+  
+                   Mr. Vivek Sharma- 3260, AOR
+
+--- Page 10 ---
+9
+                   Dr. Vijay Kumar Sharma, Adv.
+  
+                   Dr. Abhishek Manu Singhvi, Sr. Adv.
+Mr. Prashant Bhushan, Adv.
+                   Ms. Neha Rathi- 2613, AOR
+                   Mr. Omar Hoda, Adv.
+                   Mr. Amit Bhandari, Adv.
+                   Ms. Cheryl D Souza, Adv.
+                   Ms. Kajal Giri, Adv.
+                   Ms. Somya Kumari, Adv.
+                   Ms. Niharika Rathi Chaturvedi, Adv.
+                   Mr. Prateek Yadav, Adv.
+                   Mr. Rishav Ranjan, Adv.
+                   Mr. Aman Prasad, Adv.
+                   Mr. Pratul, Adv.
+                   Mr. Parimal Wagh, Adv.
+                   Mr. Huzaifa, Adv.
+  
+                   Mr. Aaditya Aniruddha Pande- 3259, AOR
+  
+                   Mr. Shuvodeep Roy- 1672, AOR
+                   Mr. Saurabh Tripathi, Adv.
+                   Mr. Deepayan Dutta, Adv.
+  
+                   Mr. Nishant Awana- 4068, AOR
+                   Mr. Suraj Kundu, Adv.
+                   Mr. Bhavesh Yadav, Adv.
+                   Mr. Amogh Pandey, Adv.
+  
+                   Mr. Azmat Hayat Amanullah- 2758, AOR
+                   Ms. Rebecca Mishra, Adv.
+                   Ms. Vanshita Gupta, Adv. 
+Mr. Avijit Mani Tripathi, AOR
+Mr. Z.H. Isaac Haiding, Adv.
+Mr. Daniel Stone Lyngdoh, Adv.
+Ms. Marbiang Khongwir, Adv. 
+Mr. Vinayak Sharma, Adv. 
+Mr. Harish Pandey, Adv.
+Mr. Ghanshyam Singh, Adv.
+Mr. Pawan Kumar Saxena, Adv.
+Mr. Charan Dass, Adv.
+Mr. Ravi Bhushan Pandey, Adv.
+Mr. Jasveer Rana, Adv. 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. The High Powered Enquiry Committee (“HPEC”) has submitted an  
+
+--- Page 11 ---
+10
+Action Taken Report dated 31.10.2026, which has been opened and  
+perused. According to the Report, the HPEC decided at its first  
+meeting, held on 01.09.2026, to create an online portal for  
+receiving complaints. The portal has been developed by the National  
+Informatics Centre with the support of the Ministry of Home  
+Affairs, and was launched at hpec.nic.in on 13.10.2026.
+ 
+2. It has been stated that complaints filed confidentially on the  
+portal are accessible only to the Chairperson and the Members of  
+the HPEC. It has further been stated that complaints can also be  
+filed anonymously, without disclosing the complainant's name, phone  
+number, address, or Aadhaar details. The portal also provides  
+separate windows and templates for affected protestors and for  
+affected police personnel.
+3. Pursuantly,  a  bilingual  public  notice  was  published  on  
+14.10.2026 in 149 newspaper editions across India. It provided for  
+submissions through the portal, by post, by e-mail, or physically  
+at the office of the HPEC at Shiksha Sadan, 17, Rouse Avenue, New  
+Delhi, between 1400 hrs and 1600 hrs on working days.
+4. The Report further states that, since there was “hardly any  
+response”, a press release was issued on 17.10.2026 through print  
+and electronic media, and a scroll was added to the portal from  
+21.10.2026 reiterating the alternative modes of submission. 
+
+--- Page 12 ---
+11
+5. However, despite these efforts, only a few complaints have  
+been received on the portal, and none by e-mail, post or physical  
+delivery. It is also evident from the Report that the HPEC has not  
+yet returned any findings on the issues referred to it.
+6. In light of the report,  we  have  impressed  upon learned  
+Counsel/Senior Counsel for the parties that there is no requirement  
+of disclosing the name or identity of any complainant or victim.  
+Let the parties forward the entire material in their possession to  
+the HPEC, whether through the portal, by e-mail, or physically, as  
+they may deem appropriate, so that the HPEC may consider the same.  
+Such  material  may  include  copies  of  the  writ  petitions  and  
+affidavits filed before this Court, and the video clips or other  
+material appended thereto. The material shall be received and dealt  
+with by the HPEC subject to the confidentiality safeguards directed  
+by this Court in its order dated 10.09.2026.
+7. We clarify that the material and information so forwarded by  
+the parties on behalf of the victims shall also be examined and  
+considered by the HPEC.
+8. The Member Secretary of the HPEC has, by a separate Memo dated  
+31.10.2026, placed on record the resignation of Dr. L.R. Bishnoi,  
+Former Director General of Police, Meghalaya, who was appointed as  
+a Member of the HPEC  vide our order dated 18.08.2026. For the  
+
+--- Page 13 ---
+12
+reasons stated in his letter dated 27.10.2026, the resignation is  
+accepted, and Dr. Bishnoi stands relieved from the membership of  
+the HPEC.
+9. The Union of India and the Delhi Police may file their  
+respective counter affidavits within three weeks. Wherever the  
+issues are common, a single comprehensive counter affidavit may be  
+filed, and the same shall be circulated through the learned Nodal  
+Officers.
+10. List on 02.12.2026.
 (NITIN TALREJA)                            (PREETHI DILEEP KUMAR)
 ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
 
---- Page 7 ---
+--- Page 14 ---
 1
-  
-ITEM NO.14               COURT NO.1               SECTION XII
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO.       OF 2026
+(Arising out of SLP(C) No.10176/2025)
+PREETI BANSAL APPELLANT(S)
+                              VERSUS
+THE STATE OF RAJASTHAN & ORS. RESPONDENT(S)
+O R D E R
+1. Leave granted.
+2. The instant  appeal has been filed by the  Appellant–Wife 
+assailing  the  judgment  and  final  order  dated  06.02.2025 
+passed by the Rajasthan High Court at Jaipur, in D.B. Habeas  
+Corpus  Petition  No.  7/2025,  whereby  the  habeas  corpus  
+petition filed by her for securing the custody of her two  
+minor children was dismissed.
+3. By way of brief background, the Appellant–Wife and Respondent 
+No. 6–Husband, Deepak Bansal, were married on 17.07.2013. Two  
+children were born from the wedlock. Due to differences  
+between the parties, the Court dissolved their marriage vide 
+a decree of divorce by mutual consent on 30.10.2018. The  
+parties  state  that  they  subsequently  remarried  in  2021; 
+however,  shortly  thereafter,  disputes  resurfaced  between  
+them,  leading  to  several  proceedings,  including  the  
+
+--- Page 15 ---
+2
+underlying habeas corpus petition.
+4. On 19.05.2025, when this matter was taken up for hearing, on  
+the suggestion of learned counsel for the parties, the matter  
+was referred to the Supreme Court Mediation Centre to explore  
+the possibility of an amicable settlement. 
+5. Pursuant thereto, the  Appellant–Wife and Respondent No. 6–
+Husband have amicably resolved their disputes and have filed  
+a joint application under Article 142 of the Constitution of  
+India read with Section 13-B of the Hindu Marriage Act, 1955.  
+Along with the application, the parties have placed on record  
+the Settlement Agreement dated 28.11.2025 (Agreement), which  
+is duly signed by the parties and their respective Advocates,  
+besides the Mediator.
+6. As per the Agreement, Respondent No. 6–Husband has agreed to  
+pay a total sum of Rs. 20,00,000/- (Rupees Twenty Lakhs only)  
+to the  Appellant–Wife towards full and final settlement of  
+her  claims  arising  out  of  the  matrimonial  relationship. 
+Pursuant thereto, a sum of Rs. 10,00,000/- (Rupees Ten Lakhs  
+only) was paid by demand draft and handed over to the  
+Appellant–Wife on the date of filing of the joint application  
+i.e.,  16.01.2026.  The  remaining  sum  of  Rs.  10,00,000/-  
+(Rupees Ten Lakhs only) has also been paid to the Appellant–
+Wife by way of a demand draft dated 28.10.2026, at the time  
+of hearing before this Court.
+7. In terms of the Agreement, the parties have further resolved  
+that:
+a. The permanent custody of the two minor children shall  
+
+--- Page 16 ---
+3
+remain with their father until they attain the age of  
+majority.
+b. The  Appellant–Wife shall have visitation and parenting  
+time with the children on dates mutually decided in  
+accordance with the convenience of the children. 
+c. The parties have agreed to bring to an end the following  
+pending  proceedings  arising  out  of  their  matrimonial 
+disputes: 
+(i) FIR No. 944/2024 registered at Police Station  
+Shipra Path, Jaipur; 
+(ii) FIR  No.  269/2022  registered  at  Women  Police 
+Station, Jaipur South; 
+(iii) S.B. Civil Writ Petition No. 3270/2023 before the 
+High Court of Rajasthan at Jaipur; 
+(iv) Transfer Petition (Criminal) No. 640/2024 before  
+this Court; 
+(v) Complaint Case No. 98/2023 before the Additional  
+Chief Judicial Magistrate, Sanganer, Jaipur; 
+(vi) FIR No. 64/2022; 
+(vii) Search warrant application dated 07.12.2023 under 
+Section 97 of the Code of Criminal Procedure; 
+(viii) Case No. CHI/67546/2023 before JMIC, Ludhiana;  
+and 
+(ix) Case No. COMI No. 64780/2023.
+d. The parties have also agreed to not initiate any further  
+complaint or legal proceedings against each other or their 
+respective family members in relation to the matrimonial  
+
+--- Page 17 ---
+4
+disputes settled between them.
+8. In light of the aforesaid Agreement, the parties have further  
+sought dissolution of their matrimonial relationship by a  
+decree of divorce by mutual consent in exercise of the powers  
+of this Court under Article 142 of the Constitution of India.
+9. Considering the fact that the parties have amicably resolved  
+their marital dispute, we allow the joint application, i.e.  
+I.A. No. 66890/2026, with the following directions:
+a. It  is  admitted  that  the  parties  have  been  living  
+separately since October 2022. A period of approximately  
+four years has elapsed since and now they have jointly  
+prayed for dissolution of their marriage by way of mutual  
+consent. We therefore accept their prayer and direct that  
+the marriage between the parties shall stand dissolved by  
+a decree of divorce by mutual consent in exercise of  
+powers under Article 142 of the Constitution of India.
+b. The custody and visitation arrangements in respect of the  
+two minor children shall be governed by the Settlement  
+Agreement dated 28.11.2025, subject to their welfare and  
+any order lawfully made in their best interests.
+c. The  proceedings  identified  in  paragraph  3  of  the  
+Settlement Agreement dated 28.11.2025 and reproduced in  
+paragraph 6(c) above, shall stand quashed or disposed of  
+as withdrawn/infructuous.
+10. The parties are directed to abide by the terms and conditions  
+of the Settlement Agreement dated 28.11.2025. The terms and  
+conditions thereof shall be treated as part of this order.
+
+--- Page 18 ---
+5
+11. The appeal is, accordingly, disposed of.
+12. Pending applications, if any, also stand disposed of.
+..........................CJI. 
+(SURYA KANT)
+............................J. 
+(JOYMALYA BAGCHI)  
+............................J. 
+(V. MOHANA) 
+       
+NEW DELHI;   
+OCTOBER 29, 2026
+
+--- Page 19 ---
+6
+ITEM NO.28               COURT NO.1               SECTION XV
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
-MISCELLANEOUS APPLICATION Diary No(s). 62785/2026
-[Arising out of impugned judgment and order dated 23-08-2026 in  
-SLP(C) No. 8051/2019 passed by the Supreme Court of India]
-A. TAMILARASI                                      Petitioner(s)
+Petition(s) for Special Leave to Appeal (C) No(s).10176/2025
+[Arising out of impugned final judgment and order dated 06-02-2025  
+in DBHCP No.07/2025 passed by the High Court of Judicature for  
+Rajasthan at Jaipur]
+PREETI BANSAL                                      Petitioner(s)
                                 VERSUS
-THE GOVT. OF TAMIL NADU REP. BY ITS PRINICIPAL 
-SECRETARY, DEPT. OF SCHOOL EDUCATION & ORS. Respondent(s)
-(IA No. 322220/2026 - CONDONATION OF DELAY IN FILING and IA No.  
-312859/2026 - RECALLING THE COURTS ORDER)
+THE STATE OF RAJASTHAN & ORS.                      Respondent(s)
+IA No. 66890/2026 - APPLN. UNDER SEC 142 OF THE CONSTITUTION R/W  
+SEC 13B OF H.M.A., IA No. 128328/2025 - EXEMPTION FROM FILING O.T.,  
+IA No. 90361/2025 - EXEMPTION FROM FILING O.T.
  
-Date : 06-11-2026 This matter was called on for hearing today.
+Date : 29-10-2026 This matter was called on for hearing today.
 CORAM :  HON'BLE THE CHIEF JUSTICE
          HON'BLE MR. JUSTICE JOYMALYA BAGCHI
          HON'BLE MRS. JUSTICE V. MOHANA
-For Petitioner(s) : Mrs. Haripriya Padmanabhan, Sr. A.A.G.
-                   Ms. Kanika Kalaiyarasan- 3896, AOR
-                   Ms. Kavya Venkatesh, Adv.
-                   Mr. Rhishigesh Ks, Adv.
-  
-For Respondent(s) : Mr. Brijender Chahar, ASG
-Mr. Ashok Panigrahi, Adv.
-Mr. Khushal Kolwar, Adv.
-Mr. Prakash Gautam, Adv.
-Mr. B.K. Satija, Adv.
-Mr. Amrish Kumar, AOR 
+For Petitioner(s) :Ms. Alpana Sharma- 3445, AOR
+                   Ms. Shivangi Singh, Adv.
+                   Mr. Raj Shekhar Sharma, Adv.
+                   Ms. Kanchan Kumari, Adv.
+                   Mr. Shah Mohd., Adv.
+                                      
+For Respondent(s) :
+R.1 to 5           Mr. S. Udaya Kumar Sagar- 1132, AOR 
+                   
+R.6                Mr. Sidrah Jami, Adv.
+                   Mr. Varun Chugh, Adv.
+                   Ms. Shagun Shahi Chugh, Adv.
+                   Ms. Meera Chugh, Adv.
+                   Ms. Sidrah Jami, Adv.
+                   Mr. Sumit Gautam, Adv.
+                   Mr. Kabir Singh, Adv.
+                   Mr. Prashant Rawat, AOR
+                                      
           UPON hearing the counsel the Court made the following
                              O R D E R
-1. Delay condoned.
-2. The Award dated 23.08.2026 passed during the Samadhan Samaroh  
-was made having regard to the peculiar facts and circumstances of  
-this particular case, without treating it as a binding precedent in  
-any other case. Even otherwise, the awards passed by this Court in  
+1. Leave granted.
+2. I.A. No. 66890/2026 is allowed and the  appeal is disposed of  
 
---- Page 8 ---
+--- Page 20 ---
+7
+in terms of the signed order.
+3. Pending applications, if any, also stand disposed of.
+(ARJUN BISHT)                              (PREETHI DILEEP KUMAR)
+ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
+(signed order is placed on the file)
+
+--- Page 21 ---
+1
+ITEM NO.50               COURT NO.1               SECTION XV
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (C)  No(s).  20224/2021
+[Arising out of impugned judgment and order dated 14-06-2021 in CRP  
+No. 71/2020 passed by the Gauhati High Court]
+DLF HOME DEVELOPERS LIMITED (PREVIOUSLY 
+EASTERN INDIA POWERTECH LTD.) Petitioner(s)
+                                VERSUS
+ASSAM POWER DISTRIBUTION COMPANY LTD. & ORS.       Respondent(s)
+(IA No. 337148/2026 - APPROPRIATE ORDERS/DIRECTIONS)
+ 
+Date : 05-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE THE CHIEF JUSTICE
+         HON'BLE MR. JUSTICE JOYMALYA BAGCHI
+For Petitioner(s) : Mr.  Pinaki Misra, Sr. Adv.
+Mr. Pravin Bahadur, Adv.
+Ms. Nandini Gore, Adv.
+Ms. Sonia Nigam, Adv.
+Mr. Akhil Abraham Roy, Adv.
+Mr. Akarsh Sharma, Adv.
+Mr. Vedant Choudhary, Adv.
+M/S. Karanjawala & Co.- 1707, AOR
+  
+For Respondent(s) : Mr. Nalin Kohli, Sr. Adv.
+                   Mr. Ankit Roy- 3248, AOR
+                   Mr. Anshul Malik, Adv.
+                   Mr. Ayuushman Arora, Adv.
+                   Ms. Mrinalini Ramesh, Adv.
+                   Mr. Prem Mankani, Adv.
+  
+                   Mr. Shuvodeep Roy- 1672, AOR
+                   Mr. Saurabh Tripathi, Adv.
+                   Mr. Deepayan Dutta, Adv.
+                   Mr. Kumar Abhishek, Adv. 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+IA No. 337148/2026
+1. This application has been filed jointly by the petitioner and  
+
+--- Page 22 ---
 2
-Samadhan  Samaroh  do  not  have  any precedential  value.  It  is  
-clarified that we are not inclined to recall the Award, even though  
-the authorized officers were not present or the officers who were  
-present were not duly authorized to appear . Additionally, it is  
-also directed that no punitive action shall be taken against the  
-officers concerned in connection with the passing of the Award.
-3. Miscellaneous Application stands disposed of with pending  
-application(s), if any.
-(NITIN TALREJA)                            (PREETHI DILEEP KUMAR)
+respondent  No.1  seeking  permission  of  this  Court  to  explore  
+amicable settlement through mediation.  The parties have suggested  
+the name of Hon’ble Mr. Justice B.R. Gavai, former Chief Justice of  
+India as the sole Mediator.  
+2. The prayer is accepted.
+3. Hon’ble Mr. Justice B.R. Gavai, former Chief Justice of India  
+is requested to act as a mediator between the parties.
+4. The  learned  Mediator  is  requested  to  determine  the  
+honorarium/fees to be paid to him, in consultation with the  
+parties. The application stands disposed of.
+5. List after receipt of the Mediation Report.
+(NITIN TALREJA)                             (PREETHI DILEEP KUMAR)
 ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
 
---- Page 9 ---
-1
-ITEM NO.28 COURT NO.1 SECTION X
-S U P R E M E C O U R T O F I N D I A
-RECORD OF PROCEEDINGS
-Writ Petition(s)(Civil) No(s).1023/2016
-RISHABH DUGGAL Petitioner(s)
-VERSUS
-BAR COUNCIL OF INDIA THROUGH ITS CHAIRMAN Respondent(s)
-IA No. 87186/2020 – CLARIFICATION/DIRECTION, IA No. 1/2016 - EX-
-PARTE STAY, IA No. 87190/2020 - EXEMPTION FROM FILING AFFIDAVIT, IA
-No. 87183/2020 - EXEMPTION FROM FILING AFFIDAVIT, IA No. 87181/2020
-- INTERVENTION APPLICATION, IA No. 70668/2017 - INTERVENTION
-APPLICATION, IA No. 2/2017 - PERMISSION TO FILE ANNEXURES
-Date : 06-11-2026 This matter was called on for hearing today.
-CORAM : HON'BLE THE CHIEF JUSTICE
-HON'BLE MR. JUSTICE JOYMALYA BAGCHI
-HON'BLE MRS. JUSTICE V. MOHANA
-For Petitioner(s) :Mr. Zoheb Hossain, Sr. Adv.
-Ms. Adeeba Mujahid- 2633, AOR
-Mr. Vivek Gurnani, Adv.
-Mr. Pranjal Tripathi, Adv.
-For Respondent(s) :Mr. Rishabh Sancheti, Adv.
-Dr. P. V. Saravanaraja- 2064, AOR
-Ms. Radhika Gautam- 2287, AOR
-Mr. K M Nataraj, A.S.G.
-Mr. Gurmeet Singh Makker, AOR
-Mr. Santosh Kumar, Adv.
-Mr. VVV Pattabhi Ram, Adv.
-Mr. Pranjay Ranjan, Adv.
-Mr. Anuj Udupa, Adv.
-Mr. B K Satija, Adv.
-Mr. Nipun Saxena, Adv.
-Ms. Astha Sharma, AOR
-Mr. Bhanu Mishra, Adv.
-Mr. Dev Nagar, Adv.
-Mr. B.D. Kundan Rao, Adv.
-Ms. Anisha Soni, Adv.
-Mr. Vinayak Mangal, Adv.
-Ms. Reema Jain, Adv.
+--- Page 23 ---
+ITEM NO.51               COURT NO.1               SECTION XIV
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (C)  No(s).  38418/2026
+[Arising out of impugned judgment and order dated 06-08-2026 in  
+RCREV No. 267/2026 passed by the High Court of Delhi at New Delhi]
+AHSAN UR-RAB & ANR.                                Petitioner(s)
+                                VERSUS
+MOHD RAFI                                          Respondent(s)
+Date : 05-11-2026 This petition was called on for hearing today.
+CORAM :  HON'BLE THE CHIEF JUSTICE
+         HON'BLE MR. JUSTICE JOYMALYA BAGCHI
+For Petitioner(s) :Mr. Gyanant Singh, Adv.
+                   Mr. Abhishek Rai, Adv.
+                   Dr. Hilaluddin, Adv.
+                   Mr. Sarthak Shankar, Adv.
+                   Mr. Ashish Choudhury- 3721, AOR
+                   Mr. Ranjeet Singh, Adv.
+  
+For Respondent(s) : 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Heard learned counsel for the petitioner(s).
+2. No case to interfere with the order passed by the Delhi High  
+Court is made out.  The Special Leave Petition is, accordingly,  
+dismissed.
+3. However, the petitioner(s) are given three months’ time to  
+vacate  the  premises,  subject  to  the  condition  that  the  
+petitioner(s) will file an undertaking by way of an affidavit  
+before the Executing Court that on expiry of the three months  
+period, they will handover peaceful vacant possession of the  
+property.
+4. Pending application(s), if any, also stand disposed of.
+(NITIN TALREJA)                             (PREETHI DILEEP KUMAR)
+ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
 
---- Page 10 ---
-2
-Mr. Uddyam Mukherjee, AOR
-Mr. Swapnil Pattanayak, Adv.
-Ms. Kratika Kushwaha, Adv.
-Ms. Meghna Nag, Adv.
-UPON hearing the counsel the Court made the following
-O R D E R
-1. Learned counsel for the Bar Council of India has produced a
-resolution dated 05.11.2026, whereby the earlier passed impugned
-circular dated 17.09.2016 has been withdrawn. The new resolution
-dated 05.11.2026 is taken on record.
-2. In view of the new resolution dated 05.11.2026, the instant
-petition is disposed of as having become infructuous.
-3. Pending applications, if any, also stand disposed of.
-(ARJUN BISHT) (PREETHI DILEEP KUMAR)
-ASTT. REGISTRAR-cum-PS DY. REGISTRAR
-
---- Page 11 ---
-1
-ITEM NO.25 COURT NO.1 SECTION X
-S U P R E M E C O U R T O F I N D I A
-RECORD OF PROCEEDINGS
-Writ Petition(s)(Civil) No(s).1451/2026
-BAR COUNCIL OF THE STATE OF TELANGANA Petitioner(s)
-VERSUS
-BAR COUNCIL OF INDIA & ANR. Respondent(s)
-IA No. 342709/2026 - STAY APPLICATION
-Date : 06-11-2026 This matter was called on for hearing today.
-CORAM : HON'BLE THE CHIEF JUSTICE
-HON'BLE MR. JUSTICE JOYMALYA BAGCHI
-HON'BLE MRS. JUSTICE V. MOHANA
-For Petitioner(s) :Mr. Dama Seshadri Naidu, Sr. Adv.
-Mr. P. Mohith Rao- 3826, AOR
-Mr. Aruva Raghuram Mahadev, Adv.
-Ms. J. Akshitha, Adv.
-Mr. Eugene S Philomene, Adv.
-Mrs. James Thushara, Adv.
-Ms. Divya Narayan, Adv.
-For Respondent(s) :Ms. Radhika Gautam, AOR
-Ms. S. Lakshmi Iyer- 3879, AOR
-Ms. Diksha Rai, Adv.
-Mr. Somanadri Goud Katam- 2824, AOR
-Ms. Shagun Srivastava, Adv.
-Mr. Rishabh Raj, Adv.
-Mr. Sirajuddin, Adv.
-Mr. Purvat Wali, Adv.
-UPON hearing the counsel the Court made the following
-O R D E R
-1. At the outset, Sh. Dama Seshadri Naidu, learned Senior Counsel
-for the Petitioner - Bar Council of the State of Telangana, states
-that the Petitioner is ready and willing to conduct a fresh
-election in accordance with the applicable law(s). Consequently, it
-is directed that the election may be held strictly in accordance
-
---- Page 12 ---
-2
-with the applicable law(s) and a report may be submitted to the
-Respondent - Bar Council of India regarding the conduct of such
-elections. Till such time, the order passed by Bar Council of India
-shall continue to operate.
-2. The Writ Petition is, accordingly, disposed of.
-3. Pending applications, if any, also stand disposed of.
-(ARJUN BISHT) (PREETHI DILEEP KUMAR)
-ASTT. REGISTRAR-cum-PS DY. REGISTRAR
-
---- Page 13 ---
-1
-ITEM NO.30 COURT NO.1 SECTION X
-S U P R E M E C O U R T O F I N D I A
-RECORD OF PROCEEDINGS
-Writ Petition(s)(Civil) No(s).1095/2022
-LT. COL (DR) DEEP SHIKHA & ORS. Petitioner(s)
-VERSUS
-UNION OF INDIA & ORS. Respondent(s)
-IA No. 190462/2022 - CLARIFICATION/DIRECTION
-Date : 06-11-2026 This matter was called on for hearing today.
-CORAM : HON'BLE THE CHIEF JUSTICE
-HON'BLE MR. JUSTICE JOYMALYA BAGCHI
-HON'BLE MRS. JUSTICE V. MOHANA
-For Petitioner(s) :Mr. Santosh Kumar Pandey- 2249, AOR
-For Respondent(s) :Mr. K.M. Nataraj, A.S.G.
-Ms. Madhulika Upadhyay, AOR
-Mr. Vatsal Joshi, Adv.
-Mr. Sharath Nambiar, Adv.
-Mr. Madhav Sinhal, Adv.
-Mr. Alabhaya Dhamija, Adv.
-Mr. Raman Yadav, Adv.
-Mr. K.M. Nataraj, A.S.G.
-Mr. Shreekant Neelappa Terdal- 909, AOR
-Mr. Vatsal Joshi, Adv.
-Mr. Sharath Nambiar, Adv.
-Mr. Madhav Sinhal, Adv.
-Ms. Alabhaya Dhamija, Adv.
-Mr. Raman Yadav, Adv.
-Mr. Prateek Bhatia- 3289, AOR
-UPON hearing the counsel the Court made the following
-O R D E R
-1. The Petitioner has filed the instant writ petition seeking
-directions to fill up vacancies of Super Speciality Courses in the
-Armed Forces Medical College (AFMC), Pune, and Army Hospital
-(Referral & Research), New Delhi, first from in-service Armed
-Forces Medical Services (AFMS) candidates, and only to offer the
-
---- Page 14 ---
-2
-remaining seats to non-AFMS candidates.
-2. Let the Union of India file a status report with respect to
-policy regimes, if any, notified to regulate these admissions.
-3. Post the matter on 11.12.2026.
-(ARJUN BISHT) (PREETHI DILEEP KUMAR)
-ASTT. REGISTRAR-cum-PS DY. REGISTRAR
+--- Page 24 ---
+ITEM NO.31               COURT NO.1               SECTION X 
+               S U P R E M E  C O U R T  O F  I N D I A 
+                       RECORD OF PROCEEDINGS 
+Writ Petition(s)(Civil) No(s).1419/2026 
+SOBHANDEB CHATTOPADHYAY                            Petitioner(s) 
+                                VERSUS 
+HONBLE SPEAKER, WEST BENGAL LEGISLATIVE  
+ASSEMBLY ESPLANADE ROW WEST & ORS.      Respondent(s) 
+Date : 05-11-2026 This petition was called on for hearing today. 
+CORAM :  HON'BLE THE CHIEF JUSTICE 
+         HON'BLE MR. JUSTICE JOYMALYA BAGCHI 
+For Petitioner(s) :Ms. Preetika Dwivedi- 2078, AOR 
+                   Mr. Abhisek Mohanty, Adv. 
+                   Mr. Ansh Rajauria, Adv.                    
+                    
+For Respondent(s) :  
+          UPON hearing the counsel the Court made the following 
+                             O R D E R 
+1. Having heard learned counsel for the petitioner, it seems to 
+us that the appropriate recourse for the petitioner would be to 
+approach the Calcutta High Court.  
+2. We, accordingly, dispose of this petition at this stage, with 
+liberty to the petitioner to file an appropriate petition before 
+the high Court. 
+3. We request the Hon’ble Chief Justice of the Calcutta High 
+Court to list the matter before a Division Bench, which shall 
+decide the matter expeditiously. 
+4. Pending applications, if any, also stand disposed of. 
+(ARJUN BISHT)                              (PREETHI DILEEP KUMAR) 
+ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR 
 
