@@ -2,69 +2,96 @@
 Supreme Court of India
 Orders of the Day - 26 November 2026
 # Case Reference Page Len.
-1 All India Judges Association vs. Union of India W.P.(C) No. 1022/1989 3 26
-2 Ronak Agarwal vs. Union of India SLP(Crl) No. 16520/2026 29 10
-3 THE EXECUTIVE ENGINEER VS. SHIVAJI KISAN DANAWALE - - Diary 39 3
-4 Nakul Dattatray Zagare vs. the State of Maharashtra SLP(C) No. 23241-23246/202 42 3
-5 Rooparekha Seetharama Kotegadde vs. the Manager, the New Ind SLP(C) No. 31971-31972/202 45 2
-6 M/s Devendra Construction vs. Deputy Commissioner SLP(C) No. 24729/2026 47 2
-7 Jitendra Nath Gope vs. the State of West Bengal SLP(Crl) No. 17274/2026 49 2
-8 Juvenile in Conflict With Law vs. State of Bihar SLP(Crl) No. 14743/2026 51 2
-9 Santram vs. the State of Uttar Pradesh SLP(Crl) No. 22275/2026 53 2
-10 Xxxx vs. State of Nct of Delhi SLP(Crl) No. 21841-21842/2 55 2
-11 Principal Commissioner of Customs (import vs. M/s Inox Decor C.A. No. 14643/2026 57 2
-12 Simmi Khatoon @ Pummy vs. Md. Sarferaj Alam SLP(C) No. 16419/2025 59 2
-13 Ajay Garg vs. Union of India W.P.(Crl.) No. 68/2025 61 2
-14 Anil Kumar Telugu Kukkala vs. Ambati Sukrutha SLP(C) No. 6217/2025 63 2
-15 Sukriti Kumar Bowali vs. Papiya Bowali SLP(C) No. 16501-16502/202 65 2
-16 SUSHIL RANA VS. RAJ KUMAR - - Diary Number 48442 / 2026 - 20 67 2
-17 REAZ UDDIN KHAN VS. RUKIYA BEGUM LASKAR - - Diary Number 572 69 2
-18 Deepak Chand vs. Toyekali Sema T.P.(Crl.) No. 1236/2026 71 2
-19 Neha Khandelwal vs. Rishabh Agarwal T.P.(C) No. 3404/2026 73 2
-20 UNION OF INDIA VS. NO. 11933 LATE RFN GOVIND SINGH RAWAT - - 75 2
-21 Satpal vs. State of Himachal Pradesh SLP(C) No. 28410/2026 77 1
-22 India Homes Limited Formerly Known As India Steel Works Limi SLP(C) No. 24062/2026 78 1
-23 Omkar Yadav @ Onkar Yadav vs. the State of Jharkhand SLP(Crl) No. 14219/2026 79 1
-24 Satkar Singh vs. Sukhvir Kaur SLP(C) No. 25094/2026 80 1
-25 Narender Kumar vs. Krishan Kumar SLP(C) No. 27044-27045/202 81 1
-26 Sonu vs. the State of Uttarakhand Crl.A. No. 269/2018 82 1
-27 Satya Dilta vs. Iffco Tokio General Insurance Co. Ltd SLP(C) No. 31802/2026 83 1
-28 Rita Devi vs. the Oriental Insurance Company Ltd. SLP(C) No. 16866/2025 84 1
-29 Manoj Kumar Rawat vs. State of Up MA 3083/2026 in C.A. No. 7 85 1
-30 Gurnam Singh Alias Jiona Maur vs. State of Punjab SLP(Crl) No. 22364/2026 86 1
-31 M/s Star Ferro Alloys Pvt Ltd. vs. Rajnish Agrawal SLP(C) No. 4876/2019 87 1
-32 Santosh Meena vs. the State of Madhya Pradesh Crl.A. No. 400/2024 88 1
-33 M/s Computer Graphics Pvt. Ltd. vs. the Deputy Commissioner SLP(C) No. 21599/2026 89 1
-34 Anirudh Gupta vs. the State of Sikkim SLP(C) No. 40155/2026 90 1
-35 Sanjay Vashisht vs. Union of India SLP(C) No. 40560/2026 91 1
-36 Suraj Ashok Thombre vs. State of Maharashtra SLP(Crl) No. 22428/2026 92 1
-37 A. VARA LAXMI VS. V. MARKANDEYULU - - Diary Number 36825 / 2 93 1
-38 P. Manoj Kumar vs. M. Priya SLP(Crl) No. 7550/2026 94 1
+1 All India Judges Association vs. Union of India W.P.(C) No. 1022/1989 4 26
+2 Ronak Agarwal vs. Union of India Crl.A. No. 5601/2026 30 10
+3 Mostari Banu vs. the Election Commission of India W.P.(C) No. 1089/2025 40 7
+4 Rajesh Gupta vs. Oyo Hotels and Homes Private Limited C.A. No. 15045/2025 47 4
+5 Rameshwar Lal vs. State of Rajasthan SLP(Crl) No. 18041/2026 51 4
+6 Bsl Mgc Limited vs. Anafi Special Maritime Enterprise C.A. No. 14721/2026 55 4
+7 STATE OF GOA VS. EDWIN LUCIO FERNANDES - - Diary Number 6976 59 4
+8 Dinesh Badana vs. the State of Madhya Pradesh SLP(Crl) No. 20256/2026 63 3
+9 Shwetha R vs. Dilip Chandran T.P.(C) No. 107/2026 66 3
+10 THE EXECUTIVE ENGINEER VS. SHIVAJI KISAN DANAWALE - - Diary 69 3
+11 Nakul Dattatray Zagare vs. the State of Maharashtra SLP(C) No. 23241-23246/202 72 3
+12 Anand vs. the State of Rajasthan SLP(Crl) No. 19910/2026 75 2
+13 I Seshagiri Rao vs. Ponangipalli Venkata Ramana Rao SLP(Crl) No. 16116-16123/2 77 2
+14 HIDAYATHULLA K.A. VS. SHALINI RAJANEESH - - Diary Number 517 79 2
+15 Rajesh Gupta vs. Oyo Hotels and Homes Private Limited C.A. No. 15045/2025 81 2
+16 Roshan Prajapati vs. the State of Jharkhand SLP(Crl) No. 13214/2026 83 2
+17 Srabani Sanyal @ Srabani Chakraborty vs. Arindom Sanyal T.P.(C) No. 1799/2026 85 2
+18 Megha Gaur vs. State of Rajasthan MA 3394/2026 in SLP(C) No. 87 2
+19 Loon Singh vs. the State of Rajasthan C.A. No. 1650/2024 89 2
+20 M/S ICICI LOMBARD GENERAL INSURANCE COMPANY LIMITED VS. ASHO 91 2
+21 Rooparekha Seetharama Kotegadde vs. the Manager, the New Ind SLP(C) No. 31971-31972/202 93 2
+22 M/s Devendra Construction vs. Deputy Commissioner SLP(C) No. 24729/2026 95 2
+23 Jitendra Nath Gope vs. the State of West Bengal SLP(Crl) No. 17274/2026 97 2
+24 Juvenile in Conflict With Law vs. State of Bihar SLP(Crl) No. 14743/2026 99 2
+25 Santram vs. the State of Uttar Pradesh SLP(Crl) No. 22275/2026 101 2
+26 Xxxx vs. State of Nct of Delhi SLP(Crl) No. 21841-21842/2 103 2
+27 Principal Commissioner of Customs (import vs. M/s Inox Decor C.A. No. 14643/2026 105 2
+28 Simmi Khatoon @ Pummy vs. Md. Sarferaj Alam SLP(C) No. 16419/2025 107 2
+29 Ajay Garg vs. Union of India W.P.(Crl.) No. 68/2025 109 2
+30 Anil Kumar Telugu Kukkala vs. Ambati Sukrutha SLP(C) No. 6217/2025 111 2
+31 Sukriti Kumar Bowali vs. Papiya Bowali SLP(C) No. 16501-16502/202 113 2
+32 SUSHIL RANA VS. RAJ KUMAR - - Diary Number 48442 / 2026 - 20 115 2
+33 REAZ UDDIN KHAN VS. RUKIYA BEGUM LASKAR - - Diary Number 572 117 2
+34 Deepak Chand vs. Toyekali Sema T.P.(Crl.) No. 1236/2026 119 2
+35 Neha Khandelwal vs. Rishabh Agarwal T.P.(C) No. 3404/2026 121 2
+36 Union of India vs. No. 11933 Late Rfn Govind Singh Rawat R.P.(C) No. 11234/2026 123 2
+37 Jyotindra Pandey vs. the State of Bihar Now Jharkhand SLP(Crl) No. 15577/2026 125 1
+38 Kamatchi vs. the Managing Director SLP(C) No. 25356/2026 126 1
 
 --- Page 2 ---
-39 Jyoti vs. the New India Assurance Company Ltd SLP(C) No. 8499-8500/2024 95 1
-40 MANJEET KAUR VS. NITIN KUMAR - - Diary Number 48666 / 2026 - 96 1
-41 DOLLY SOLANKI VS. DHARAMVEER SINGH - - Diary Number 61782 / 97 1
-42 Khushbu Sallu Khan vs. Sallu Imtiyaz Khan T.P.(C) No. 2992/2026 98 1
-43 Mahek Khiani Alias Smti. Rakhi Peswani vs. Keshav Khiani T.P.(C) No. 3115/2026 99 1
-44 Sonam Chauhan vs. Avinash Singh Thakur T.P.(C) No. 3216/2026 100 1
-45 Roshni Begum vs. Shaik Azhar Karim T.P.(C) No. 3407/2026 101 1
-46 Subudhi Ramya vs. Subudhi Santosh Kumar T.P.(C) No. 3418/2026 102 1
-47 Ravish Katyal vs. Pansy Das T.P.(C) No. 3427/2026 103 1
-48 Mohali Banik vs. Ajit Pal Singh Jassal T.P.(C) No. 3434/2026 104 1
-49 Shivani vs. Devender Singh Bisht T.P.(C) No. 3446/2026 105 1
-50 Lakshmi Paleakkal vs. Sudarshan Chakravarthy T.P.(C) No. 3462/2026 106 1
-51 Shivangi Agarwal vs. Vishal Agarwal T.P.(C) No. 3466/2026 107 1
-52 Riya Singh Thakur vs. Abhay Parmar T.P.(C) No. 3470/2026 108 1
-53 Polavaram Meghana vs. Anne Sirish T.P.(C) No. 3473/2026 109 1
-54 Sangeeta Charak vs. Prabhat Kumar Jha T.P.(C) No. 3493/2026 110 1
-55 Babita Tiwari vs. Munni Devi T.P.(Crl.) No. 1222/2026 111 1
-56 Laxman Prasad Agarwal vs. Pnb Housing Finance Ltd. T.P.(Crl.) No. 1229/2026 112 1
-57 Sukrit Das @ Sukreet Dass vs. State of Punjab T.P.(Crl.) No. 1233/2026 113 1
-58 Aparna Kumari vs. Naveen Kumar Chaudhary T.P.(Crl.) No. 1241/2026 114 1
-59 Yash Agarwal vs. State (nct of Delhi) T.P.(Crl.) No. 1261/2026 115 1
+39 Ram Babu Dhakad vs. the State of Madhya Pradesh SLP(Crl) No. 18649-18650/2 127 1
+40 Md Rafik Ali vs. State of Assam SLP(Crl) No. 17200-17201/2 128 1
+41 Gurunatha S/o Veerappa Mullur vs. Ramappa Yallappa Mullur SLP(C) No. 33324/2026 129 1
+42 Seema Sharma vs. the State of Rajasthan Crl.A. No. 453/2017 130 1
+43 The State of Uttar Pradesh vs. Pawan Kumar Crl.A. No. 1270/2022 131 1
+44 Ramsakhi Gupta vs. Icici Lombard General Insurance Co. Ltd. C.A. No. 9051/2026 132 1
+45 Babu @ Gyanendra Sahoo vs. State of Odisha SLP(Crl) No. 22820/2026 133 1
+46 Satpal vs. State of Himachal Pradesh SLP(C) No. 28410/2026 134 1
+47 India Homes Limited Formerly Known As India Steel Works Limi SLP(C) No. 24062/2026 135 1
+48 Omkar Yadav @ Onkar Yadav vs. the State of Jharkhand SLP(Crl) No. 14219/2026 136 1
+49 Satkar Singh vs. Sukhvir Kaur SLP(C) No. 25094/2026 137 1
+50 Narender Kumar vs. Krishan Kumar SLP(C) No. 27044-27045/202 138 1
+51 Sonu vs. the State of Uttarakhand Crl.A. No. 269/2018 139 1
+52 Satya Dilta vs. Iffco Tokio General Insurance Co. Ltd SLP(C) No. 31802/2026 140 1
+53 Rita Devi vs. the Oriental Insurance Company Ltd. SLP(C) No. 16866/2025 141 1
+54 Manoj Kumar Rawat vs. State of Up MA 3083/2026 in C.A. No. 7 142 1
+55 Gurnam Singh Alias Jiona Maur vs. State of Punjab SLP(Crl) No. 22364/2026 143 1
+56 M/s Star Ferro Alloys Pvt Ltd. vs. Rajnish Agrawal SLP(C) No. 4876/2019 144 1
+57 Santosh Meena vs. the State of Madhya Pradesh Crl.A. No. 400/2024 145 1
+58 M/s Computer Graphics Pvt. Ltd. vs. the Deputy Commissioner SLP(C) No. 21599/2026 146 1
+59 Anirudh Gupta vs. the State of Sikkim SLP(C) No. 40155/2026 147 1
+60 Sanjay Vashisht vs. Union of India SLP(C) No. 40560/2026 148 1
+61 Suraj Ashok Thombre vs. State of Maharashtra SLP(Crl) No. 22428/2026 149 1
+62 A. VARA LAXMI VS. V. MARKANDEYULU - - Diary Number 36825 / 2 150 1
+63 P. Manoj Kumar vs. M. Priya SLP(Crl) No. 7550/2026 151 1
+64 Jyoti vs. the New India Assurance Company Ltd SLP(C) No. 8499-8500/2024 152 1
+65 MANJEET KAUR VS. NITIN KUMAR - - Diary Number 48666 / 2026 - 153 1
+66 DOLLY SOLANKI VS. DHARAMVEER SINGH - - Diary Number 61782 / 154 1
+67 Khushbu Sallu Khan vs. Sallu Imtiyaz Khan T.P.(C) No. 2992/2026 155 1
+68 Mahek Khiani Alias Smti. Rakhi Peswani vs. Keshav Khiani T.P.(C) No. 3115/2026 156 1
+69 Sonam Chauhan vs. Avinash Singh Thakur T.P.(C) No. 3216/2026 157 1
+70 Roshni Begum vs. Shaik Azhar Karim T.P.(C) No. 3407/2026 158 1
+71 Subudhi Ramya vs. Subudhi Santosh Kumar T.P.(C) No. 3418/2026 159 1
+72 Ravish Katyal vs. Pansy Das T.P.(C) No. 3427/2026 160 1
+73 Mohali Banik vs. Ajit Pal Singh Jassal T.P.(C) No. 3434/2026 161 1
+74 Shivani vs. Devender Singh Bisht T.P.(C) No. 3446/2026 162 1
+75 Lakshmi Paleakkal vs. Sudarshan Chakravarthy T.P.(C) No. 3462/2026 163 1
+76 Shivangi Agarwal vs. Vishal Agarwal T.P.(C) No. 3466/2026 164 1
+77 Riya Singh Thakur vs. Abhay Parmar T.P.(C) No. 3470/2026 165 1
+78 Polavaram Meghana vs. Anne Sirish T.P.(C) No. 3473/2026 166 1
+79 Sangeeta Charak vs. Prabhat Kumar Jha T.P.(C) No. 3493/2026 167 1
+80 Babita Tiwari vs. Munni Devi T.P.(Crl.) No. 1222/2026 168 1
+81 Laxman Prasad Agarwal vs. Pnb Housing Finance Ltd. T.P.(Crl.) No. 1229/2026 169 1
 
 --- Page 3 ---
+82 Sukrit Das @ Sukreet Dass vs. State of Punjab T.P.(Crl.) No. 1233/2026 170 1
+83 Aparna Kumari vs. Naveen Kumar Chaudhary T.P.(Crl.) No. 1241/2026 171 1
+84 Yash Agarwal vs. State (nct of Delhi) T.P.(Crl.) No. 1261/2026 172 1
+
+--- Page 4 ---
 ITEM NO.36+37+38            COURT NO.1               SECTION X
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -106,7 +133,7 @@ CORAM :  HON'BLE THE CHIEF JUSTICE
                    
 1
 
---- Page 4 ---
+--- Page 5 ---
 For Petitioner(s) :Mr. Akhilesh Kumar Pandey- 1126, AOR
                    
                    Mr. Rakesh Dahiya- 1681, AOR
@@ -158,7 +185,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    Mr. Eresh Roshan Swain, Adv.
 2
 
---- Page 5 ---
+--- Page 6 ---
                    
                    Mr. Satish Kumar- 1822, AOR
                    
@@ -213,7 +240,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    Ms. Shradha Zutshi, Adv.
 3
 
---- Page 6 ---
+--- Page 7 ---
                    Ms. Manpreet Kaur, Adv.
                    
                    Mr. P. Parmeswaran- 509, AOR
@@ -268,7 +295,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    Mr. Kumar Saurabh Singh, Adv.
 4
 
---- Page 7 ---
+--- Page 8 ---
                    Mr. Vivek Narayan Singh, Adv.
                    Mr. Rajeev Jain, Adv.
                    Mr. Shahid Naseer, Adv.
@@ -323,7 +350,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    Mr. Aaditya Dixit, Adv.
 5
 
---- Page 8 ---
+--- Page 9 ---
                    Mr. Chitvan Singhal, Adv.
                    Mrs. Ameyavikrama Thanvi, Adv.
                    Mr. Kartikeya Aggarwal, Adv.
@@ -378,7 +405,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    Ms. Khoisnam Nirmala Devi, Adv.
 6
 
---- Page 9 ---
+--- Page 10 ---
                    Mr. Yeshu Mehta, Adv.
                    Mr. Tanay Hegde, Adv.
                    Mr. Kumar Mihir- 2116, AOR
@@ -433,7 +460,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    Ms. Ankita Sharma- 3833, AOR
 7
 
---- Page 10 ---
+--- Page 11 ---
                    Mr. Arjun D Singh, Adv.
                    Ms. Akanksha Kumari, Adv.
                    Ms. Gargi Vishwakarma, Adv.
@@ -488,7 +515,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    Mr. Nitish Kumar Mishra, Adv.
 8
 
---- Page 11 ---
+--- Page 12 ---
                    
                    Mr. Maibam Nabaghanashyam Singh- 2679, AOR
                    
@@ -543,7 +570,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    
 9
 
---- Page 12 ---
+--- Page 13 ---
                    Mr. Venkata Raghuvamsy D.- 3264, AOR
                    
                    Mr. Apoorv Kurup, Sr. Adv.
@@ -598,7 +625,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    Ms. Taruna Ardhendumauli Prasad- 2246, AOR
 10
 
---- Page 13 ---
+--- Page 14 ---
                    
                    Mr. K. M. Nataraj, A.S.G.
                    Mr. Ajay Kumar Mishra, Advocate General
@@ -653,7 +680,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    Mr. Amit P Shahi, Adv.
 11
 
---- Page 14 ---
+--- Page 15 ---
                    Mr. Amit Kumar, Adv.
                    Mr. Rajendra Anbhule, Adv.
                    Mrs. Sona Khan, Adv.
@@ -708,7 +735,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    Ms. Namita Choudhary- 1774, AOR
 12
 
---- Page 15 ---
+--- Page 16 ---
                    Mr. Ajay Kumar Singh- 2022, AOR
                    
                    Mr. Raj Kishor Choudhary, AOR
@@ -763,7 +790,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    Mr. Puneet Mishra, Adv.
 13
 
---- Page 16 ---
+--- Page 17 ---
                    
                    Mr. Shrey Kapoor- 3180 , AOR
                    
@@ -818,7 +845,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    Mr. Sumeer Sodhi- 2596, AOR
 14
 
---- Page 17 ---
+--- Page 18 ---
                    
                    Mr. Guntur Pramod Kumar- 2788, AOR
                    Ms. Prerna Singh, Adv.
@@ -873,7 +900,7 @@ For Respondent(s) :Ms. A. Subhashini- 15, AOR
                    Mr. Prang Newmai, Adv.
 15
 
---- Page 18 ---
+--- Page 19 ---
                    Ms. Yanmi Phazang, Adv.
                    
                    Mr. Siddharth Sangal- 2184, AOR
@@ -928,7 +955,7 @@ State of Sikkim    Mr. Basava Prabhu S Patil, Adv. Gen. (Sr. Adv.)
                    Mr. Anoop Kumar N., Adv.
 16
 
---- Page 19 ---
+--- Page 20 ---
                    Ms. Shradha, Adv.
                    Ms. Archana Kumari, Adv.
                    Mr. Bibhas Bhardwaj, Adv.
@@ -982,7 +1009,7 @@ In It.37           Mr. P Vishwanath Shetty, Sr. Adv.
                    Ms. Maitrayee Banerjee, Adv.
 17
 
---- Page 20 ---
+--- Page 21 ---
                    Mr. Varij Nayan Mishra, Adv.
                                       
                    Mr. Apoorv Kurup, Sr. Adv.
@@ -1037,7 +1064,7 @@ In It.37           Mr. P Vishwanath Shetty, Sr. Adv.
                    
 18
 
---- Page 21 ---
+--- Page 22 ---
                    Mr. Niranjan Sahu- 3506, AOR                   
                    
                    Mr. Ashok Mathur, AOR
@@ -1092,7 +1119,7 @@ In It.37           Mr. P Vishwanath Shetty, Sr. Adv.
                    Ms. Vishakha- 3831, AOR
 19
 
---- Page 22 ---
+--- Page 23 ---
                    
                    Dr. Hemant Gupta, A.A.G.
                    Mr. B. K. Satija, Sr. A.A.G.
@@ -1147,7 +1174,7 @@ In It.37           Mr. P Vishwanath Shetty, Sr. Adv.
                    Mr. Avijit Mani Tripathi- 2648, AOR
 20
 
---- Page 23 ---
+--- Page 24 ---
                    Mr. Aditya S. Pandey, Adv.
                    Mr. Z.H. Isaac Haiding, Adv.
                    Ms. Marbiang Khongwir, Adv.
@@ -1202,7 +1229,7 @@ State Of Sikkim    Mr. Basava Prabhu S Patil, Adv. Gen.
                    Mr. Nishant Awana- 4068, AOR
 21
 
---- Page 24 ---
+--- Page 25 ---
                    Mr. Suraj Kundu, Adv.
                    Mr. Bhavesh Yadav, Adv.
                    Mr. Amogh Pandey, Adv.                   
@@ -1257,7 +1284,7 @@ State Of Sikkim    Mr. Basava Prabhu S Patil, Adv. Gen.
                    Ms. Suganaya, Adv.
 22
 
---- Page 25 ---
+--- Page 26 ---
                                       
                    Ms. Aruna Gupta, AOR
                    Mr. Ramesh Allanki, Adv.                   
@@ -1312,7 +1339,7 @@ State Of Sikkim    Mr. Basava Prabhu S Patil, Adv. Gen.
                    Mr. D.P Singh, Adv.
 23
 
---- Page 26 ---
+--- Page 27 ---
                    Ms. Seema Yadav, Adv.
                    Ms. Jonali Biswas, Adv.
                    Mr. Kailash Prashad Pandey- 2399, AOR
@@ -1367,7 +1394,7 @@ State Of Sikkim    Mr. Basava Prabhu S Patil, Adv. Gen.
                    
 24
 
---- Page 27 ---
+--- Page 28 ---
                    Mr. Anish R. Shah- 2278, AOR
                    Mr. Abhishek Gupta- 1905, AOR
                    
@@ -1415,7 +1442,7 @@ the office of learned Attorney General for India as well.
 3. Learned Amicus Curiae has handed over a note (a copy whereof
 25
 
---- Page 28 ---
+--- Page 29 ---
 is enclosed with the Record of Proceedings) and pointed out that
 several formal Interlocutory Applications (mentioned in Annexure-A
 of the Note) are pending and may also be disposed of.
@@ -1429,7 +1456,7 @@ allowed/disposed of.
 ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
 26
 
---- Page 29 ---
+--- Page 30 ---
 IN THE SUPREME COURT OF INDIA
 CRIMINAL APPELLATE JURISDICTION
 CRIMINAL APPEAL NO.              OF 2026
@@ -1455,7 +1482,7 @@ with  Crime  No.01/2026/C.B.N./Ujjain  registered  under
 Sections 8/22 and 29 of the NDPS Act.
 1
 
---- Page 30 ---
+--- Page 31 ---
 5. Insofar the appellant is concerned, the accusation
 against  him  is  that  he  was  supplying  2-Bromo-4-
 Methlypropiophenone  to  the  co-accused  without  any
@@ -1485,7 +1512,7 @@ including in the case of  Vijay Singh versus State of
 Haryana [2023 SCC Online SC 1235], where the petitioner,
 2
 
---- Page 31 ---
+--- Page 32 ---
 who was implicated on the basis of the confessional
 statement made by the co-accused, was granted anticipatory
 bail by this Court.
@@ -1515,7 +1542,7 @@ regular bail application or at the time of final hearing,
 after conclusion of trial; grant of anticipatory bail in a
 3
 
---- Page 32 ---
+--- Page 33 ---
 NDPS matter was not warranted. Insofar the notification
 dated 11.03.2026 is concerned, she has placed reliance on
 the averments made in the counter affidavit as well as on
@@ -1545,7 +1572,7 @@ higher for the investigation and prosecution.
 12. Article 20(1) of the Constitution of India makes it
 4
 
---- Page 33 ---
+--- Page 34 ---
 abundantly clear that there cannot be any retrospectivity
 of criminal law. A person cannot be accused and prosecuted
 for committing an act which was not an offence on the date
@@ -1582,7 +1609,7 @@ number and entry shall be inserted, namely :-
 “8. 2-Bromo-4-Methylpropiophenone";
 5
 
---- Page 34 ---
+--- Page 35 ---
 (b) in SCHEDULE-B, after serial number 45 and
 the entries relating thereto, the following
 serial number and entry shall be inserted,
@@ -1618,7 +1645,7 @@ list under the Narcotic Drugs and Psychotropic Substances
 the counter affidavit filed by the respondent-Union of
 6
 
---- Page 35 ---
+--- Page 36 ---
 India, it is clearly stated that the prosecution case
 arises from the seizure effected on 10.01.2026 of 31.250
 kgs of Mephedrone powder, being commercial quantity.
@@ -1648,7 +1675,7 @@ accused for the purpose of investigation. We need not
 delve more on this aspect.
 7
 
---- Page 36 ---
+--- Page 37 ---
 18. Thus, we feel that a case for anticipatory bail is
 made out.
 19. Having  regard  to  the  above  and  considering  the
@@ -1670,7 +1697,7 @@ NEW DELHI;
 AK
 8
 
---- Page 37 ---
+--- Page 38 ---
 ITEM NO.3               COURT NO.12               SECTION II-E
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -1713,7 +1740,7 @@ For Respondent(s): Ms. Archana Pathak Dave, A.S.G.
 2. The Criminal Appeal is allowed in terms of the
 9
 
---- Page 38 ---
+--- Page 39 ---
 signed order placed on the file.
 3. Pending  application(s),  if  any,  shall  stand
 disposed of.
@@ -1721,7 +1748,898 @@ disposed of.
 COURT MASTER (SH)                             COURT MASTER (NSH)
 10
 
---- Page 39 ---
+--- Page 40 ---
+ITEM NO.40               COURT NO.1               SECTION PIL-W
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Writ Petition(s)(Civil) No(s).1089/2025
+MOSTARI BANU                                       Petitioner(s)
+                                VERSUS
+THE ELECTION COMMISSION OF INDIA & ORS.            Respondent(s)
+[SIR MATTERS RELATED TO THE STATE OF WEST BENGAL] 
+IA No. 135190/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 110378/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 120402/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 105177/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 111824/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 96030/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 287398/2025 - GRANT OF INTERIM RELIEF
+IA No. 95751/2026 - INTERVENTION APPLICATION
+IA No. 110367/2026 - INTERVENTION APPLICATION
+IA No. 105378/2026 - INTERVENTION APPLICATION
+IA No. 102323/2026 - INTERVENTION APPLICATION
+IA No. 111822/2026 - INTERVENTION APPLICATION
+IA No. 111800/2026 - INTERVENTION/IMPLEADMENT
+IA No. 135189/2026 - INTERVENTION/IMPLEADMENT
+IA No. 76867/2026 - INTERVENTION/IMPLEADMENT
+IA No. 124984/2026 - INTERVENTION/IMPLEADMENT
+IA No. 120401/2026 - INTERVENTION/IMPLEADMENT
+IA No. 118966/2026 - INTERVENTION/IMPLEADMENT
+IA No. 86454/2026 - PERMISSION TO FILE APPLICATION FOR DIRECTION
+IA No. 102483/2026 - PERMISSION TO FILE APPLICATION FOR DIRECTION
+ 
+WITH
+W.P.(C) No. 737/2025 (PIL-W)
+IA No. 27103/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 1908/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 27104/2026 - EXEMPTION FROM FILING O.T.
+IA No. 303592/2025 - PERMISSION TO FILE APPLICATION FOR DIRECTION
+IA No. 183939/2025 - STAY APPLICATION
+W.P.(C) No. 1074/2025 (PIL-W)
+IA No. 26838/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 1884/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 26839/2026 - EXEMPTION FROM FILING O.T.
+IA No. 123697/2026 - PERMISSION TO FILE APPLICATION FOR DIRECTION
+IA No. 303210/2025 - STAY APPLICATION
+IA No. 284001/2025 - STAY APPLICATION
+W.P.(C) No. 1088/2025 (PIL-W)
+IA  No.  47500/2026  -  APPROPRIATE  ORDERS/DIRECTIONS,  IA
+1
+
+--- Page 41 ---
+No.287351/2025 - STAY APPLICATION
+W.P.(C) No. 1216/2025 (PIL-W)
+IA No. 102130/2026 - CLARIFICATION/DIRECTION
+IA No. 45527/2026 - CLARIFICATION/DIRECTION
+IA No. 317082/2025 - CLARIFICATION/DIRECTION
+W.P.(C) No. 119/2026 (PIL-W)
+IA No. 30760/2026 - EARLY HEARING APPLICATION
+IA No. 30759/2026 - GRANT OF INTERIM RELIEF
+IA No. 30347/2026 - PERMISSION TO APPEAR AND ARGUE IN PERSON
+W.P.(C) No. 126/2026 (PIL-W)
+IA No. 40265/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 32266/2026 - EXEMPTION FROM FILING O.T.
+W.P.(C) No. 129/2026 (PIL-W)
+IA No. 39209/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 42143/2026 - INTERVENTION APPLICATION
+IA No. 46723/2026 - INTERVENTION/IMPLEADMENT
+W.P.(C) No. 159/2026 (PIL-W)
+Diary No(s). 68938/2025 (PIL-W)
+IA No. 66269/2026 - CONDONATION OF DELAY IN REFILING/CURING THE
+DEFECTS
+W.P.(C) No. 966/2026 (PIL-W)
+IA No. 228392/2026 - EXEMPTION FROM FILING O.T.
+Diary No(s). 38345/2026 (PIL-W)
+IA No. 219125/2026 - CONDONATION OF DELAY IN REFILING/CURING THE
+DEFECTS
+W.P.(C) No. 819/2026 (PIL-W)
+IA No. 310309/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 301042/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 259619/2026 - APPROPRIATE ORDERS/DIRECTIONS
+IA No. 310307/2026 - INTERVENTION APPLICATION
+ 
+Date : 23-11-2026 These matters were called on for hearing today.
+CORAM :  HON'BLE THE CHIEF JUSTICE
+         HON'BLE MR. JUSTICE JOYMALYA BAGCHI
+         HON'BLE MRS. JUSTICE V. MOHANA
+For Petitioner(s) :Mr. Bikash Ranjan Bhattacharya, Sr. Adv.
+                   Mr. Sabyasachi Chatterjee, Adv.
+                   Mr. Sudipta Dasgupta, Adv.
+                   Mr. Badrul Karim, Adv.
+                   Mr. Bikram Banerjee, Adv.
+                   Mr. Saikat Sutradhar, Adv.
+                   Mr. Md Shah Minhajuddin, Adv.
+2
+
+--- Page 42 ---
+                   Mr. Baibhav Roy, Adv.
+                   Mr. Md Adil Khan, Adv.
+                   Mr. Subhro Prokas Mukherjee- 3673, AOR
+                   
+                   Mr. Rauf Rahim, Sr. Adv.
+                   Mr. Firdous Samim, Adv.
+                   Mr. Ali Asghar Rahim, Adv.
+                   Ms. Gopa Biswas, Adv.
+                   Mr. Mohsin Rahim, Adv.
+                   Mr. Shekhar Kumar, AOR                   
+                   
+                   Mr. Gopal Sankaranarayanan, Sr. Adv.
+                   Ms. Neha Rathi- 2613, AOR
+                   Ms. Kajal Giri, Adv.
+                   Mr. Shourya Dasgupta, Adv.
+                   Mr. Tushar Srivastava, Adv.
+                   Ms. Somya Kumari, Adv.
+                   Mr. Prateek Yadav, Adv.
+                   Ms. Niharika Rathi Chaturvedi, Adv.
+                   
+                   Mr. Rameshwar Prasad Goyal- 1350, AOR
+                   Mr. Kunal Mimani- 2753, AOR
+                   Mr. K. Shiva- 3943, AOR
+                   Petitioner-in-person
+                    
+                   Mr. Alabhya Dhamija, AOR
+                   Mr. Tadimalla Bhaskar Gowtham, Adv.
+                   Mr. Subodh Patil, Adv.
+                   Mr. Santosh Kumar, Adv.
+                   Ms. Mahima Pandey, Adv.
+                   Mr. Surya Pratap Tyagi, Adv.
+                   Mr. Ankit Banati, Adv.
+                   Mr. Usman Ghani Khan- 3994 , AOR
+                   
+                   Mr. Kalyan Bandopadhyay, Sr. Adv.
+                   Mr. Abhisek Mohanty, Adv.
+                   Mr. Vivek Singh, AOR
+                   Ms. Saumya Saraswat, Adv.
+                   Ms. Astha Agrawal, Adv.
+                   Mr. Shailendra Kumar, Adv.
+                   Mr. Vikas Bansal, Adv.
+                   Mr. K.k.sinha, Adv.
+                   Mr. Rahul Kumar Singh, Adv.
+                                      
+For Respondent(s) :Mr. Dama Seshadri Naidu, Sr. Adv.
+                   Mr. Prateek Kumar, AOR
+                   Mr. Devansh Rai, Adv.
+                   Ms. Simran Parmar, Adv.
+                   Ms. Teesha, Adv.
+                   Mr. Ashutosh Singh, Adv.
+                   Mr. Kartikey Singh, Adv.
+                   Ms. Nishtha Kaura, Adv.
+3
+
+--- Page 43 ---
+                   Ms. Shriya Jadhav, Adv.
+                   Mr. Ashish Shukla, Adv.
+                   Ms. Sakshi Sharma, Adv.                   
+                   
+                   Mr. Nishant Awana- 4068, AOR
+                   Mr. Suraj Kundu, Adv.
+                   Mr. Amogh Pandey, Adv.                   
+                   
+                   Mr. R. Venkataramani, Attorney General for India
+                   Mr. Tushar Mehta, Solicitor General
+                   Mr. K.M. Nataraj, A.S.G.
+                   Mr. Vikramjeet Banerjee, A.S.G.
+                   Mr. Shreekant Neelappa Terdal- 909, AOR
+                   Mr. Amrish Kumar-aor, Adv.
+                   Mr. Udit Dediya, Adv.
+                   Mr. Anuj Udupa, Adv.
+                   Mr. Madhav Sinhal, Adv.
+                   Ms. Shilpa Ohri, Adv.
+                   Mr. Aman Jha, Adv.
+                   Mr. Chitvan Singhal, Adv.
+                   Ms. Ameyavikrama Thanvi, Adv.
+                   Mr. Abhishek Kr. Pandey, Adv.
+                   Mr. Raman Yadav, Adv.
+                   Mr. Kartikay Aggarwal, Adv.
+                   Mr. Praveen Vignesh, Adv.                   
+                   
+                   Mr. Shubham Upadhyay, AOR
+                   Ms. Anukriti Bajpai, Adv.
+                   
+                   Mr. Tushar Mehta, Solicitor General
+                   Mr. K M Nataraj, A.S.G.
+                   Mr. Vikramjit Banerjee, A.S.G.
+                   Mr. Gurmeet Singh Makker, AOR
+                   Mr. Udit Dediya, Adv.
+                   Mr. Anuj Udupa, Adv.
+                   Mr. Madhav Sinhal, Adv.
+                   Mrs. Shilpa Ohri, Adv.
+                   Mr. Aman Jha, Adv.
+                   Mr. Aman Mehta, Adv.
+                                      
+                   Mr. Prashant Bhushan- 515, AOR
+                   Ms. Neha Rathi, Adv.
+                   Ms. Kajal Giri, Adv.
+                   Ms. Somya Kumari, Adv.
+                   Mr. Parteek Yadav, Adv.                   
+                   
+                   Ms. Lipika Das, Adv.
+                   Mr. Bharpur Singh, Adv.
+                   Mr. Neeten Rohatgi, Adv.
+                   Mr. Abhishek Sharma, Adv.
+                   M/s V. Maheshwari & Co.- 1771, AOR
+                   Mr. Barun Kumar Sinha, Adv.
+4
+
+--- Page 44 ---
+                   Mrs. Pratibha Sinha, Adv.
+                   Mr. Sneh Vardhan, Adv.
+                   Mr. Rakesh Mudgal, Adv.
+                   Mr. Chhail Bihari Singh, Adv.
+                   Mr. Pankaj Kumar Shukla, Adv.
+                   Mr. Ritu Raj, Adv.
+                   Mrs. Kanika, Adv.
+                   Mr. Vaibhav Singh, Adv.
+                   Mr. Anantha Narayana M.g., AOR
+                   
+                   Ms. Binisa Mohanty- 3610, AOR
+                   Mr. Anil Kumar- 1649, AOR
+                   
+                   Mr. Sunando Raha, Adv.
+                   Mr. Jatin Kumar, Adv.
+                   Mr. Vikalp Gupta, Adv.
+                   Mrs. Niti Priya Kar, Adv.
+                   Mr. Kunal Malik- 3830, AOR
+                   Mr. Piyush Malik, Adv.                   
+                   
+                   Mr. Sanjeev Kumar Aggarwal, Adv.
+                   Mr. Bhupendra Singh, Adv.
+                   Mr. Dharma Datta Verma, Adv.
+                   Mr. Gaurav Yadav, Adv.
+                   Ms. Nidhi Verma, Adv.
+                   Mr. Rajesh Ranjan Prasad, Adv.
+                   Mr. Abhishek Krishna, Adv.
+                   Mr. Sanjeev Kumar- 2611, AOR
+                   Mr. Shivjee Yadav, Adv.                   
+                   
+                   Mr. Rauf Rahim, Sr. Adv.
+                   Mr. Firdous Samim, Adv.
+                   Mr. Ali Asghar Rahim, Adv.
+                   Ms. Gopa Biswas, Adv.
+                   Mr. Mohsin Rahim, Adv.
+                   Mr. Shekhar Kumar, AOR                   
+                   
+                   Mr. Ashwini Kumar Upadhyay, Adv.
+                   Mr. Ashwani Kumar Dubey- 1797, AOR
+                   Mr. Nikhil Upadhyay, Adv.
+                   
+                   Ms. Kajal Dalal- 3453, AOR
+                   Ms. Anju Thomas- 3418, AOR
+                   
+                   Mr. Sunando Raha, Adv.
+                   Mr. Jatin Kumar, Adv.
+                   Mr. Vikalp Gupta, Adv.
+                   Mrs. Niti Priya Kar, Adv.
+                   Mr. Kunal Malik- 3830, AOR
+                   Mr. Piyush Malik, Adv.
+          UPON hearing the counsel the Court made the following
+5
+
+--- Page 45 ---
+                             O R D E R
+1. These matters pertain to the SIR exercise in the State of West
+Bengal. After a brief hearing of the matter, as of now, we issue
+the following interim directions:
+(i) The Election Commission of India, on the recommendations and
+in consultation with the Chief Justice of the Calcutta High Court,
+will increase the strength of the Election Appellate Tribunals
+constituted by this Court vide order dated 10.03.2026.
+(ii) The Election Appellate Tribunal is requested to segregate the
+appeals into two groups, namely:
+(a) The appeals preferred by the voters who have been excluded and
+whose names have been deleted from the voter list.
+(b) The appeals preferred by those who are aggrieved by the
+inclusion of certain voters in the voter list. 
+2. The second set of appeals do not involve any urgency, and
+those appeals may be, for the time being, deferred. The first set
+of appeals may be given preference in the matter of final disposal.
+3. The Election Commission of India is also directed to find out
+an alternative suitable premises or premises for the Election
+Appellate Tribunal at some central place in Kolkata, preferably in
+different parts of the Kolkata city, to facilitate the early
+disposal of the appeals.
+4. The Election Commission of India is further directed to
+furnish a list of the assembly constituencies which fall within the
+municipal area of Kolkata. The appeals pertaining to the voters who
+6
+
+--- Page 46 ---
+fall within the Kolkata Municipal Corporation may be identified and
+be given preference.
+5. Keeping in view the Municipal Corporation Election, this
+exercise shall be completed by the Election Commission within one
+week, and such information shall be placed before the Election
+Appellate Tribunal.
+7. Post the matters on 10.12.2026.
+I.A.  Nos.301042/2026,  310307/2026,  310309/2026  in  W.P.(C)
+No.819/2026 & I.A. No.235221/2026 in W.P.(C) Diary No.38345/2026
+6.  The Election Commission of India is directed to file a reply
+to these Interlocutory Applications.
+(ARJUN BISHT)                              (PREETHI DILEEP KUMAR)
+ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
+7
+
+--- Page 47 ---
+REVISED
+ITEM NO.25               COURT NO.7               SECTION XIV
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (C)  No(s).  34336/2025
+[Arising out of impugned final judgment and order dated 11-08-2025 
+in OMP (M) (Comm) No. 215/2025 passed by the High Court of Delhi at
+New Delhi]
+RAJESH GUPTA                                       Petitioner(s)
+                                VERSUS
+OYO HOTELS AND HOMES PRIVATE LIMITED               Respondent(s)
+IA No. 304029/2025 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+IA No. 304030/2025 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES
+ 
+Date : 15-12-2025 This matter was called on for hearing today.
+CORAM : 
+         HON'BLE MR. JUSTICE J.B. PARDIWALA
+         HON'BLE MR. JUSTICE K.V. VISWANATHAN
+For Petitioner(s) : 
+                   Mr. Abhishek Sharma, AOR
+                   Mrs. Madhavi Divan, Sr. Adv.
+                   Mrs. Anchal Sharma, Adv.
+                   Mr. Sachin Bansal, Adv.
+                   Mr. Sameer Chaudhary, Adv.
+                   Mr. Shantanu Pandit, Adv.
+                   Mr. Deepak Sharma, Adv.
+                   Mr. Parma Nand, Adv.
+                   
+                   
+For Respondent(s) : 
+                   Mr. Gaurav Agarwal, Sr. Adv.
+                   Mr. Chaitanya Kaushik, Adv.
+                   Mr. Avinash Kumar Singh, Adv.
+                   Ms. Seema Mehta, Adv.
+                   Ms. Payal Nayak, Adv.
+                   Mr. Saurabh Pal, Adv.
+                   Ms. Vidhi Uppal, Adv.
+                   Ms. B. Vijayalakshmi Menon, AOR
+
+--- Page 48 ---
+-2-
+                   
+                   
+        UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Leave granted.
+2. The appeal stands disposed of in terms of the signed
+order.
+3. Pending application(s), if any, shall stand disposed of.
+(HARPREET KAUR)                                 (POOJA SHARMA)
+COURT MASTER (SH)                      COURT MASTER (NSH)
+[Signed order is placed on the file]
+
+--- Page 49 ---
+-3-
+ITEM NO.25               COURT NO.7               SECTION XIV
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (C)  No(s).  34336/2025
+[Arising out of impugned final judgment and order dated 11-08-2025 
+in OMP (M) (Comm) No. 215/2025 passed by the High Court of Delhi at
+New Delhi]
+RAJESH GUPTA                                       Petitioner(s)
+                                VERSUS
+OYO HOTELS AND HOMES PRIVATE LIMITED               Respondent(s)
+IA No. 304029/2025 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+IA No. 304030/2025 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES
+ 
+Date : 15-12-2025 This matter was called on for hearing today.
+CORAM : 
+         HON'BLE MR. JUSTICE J.B. PARDIWALA
+         HON'BLE MR. JUSTICE K.V. VISWANATHAN
+For Petitioner(s) : 
+                   Mr. Abhishek Sharma, AOR
+                   Mrs. Madhavi Divan, Sr. Adv.
+                   Mrs. Anchal Sharma, Adv.
+                   Mr. Sachin Bansal, Adv.
+                   Mr. Sameer Chaudhary, Adv.
+                   Mr. Shantanu Pandit, Adv.
+                   Mr. Deepak Sharma, Adv.
+                   Mr. Parma Nand, Adv.
+                   
+                   
+For Respondent(s) : 
+                   Mr. Gaurav Agarwal, Sr. Adv.
+                   Mr. Chaitanya Kaushik, Adv.
+                   Mr. Avinash Kumar Singh, Adv.
+                   Ms. Seema Mehta, Adv.
+                   Ms. Payal Nayak, Adv.
+                   Mr. Saurabh Pal, Adv.
+                   Ms. Vidhi Uppal, Adv.
+                   Ms. B. Vijayalakshmi Menon, AOR
+                   
+                   
+
+--- Page 50 ---
+-4-
+        UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Leave granted.
+2. The appeal stands allowed in terms of the signed order.
+3. Pending application(s), if any, shall stand disposed of.
+(HARPREET KAUR)                                 (POOJA SHARMA)
+COURT MASTER (SH)                      COURT MASTER (NSH)
+[Signed order is placed on the file]
+
+--- Page 51 ---
+CORRECTED
+ITEM NO.29               COURT NO.6               SECTION II-D
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+SPECIAL LEAVE PETITION (CRIMINAL) Diary No(s).47181/2026
+[Arising out of impugned final judgment and order dated  23-07-2026
+in CRLMP No. 1995/2025 passed by the High Court of Judicature for 
+Rajasthan at Jodhpur]
+RAMESHWAR LAL & ORS.                               Petitioner(s)
+                                VERSUS
+STATE OF RAJASTHAN & ORS.                          Respondent(s)
+IA No. 275537/2026 - CONDONATION OF DELAY IN REFILING /  CURING THE
+DEFECTS
+IA No. 275538/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+ 
+Date : 21-09-2026 This matter was called on for hearing today.
+CORAM : 
+         HON'BLE MR. JUSTICE J.B. PARDIWALA
+         HON'BLE MR. JUSTICE K. VINOD CHANDRAN
+For Petitioner(s) :Ms. Mrinal Elker Mazumdar, Adv.
+                   Ms. Indira Bhakar, Adv.
+                   Mr. Vineet Singh, Adv.
+                   Ms. Osheen Jain, Adv.
+                   Mr. Sahil Kumar, Adv.
+                   Mr. Kabir Singh, Adv.
+                   Mr. Prashant Rawat, AOR
+                   
+                   
+For Respondent(s) :Mr. Ankit Acharya, AOR
+                   Ms. Pratiksha Sharma, Adv.
+                   Ms. Ritu Chaudhary, Adv.
+                   Mr. Ayush Jain, Adv.
+                   Mr. Mukesh Kumar, Adv.
+                   
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Delay condoned.
+2. Having heard the learned counsel appearing for the
+
+--- Page 52 ---
+parties and having gone through the materials on record, we
+are not inclined to interfere with the impugned order passed
+by the High Court.
+3. The Special Leave Petition is, accordingly, dismissed.
+4. Pending application(s), if any, shall stand disposed
+of.
+(HARPREET KAUR)                                 (POOJA SHARMA)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 53 ---
+ITEM NO.29               COURT NO.6               SECTION II-D
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+SPECIAL LEAVE PETITION (CRIMINAL) Diary No(s).47181/2026
+[Arising out of impugned final judgment and order dated 23-07-2026
+in CRLMP No. 1995/2025 passed by the High Court of Judicature for
+Rajasthan at Jodhpur]
+RAMESHWAR LAL & ORS.                               Petitioner(s)
+                                VERSUS
+JEEVAN RAM & ORS.                                  Respondent(s)
+IA No. 275537/2026 - CONDONATION OF DELAY IN REFILING /  CURING THE
+DEFECTS
+IA No. 275538/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+ 
+Date : 21-09-2026 This matter was called on for hearing today.
+CORAM : 
+         HON'BLE MR. JUSTICE J.B. PARDIWALA
+         HON'BLE MR. JUSTICE K. VINOD CHANDRAN
+For Petitioner(s) :Ms. Mrinal Elker Mazumdar, Adv.
+                   Ms. Indira Bhakar, Adv.
+                   Mr. Vineet Singh, Adv.
+                   Ms. Osheen Jain, Adv.
+                   Mr. Sahil Kumar, Adv.
+                   Mr. Kabir Singh, Adv.
+                   Mr. Prashant Rawat, AOR
+                   
+                   
+For Respondent(s) :Mr. Ankit Acharya, AOR
+                   Ms. Pratiksha Sharma, Adv.
+                   Ms. Ritu Chaudhary, Adv.
+                   Mr. Ayush Jain, Adv.
+                   Mr. Mukesh Kumar, Adv.
+                                      
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Delay condoned.
+2. Having heard the learned counsel appearing for the
+parties and having gone through the materials on record, we
+
+--- Page 54 ---
+are not inclined to interfere with the impugned order passed
+by the High Court.
+3. The Special Leave Petition is, accordingly, dismissed.
+4. Pending application(s), if any, shall stand disposed
+of.
+(HARPREET KAUR)                                 (POOJA SHARMA)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 55 ---
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO.      OF 2026
+(Arising out of SLP(C) No.39674/2026)
+BSL MGC LIMITED & ORS. APPELLANT(S)
+                              VERSUS
+ANAFI SPECIAL MARITIME ENTERPRISE RESPONDENT(S)
+O R D E R
+1. Leave granted.
+2. We have heard the learned Senior Counsel for the parties
+at considerable length.
+3. The impugned judgment of the Division Bench of the High
+Court dated 04.11.2026 is upheld to the extent that it
+restores Admiralty Suit No. 32/2026 filed by the respondent-
+Anafi Special Maritime Enterprise. However, the observations
+made therein with respect to ownership, etc. are held to be
+tentative  and  not  binding  on  the  learned  Single  Judge
+presiding over the Admiralty Suit.
+4. The learned Single Judge is requested to formulate a
+preliminary issue on the maintainability of the suit, having
+regard to the enforceability of the arbitration awards and
+the foreign judgments. Let such preliminary issue be decided
+at the outset, preferably within one month.
+5. The respondent-plaintiff is directed to furnish security
+of USD 50,000 before the learned Single Judge within one
+week from the date of uploading of this order, failing which
+the suit shall stand dismissed for non-prosecution. It is
+clarified  that  the  security  amount  has  been  fixed
+tentatively and may be suitably enhanced by the learned
+Single Judge as and when the occasion arises.
+6. In case the suit is not finally decided at the stage of
+1
+
+--- Page 56 ---
+the preliminary issue, the learned Single Judge is requested
+to decide the suit in its entirety within six months.
+7. It is made clear that we have not expressed any opinion
+on merits. All contentions of the parties are kept open to
+be considered by the learned Single Judge.
+8. The appeal stands disposed of in the above terms.
+..........................CJI.
+(SURYA KANT)
+............................J.
+(JOYMALYA BAGCHI)  
+............................J.
+(V. MOHANA) 
+       
+NEW DELHI;        
+NOVEMBER 18, 2026
+2
+
+--- Page 57 ---
+ITEM NO.10               COURT NO.1               SECTION III-B
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (C) No(s).39674/2026
+[Arising out of impugned final judgment and order dated 04-11-2026
+in OJA No.6/2026 passed by the High Court of Gujarat at Ahmedabad]
+BSL MGC LIMITED & ORS.                             Petitioner(s)
+                                VERSUS
+ANAFI SPECIAL MARITIME ENTERPRISE                  Respondent(s)
+IA No. 349135/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED
+JUDGMENT
+ 
+Date : 18-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE THE CHIEF JUSTICE
+         HON'BLE MR. JUSTICE JOYMALYA BAGCHI
+         HON'BLE MRS. JUSTICE V. MOHANA
+For Petitioner(s) :Mr. Mukul Rohatgi, Sr. Adv.
+                   Mr. Harin P. Raval, Sr. Adv.
+                   Ms. Fereshte D Sethna, Adv.
+                   Ms. Anuradha Dutt, Adv.
+                   Ms. Suman Yadav, Adv.
+                   Ms. Sushmita Singh Chauhan, Adv.
+                   Ms. Aditi Srivastava, Adv.
+                   Ms. Bhagyashree Anklesaria, Adv.
+                   Mr. George Pothan Poothicote, Adv.
+                   Mr. Siddharth Raval, Adv.
+                   Ms. B. Vijayalakshmi Menon- 850, AOR
+                                      
+For Respondent(s) :Mr. Shyam Divan, Sr. Adv.
+                   Mr. Prathamesh Kamat, Adv.
+                   Mr. Nakul Jain, Adv.
+                   Ms. Parul Shukla- 2473, AOR
+                   Mr. Arpith Jacob Varaprasad, Adv.
+                   Ms. Sarah Ayreen Mir, Adv.
+                   Ms. Shubhangi Pandey, Adv.                   
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Leave granted.
+2. The appeal stands disposed of in terms of the signed order.
+3
+
+--- Page 58 ---
+3. Pending application(s), if any, shall also stand disposed of.
+(ARJUN BISHT)                             (PREETHI DILEEP KUMAR)
+ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
+(Signed order is placed on the file)
+4
+
+--- Page 59 ---
+ITEM NO.15               COURT NO.7               SECTION IX
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+SPECIAL LEAVE PETITION (CIVIL) Diary No.69761/2026
+[Arising out of impugned final judgment and order dated 29-10-2026
+in WP No.1415/2026 passed by the High Court of Judicature at Bombay
+at Goa]
+STATE OF GOA                                       Petitioner
+                                VERSUS
+EDWIN LUCIO FERNANDES & ORS.                       Respondents
+I.A. No.351500/2026-EXEMPTION FROM FILING C/C OF THE IMPUGNED
+JUDGMENT
+I.A. No.351496/2026-PERMISSION TO FILE PETITION (SLP/TP/WP/..)
+ 
+WITH
+Diary No.70772/2026 (IX)
+I.A. No.356031/2026-EXEMPTION FROM FILING C/C OF THE IMPUGNED
+JUDGMENT
+I.A. No.356030/2026-PERMISSION TO FILE PETITION (SLP/TP/WP/..)
+ 
+Date : 25-11-2026 These matters were called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE DIPANKAR DATTA
+         HON'BLE MR. JUSTICE SHEEL NAGU
+For Petitioner(s) : Mr. Rana Mukherjee, Sr. Adv.
+                    Ms. Rashmi Nandakumar- 2190, AOR
+                    Ms. Oindrila Sen, Adv.
+                    Ms. Yashmita Pandey, Adv.
+                    Ms. Sneha Ahmed, Adv.
+                                      
+                    Mr. Tushar Mehta, Solicitor General
+                    Mr. Devidas Pangam, Advocate General
+                    Mr. Nikhil Vaze, Adv.
+                    Mr. Ninad Laud, Adv.
+                    Mr. Shubham Sinai Priolkar, Adv.
+                    Mr. Aman Mehta, Adv.
+                    Ms. Nasadiya Singh, Adv.
+                    Ms. Ananya Navare, Adv.
+                    Mr. Dcosta Ivo Manuel Simon- 3486, AOR
+Mr. Maninder Singh, Sr. Adv.
+Mr. Zubin Dash, Adv.
+Mr. Guruprasad Naik, Adv.
+Mr. Milind Rai, Adv.
+1
+
+--- Page 60 ---
+Ms. Mishi Gupta, Adv.
+Ms. Rashika Ashok Narain, Adv.
+                   
+For Respondent(s) : Mr. Shyam Divan, Sr. Adv.
+                    Mr. Siddharth Bhatnagar, Sr. Adv.
+                    Mr. Prahlad Paranjapee, Adv.
+                    Mrs. Pragya Baghel- 1841, AOR
+                    Mr. Yohaann Limathwalla, Adv.
+                    Mr. Yuvraj Kashyap, Adv.
+                    Ms. Riya Shankar Sharma, Adv.
+                    Mr. Raghav Bhatia, Adv.
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Applications, seeking permission to file the special leave petitions, are
+allowed.
+2. We  are  not  inclined  to  interfere  with  the  impugned  order  dated  29th
+October,  2026  passed by the High  Court of Judicature  at Bombay at Goa1,
+particularly in light of the facts that the same is an interim order and that the
+writ petition itself having ripened for hearing, is listed today before the relevant
+Division Bench. The special leave petitions, accordingly, stand dismissed.
+3. Mr. Tushar Mehta, learned Solicitor General appearing for the petitioner,
+State of Goa, and Mr. Rana Mukherjee, learned senior counsel for the petitioner,
+Mission Political Reservation for Scheduled Tribes for Goa, however, submit that
+they have not been impleaded as parties to the writ petition2, though they are
+necessary parties. It is jointly submitted by Mr. Mehta and Mukherjee that since
+the applications seeking permission have been allowed, the State of Goa and
+Mission Political Reservation for Scheduled Tribes for Goa may be directed to be
+impleaded as respondents to the writ petition.
+4. The prayers for impleadment are not seriously opposed by Mr. Shyam
+Divan and Mr. Siddharta Bhatnagar, learned senior counsel for the respondents.
+1  High Court
+2  W. P. No.1415/2026
+2
+
+--- Page 61 ---
+5. Accordingly,  the  State  of  Goa  and  Mission  Political  Reservation  for
+Scheduled Tribes for Goa are impleaded as additional respondents to the writ
+petition pending before the High Court.
+6. The State of Goa and Mission Political Reservation for Scheduled Tribes for
+Goa as well as the other respondents to the writ petition (if they have not yet
+filed their counter-affidavits) shall be at liberty to file counter-affidavits within a
+period of 07 (seven) days from date; rejoinder affidavit(s), if any, thereto may
+be filed by 07 (seven) days thereafter. 
+7. We earnestly hope and trust that the relevant Division Bench of the High
+Court seized of the writ petition will not leave any stone unturned to decide the
+same in accordance with law, as expeditiously as possible, but preferably by the
+year end. 
+8. However, the interim order under challenge will presently remain confined
+till 31st December, 2026. In the unlikely event of the High Court not being able
+to decide the writ petition by the year end, it may suitably extend/vary the
+interim order upon hearing the parties.
+9. At this stage, Mr. Maninder Singh, learned senior counsel submits that a
+connected special leave petition3 is lying in defect. He too submits that the
+petitioner therein is not a party to the writ petition and he being a necessary
+party, may similarly be impleaded.
+10. The connected special leave petition is taken on board. Mohan Parshuram
+Gaonkar is impleaded as an additional respondent to the writ petition. Direction
+for  exchange  of  pleadings,  given  above,  shall  apply  mutatis  mutandis. The
+connected special leave petition is dismissed, on the above terms. 
+11. We record the assurance given by Mr. Mehta, Mr. Singh and Mr. Mukherjee
+3  Diary No.73864/2026 (Mohan Parshuram Gaonkar Vs. Edwin Fernandes)
+3
+
+--- Page 62 ---
+on behalf of the parties impleaded as additional respondents, as well as by Mr.
+Divan and Mr. Bhatnagar for the petitioners that they will cooperate with the
+Division Bench of the High Court for facilitating early compliance of this order
+without seeking any adjournment. 
+12. Pending application(s), if any, shall stand disposed of.
+      (MANIK KUMAR)                         (SUDHIR KUMAR SHARMA)
+SENIOR PERSONAL ASSISTANT                     COURT MASTER (NSH)
+4
+
+--- Page 63 ---
+ITEM NO.24               COURT NO.13               SECTION II-E
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.)  No(s).  20256/2026
+[Arising out of impugned final judgment and order dated 04-08-2026
+in CRLA No. 2807/2023 passed by the High Court of Madhya Pradesh at
+Indore]
+DINESH BADANA                                      Petitioner(s)
+                                VERSUS
+THE STATE OF MADHYA PRADESH & ANR.                 Respondent(s)
+(IA No. 324305/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+IA No. 324306/2026 - EXEMPTION FROM FILING O.T.)
+ 
+Date : 25-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE UJJAL BHUYAN
+         HON'BLE MR. JUSTICE ATUL S. CHANDURKAR
+For Petitioner(s): Ms. Mrinmoi Chatterjee- 3158, AOR
+                   Mr. Bharat Yadav, Adv.
+                   Mr. Vinay Joshi, Adv.
+                   Mr. Ankit Patidar, Adv.
+                   Mr. Ritvik Mishra, Adv.
+                   Mr. Vagish Parashar, Adv.
+                   Ms. Kirti Lal, Adv.                   
+                   
+For Respondent(s): Mr. D.S. Parmaar, A.A.G.
+                   Mr. Aditya Vaibhav Singh, Adv.
+                   Mr. Pashupathi Nath Razdan- 2054, AOR           
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Leave granted.
+1
+
+--- Page 64 ---
+2. We have heard learned counsel for the appellant
+and learned counsel for Respondent No.1-State of
+Madhya Pradesh.
+3. Appellant Dinesh Badana was convicted by the Court
+of Addl. Sessions Judge (POCSO Act), Neemuch, Madhya
+Pradesh in Special Case No.35 of 2019 vide judgment
+and order dated 31.10.2022 under Sections 363, 366,
+376(2)(i), 376(2)(j) and 376(2)(n) of the Indian
+Penal Code, 1860 (for short, 'IPC') as well as under
+Sections  3,  4  and  5(j)/6  of  the  Protection  of
+Children from Sexual Offences Act, 2012 (for short,
+'POCSO Act'). However, in the light of Section 42 of
+the POCSO Act, appellant was sentenced only under
+Sections 363, 366 and 376(2)(i)(j)(n) of IPC, with
+the  clarification  that  the  substantive  sentences
+would run concurrently, the maximum sentence being 10
+years.
+4.  Aggrieved  by  his  conviction  and  sentence,
+appellant preferred criminal appeal before the High
+Court of Madhya Pradesh at Indore (briefly ‘the High
+Court’ hereinafter), under Section 374(2) of the Code
+of Criminal Procedure, 1973 (for short, 'CrPC'),
+which was registered as Criminal Appeal No.2807 of
+2023. By the judgment and order dated 04.08.2026, the
+High Court dismissed the criminal appeal of the
+appellant by affirming the conviction and sentence of
+the Trial Court.
+2
+
+--- Page 65 ---
+5. This Court, vide order dated 02.11.2026, had
+issued notice on the related Special Leave Petition
+as well as on the prayer for bail, pursuant to which
+respondent-State of Madhya Pradesh has filed counter
+affidavit which we have perused.
+6.  From  the  custody  certificate,  we  find  that
+appellant  has  undergone  more  than  08  years  of
+incarceration including remission, out of the total
+sentence of 10 years.
+7. That being the position, we are inclined to
+suspend the sentence and grant bail to the appellant
+during pendency of the criminal appeal before this
+Court.
+8. Ordered accordingly.
+9. Consequently, appellant shall be released on bail
+on usual terms and conditions.
+10. In the meanwhile, appellant to take steps for
+service of notice upon Respondent No.2.
+11. List the appeal for hearing in due course.
+(ABHINAV KUMAR)                                 (POOJA KOHLI)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+3
+
+--- Page 66 ---
+IN THE SUPREME COURT OF INDIA
+CIVIL ORIGINAL JURISDICTION 
+Transfer Petition (Civil) No.107/2026
+SHWETHA R                                          Petitioner(s)
+                                VERSUS
+DILIP CHANDRAN                                     Respondent(s)
+O R D E R
+1. The petitioner before this Court is wife, seeking transfer of
+matrimonial dispute from Palakkad, Kerala to Kolar, Karnataka. The
+distance is about 400 kms. It has been stated that she is all
+alone, does not have any source of income and her parents are very
+old. She also has a seven year old daughter. Hence, she is not in a
+position to attend the proceedings on every date of hearing.
+2. On the other hand, the respondent is a railway servant.
+Though, he has opposed the prayer for transfer, however, keeping in
+view the fact that there is a minor daughter of seven years and the
+parents are very old, the matrimonial dispute is transferred from
+Family Court, Palakkad, Kerala to Family Court, Kolar, Karnataka.
+3. It is needless to mention that the parties shall also be free
+to explore the possibility of mediation before the Family Court,
+Kolar, Karnataka. The parties shall appear before the Family Court,
+Kolar, Karnataka on 01.12.2026. The respondent shall also avail the
+facility of video conferencing.
+1
+
+--- Page 67 ---
+4. The Transfer Petition is allowed accordingly.
+5. Pending application(s), if any, shall stand disposed of. 
+..............................,J.
+(SATISH CHANDRA SHARMA)
+..............................,J.
+(NONGMEIKAPAM KOTISWAR SINGH)
+NEW DELHI;
+NOVEMBER 17, 2026.
+2
+
+--- Page 68 ---
+ITEM NO.27               COURT NO.15               SECTION XVI-A
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Transfer Petition (Civil) No.107/2026
+SHWETHA R                                          Petitioner(s)
+                                VERSUS
+DILIP CHANDRAN                                     Respondent(s)
+IA No. 12503/2026 - STAY APPLICATION
+ 
+Date : 17-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE SATISH CHANDRA SHARMA
+         HON'BLE MR. JUSTICE NONGMEIKAPAM KOTISWAR SINGH
+For Petitioner(s) : Mr. Prashant Padmanabhan- 1821, AOR
+                   
+For Respondent(s) :Mr. Avijit Roy- 1783, AOR
+                   Mr. Junais P, Adv.
+                   Mr. Prasanth K, Adv.
+                   Ms. Chinju L, Adv.                   
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. The Transfer Petition is allowed in terms of the Signed Order
+placed on the file.
+2. Pending application(s), if any, shall stand disposed of. 
+(VIJAY KUMAR)                                 (KOMAL)
+ASTT. REGISTRAR-cum-PS                        COURT MASTER (NSH)
+3
+
+--- Page 69 ---
 ITEM NO(s).19+53             COURT NO.12               SECTION IX
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -1763,7 +2681,7 @@ THE DEFECTS
 IA No. 354363/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
 1
 
---- Page 40 ---
+--- Page 70 ---
 JUDGMENT
 IA No. 354365/2026 - EXEMPTION FROM FILING O.T.)
 WITH
@@ -1807,7 +2725,7 @@ For Petitioner(s): Mr. Suhaskumar Kadam, Adv.
                    Mr. Harshit Bahal, Adv.                   
 2
 
---- Page 41 ---
+--- Page 71 ---
                    
 For Respondent(s): 
           UPON hearing the counsel the Court made the following
@@ -1837,7 +2755,7 @@ disposed of.
 COURT MASTER (SH)                             COURT MASTER (NSH)
 3
 
---- Page 42 ---
+--- Page 72 ---
 ITEM NO.36               COURT NO.1               SECTION IX
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -1881,7 +2799,7 @@ For Petitioner(s) :Mr. Abdul Azeem Kalebudde- 2057, AOR
 For Respondent(s) :Mr. Aaditya Aniruddha Pande- 3259, AOR
 1
 
---- Page 43 ---
+--- Page 73 ---
                    Mr. Siddharth Dharmadhikari, Adv.
                    Mr. Shrirang B. Varma, Adv.
                    Mr. Sourav Singh, Adv.
@@ -1921,14 +2839,523 @@ shall be treated eligible, subject to their performance in the
 written examination.
 2
 
---- Page 44 ---
+--- Page 74 ---
 4. Pending application(s), if any, including IA No. 338541/2026
 and IA No. 338371/2026 shall stand closed.
 (NITIN TALREJA)                            (PREETHI DILEEP KUMAR)
 ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
 3
 
---- Page 45 ---
+--- Page 75 ---
+REVISED Qua appearance
+ITEM NO.803               COURT NO.3               SECTION II-D
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.)  No(s).  19910/2026
+[Arising out of impugned final judgment and order dated  16-09-2026
+in SBCRMBA No. 14281/2026 passed by the High Court of Judicature
+for Rajasthan at Jaipur]
+ANAND                                              Petitioner(s)
+                                VERSUS
+THE STATE OF RAJASTHAN                             Respondent(s)
+ 
+Date : 18-11-2026 This petition was mentioned today.
+CORAM : 
+         HON'BLE MR. JUSTICE M.M. SUNDRESH
+         HON'BLE  MR. JUSTICE PRASANNA B. VARALE
+For Petitioner(s) Mr. Dama Seshadri Naidu, Sr. Adv.(mentioned by)
+Mr. M. Y. Deshmukh- 1818, AOR
+                   
+For Respondent(s) Mr.  Saurabh Rajpal- 3577, AOR
+                   
+          UPON being mentioned the Court made the following
+                             O R D E R
+List the matter on 26.11.2026.
+(ASHA SUNDRIYAL)                                (POONAM VAID)
+DEPUTY REGISTRAR                             ASSISTANT REGISTRAR
+ 
+
+--- Page 76 ---
+ITEM NO.803               COURT NO.3               SECTION II-D
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.)  No(s).  19910/2026
+[Arising out of impugned final judgment and order dated  16-09-2026
+in SBCRMBA No. 14281/2026 passed by the High Court of Judicature
+for Rajasthan at Jaipur]
+ANAND                                              Petitioner(s)
+                                VERSUS
+THE STATE OF RAJASTHAN                             Respondent(s)
+ 
+Date : 18-11-2026 This petition was mentioned today.
+CORAM : 
+         HON'BLE MR. JUSTICE M.M. SUNDRESH
+         HON'BLE  MR. JUSTICE PRASANNA B. VARALE
+For Petitioner(s) Mr. M. Y. Deshmukh- 1818, AOR
+                   (mentioned by)
+For Respondent(s) Mr.  Saurabh Rajpal- 3577, AOR
+                   
+          UPON being mentioned the Court made the following
+                             O R D E R
+List the matter on 26.11.2026.
+(ASHA SUNDRIYAL)                                (POONAM VAID)
+DEPUTY REGISTRAR                             ASSISTANT REGISTRAR
+ 
+
+--- Page 77 ---
+ITEM NO.17               COURT NO.13               SECTION II
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.) No(s). 16116-16123/2026
+[Arising out of impugned final judgment and order dated 06-05-2026
+in CRLRC No. 376/2021 06-05-2026 in CRLRC No. 377/2021 06-05-2026
+in CRLRC No. 378/2021 06-05-2026 in CRLRC No. 379/2021 06-05-2026
+in CRLRC No. 380/2021 06-05-2026 in CRLRC No. 381/2021 06-05-2026
+in CRLRC No. 382/2021 06-05-2026 in CRLRC No. 383/2021 passed by
+the High Court for The State of Telangana at Hyderabad]
+I SESHAGIRI RAO                                    Petitioner(s)
+                                VERSUS
+PONANGIPALLI VENKATA RAMANA RAO & ANR.             Respondent(s)
+FOR ADMISSION 
+(IA No. 247995/2026 - EXEMPTION FROM SURRENDERING WITHIN TIME
+IA No. 247997/2026 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES)
+ 
+Date : 25-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE UJJAL BHUYAN
+         HON'BLE MR. JUSTICE ATUL S. CHANDURKAR
+For Petitioner(s): Mr. S. Nagamuthu, Sr. Adv.
+                   Mr. Mayank Jain, Adv.
+                   Mr. Madhur Jain, Adv.
+                   Ms. Aakriti Dhawan, Adv.
+                   Mr. Kartik Yadav, Adv.
+                   Mr. Deepak Jain, Adv.
+                   Ms. Sheenam Chhabra, Adv.
+                   Mr. Nikilesh Ramachandran, AOR                  
+                   
+For Respondent(s): 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Pursuant to our order dated 02.09.2026, we find
+that the memorandum of settlement dated 28.06.2026
+has been placed on record.
+2. Mr. S. Nagamuthu, learned Senior counsel for the
+petitioner  submits  that  while  the  petitioner  is
+1
+
+--- Page 78 ---
+present, Respondent No.1 is in Kenya. Therefore, he
+is unable to be present physically.
+3. Let Respondent No.1 appear virtually on the next
+date while petitioner may appear either physically or
+virtually.
+4. List on 16.12.2026.
+(ABHINAV KUMAR)                                 (POOJA KOHLI)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+2
+
+--- Page 79 ---
+ITEM NO.34               COURT NO.13               SECTION XII-B
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+CONTEMPT PETITION (CIVIL) Diary No(s). 51719/2026
+[Arising out of impugned final judgment and order dated 20-05-2026
+in C.A. No. No. 8024/2026 passed by the Supreme Court of India]
+HIDAYATHULLA K.A.                                  Petitioner(s)
+                                VERSUS
+SHALINI RAJANEESH & ORS.                           Respondent(s)
+(IA No. 255817/2026 - EXEMPTION FROM FILING O.T.
+IA No. 280191/2026 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES)
+ 
+Date : 25-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE UJJAL BHUYAN
+         HON'BLE MR. JUSTICE ATUL S. CHANDURKAR
+For Petitioner(s): Mr. Siddharth Bhatnagar, Sr. Adv.
+                   Ms. Aditi Anil Dani, AOR
+                   Ms. Ananya Nair, Adv.
+                   Ms. Ria Singh, Adv.                   
+                   
+For Respondent(s): Mr. Nishanth Patil, A.A.G.
+                   Mr. Sanchit Garga- 2748, AOR
+                   Mr. Arijit Dey, Adv.
+                   Mr. Shashwat Jaiswal, Adv.
+                   Mr. Awinash Gupta, Adv.
+                   Mr. Bhanu Pratap Singh, Adv.
+                   Ms. Bhumi Agarwal, Adv.
+                   Mr. Vijender Kumar, Adv.
+                   Ms. Oorja Goel, Adv.
+                   Ms. Diksha Arora, Adv.
+    Mr. S.N. Terdal, AOR
+    Mr. Sukhbeer Kaur Bajwa, Adv.
+    Mr. Shailesh Madiyal, Sr. Adv.
+    Mr. V.C. Shukla, AOR
+    Mr. Lakshya S. Pandey, Adv.
+    Miss Isha Barshiliya, Adv.
+    Miss Astha Singh, Adv.
+    Mr. Hardik Singh, Adv.
+    Mr. Subhansh Thakur, Adv.
+    
+    Mr. Vineet Prashad, Adv.
+1
+
+--- Page 80 ---
+    Mr. Peechara Muktha, Adv.
+    Mr. Arijeet Shukla, Adv.
+    Mr. Divyadeep Chaturvedi, AOR
+    Mr. Basava Prabhu S. Patil, Sr. Adv.
+    Mr. Mahesh Thakur, AOR
+    Mr. Vibhav Chaturvedi, Adv.
+    Mr. Siddhartha Sati, Adv.
+    Mr. Narveer Yadav, Adv.
+    Mr. Arijeet Shukla, Adv.
+    Mr. Sivanandh Lahiri, Adv.                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Mr.  Nishanth  Patil,  learned  Addl.  Advocate
+General for Respondent Nos.1 and 2 submits that the
+order of this Court passed in Civil Appeal No.8024 of
+2026 will be complied with within 02 weeks, in view
+of the letter dated 05.11.2026 of the Department of
+Personnel and Training, Government of India addressed
+to  the  Chief  Secretary  to  the  Government  of
+Karnataka.
+2. Let the compliance report be submitted by the
+next date.
+3. List on 16.12.2026.
+(ABHINAV KUMAR)                                 (POOJA KOHLI)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+2
+
+--- Page 81 ---
+1
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO.   15045   OF 2025  
+[Arising out of SLP (Civil) No. 34336/2025]
+RAJESH GUPTA                                       Appellant(s)
+                                VERSUS
+OYO HOTELS AND HOMES PRIVATE LIMITED               Respondent(s)
+O R D E R
+1. Leave granted.
+2. This appeal arises from the order passed by the High Court of
+Delhi dated 11.08.2025 in O.M.P. (MISC.) (COMM.)215/2025 by which
+the petition filed by the appellant herein (claimant) under Section
+29A(5) of the Arbitration and Conciliation Act, 1996 (for short,
+“the Act of 1996”) seeking extension of the mandate of the Arbitral
+Tribunal by a period of six months came to be rejected.
+3. We  heard  Ms.  Madhavi  Divan,  the  learned  senior  counsel
+appearing for the appellant (original claimant) and Mr. Gaurav
+Agarwal, the learned senior counsel appearing for the respondent.
+4. As such, there is no error, much less any error of law in the
+impugned order passed by the High Court.
+5. However, taking into consideration the fact that the parties
+will have to start afresh and the matter had already reached till
+the stage of arguments, we would like to give one last chance to
+the parties, more particularly, the appellant herein (claimant) to
+proceed further before the arbitrator.
+
+--- Page 82 ---
+2
+6. However, we would like to impose costs upon the appellant. The
+appellant shall pay an amount of Rs.10,00,000/- (Rupees Ten Lakh
+only) to the respondent towards costs within a period of four
+weeks from today.
+7. In view of the aforesaid, the impugned order passed by the
+High Court is set aside.
+8. The original application filed by the appellant herein under
+Section 29A(5) of the Act of 1996 is allowed.
+9. The Arbitral Tribunal shall now proceed with the further
+hearing and see to it that the final award is passed on or before
+31.03.2026.
+10. The appeal stands disposed of in the aforesaid terms.
+11. Pending application(s), if any, shall stand disposed of.
+…………………………………………….J
+(J.B. PARDIWALA)
+…………………………………………….J
+(K.V. VISWANATHAN)
+NEW DELHI
+15TH DECEMBER, 2025
+
+--- Page 83 ---
+ITEM NO.12               COURT NO.14               SECTION II-A
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.)  No(s).  13214/2026
+[Arising out of impugned final judgment and order dated 24-06-2026
+in Cr.M.P. No. 3331/2025 passed by the High Court of Jharkhand at
+Ranchi]
+ROSHAN PRAJAPATI                                   Petitioner(s)
+                                VERSUS
+THE STATE OF JHARKHAND & ANR.                      Respondent(s)
+FOR ADMISSION 
+(IA No. 209676/2026 - EXEMPTION FROM FILING O.T.
+IA No. 209677/2026 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES)
+ 
+Date : 26-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE UJJAL BHUYAN
+         HON'BLE MR. JUSTICE ATUL S. CHANDURKAR
+For Petitioner(s): Mr. Parthiv K. Goswami, Sr. Adv.
+                   Mr. Srisatya Mohanty- 3136, AOR
+                   Mr. Jyotiraditya Roychowdhury, Adv.
+                   Ms. Lakshmi Agarwal, Adv.
+                   
+For Respondent(s): Ms. Madhusmita Bora, AOR
+                   Mr. Pawan Kishore Singh, Adv.
+                   Ms. Pavithra V., Adv.
+                   Mr. Vaibhav Chechi, Adv.                   
+                   
+                   Mr. Aabhas Parimal, Adv.
+                   Mr. Jamnesh Kumar, Adv.
+                   Mr. Somanatha Padhan, AOR
+                   Mr. Ankit Sahu, Adv.                   
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. While we adjourn the hearing of this case in view
+of the request made by learned counsel for Respondent
+No.2, he shall inform the Trial Court about the
+1
+
+--- Page 84 ---
+pendency of the proceedings here and the adjournment
+sought for by the informant.
+2. List on 21.01.2027.
+(ABHINAV KUMAR)                                 (POOJA KOHLI)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+2
+
+--- Page 85 ---
+ITEM NO.60               COURT NO.15               SECTION XVI-A
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Transfer Petition (Civil) No.1799/2026
+SRABANI SANYAL @ SRABANI CHAKRABORTY               Petitioner(s)
+                                VERSUS
+ARINDOM SANYAL                                     Respondent(s)
+IA No. 220013/2026 - APPLICATION FOR PERIMSSION TO MEDIATION
+IA No. 144696/2026 - EX-PARTE AD-INTERIM RELIEF
+IA No. 220015/2026 - STAY APPLICATION
+ 
+Date : 17-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE SATISH CHANDRA SHARMA
+         HON'BLE MR. JUSTICE NONGMEIKAPAM KOTISWAR SINGH
+For Petitioner(s) : Ms. Manju Jetley- 350, AOR
+Ms. Monika, Adv. 
+Ms. Srabani Sanyal, Adv. 
+       
+            
+For Respondent(s) :Mr. Saurabh Sharma, Adv.
+                   Mr. Soumyajit Das Mahapatra, Adv.
+                   Mr. Puja Kumari Shaw, Adv.
+                   Mr. Aniruddha Purushotham, AOR
+                   Mr. Ankit Kumar, Adv.
+                   Mr. Sushant Singh, Adv.                   
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Learned counsel for the parties submits that the parties are
+desirous of making an effort for settlement through mediation.
+Accordingly, the parties are referred for mediation to be conducted
+by the Supreme Court Mediation Center. 
+2. Learned counsel for the petitioner stated that the petitioner
+1
+
+--- Page 86 ---
+is aged 65 years and she is unwell. She is granted liberty to
+appear through video conferencing.
+3. Let the parties appear before the learned mediator appointed
+by the Supreme Court Mediation Center on 01.12.2026 initially
+through virtual mode. Thereafter, the parties shall appear either
+physically or virtually as directed by the learned mediator.
+4. List the matter after eight weeks along with mediator’s
+report.
+(VIJAY KUMAR)                                 (KOMAL)
+ASTT. REGISTRAR-cum-PS                        COURT MASTER (NSH)
+2
+
+--- Page 87 ---
+ITEM NO.30               COURT NO.1               SECTION XV
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+MISCELLANEOUS APPLICATION Diary No(s). 69515/2026
+[Arising out of impugned judgment and order dated 29-09-2026 in
+SLP(C) No. 34822/2026 passed by the Supreme Court of India]
+MEGHA GAUR                                         Petitioner(s)
+                                VERSUS
+STATE OF RAJASTHAN & ORS.                          Respondent(s)
+(IA No. 343179/2026 - APPROPRIATE ORDERS/DIRECTIONS and IA No.
+343172/2026 - CONDONATION OF DELAY IN FILING)
+ 
+Date : 20-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE THE CHIEF JUSTICE
+         HON'BLE MR. JUSTICE JOYMALYA BAGCHI
+         HON'BLE MRS. JUSTICE V. MOHANA
+For Petitioner(s) : Mr. Manan Kumar Mishra, Sr. Adv.
+                   Mr. Aakarshan Aditya- 2657, AOR
+                   Mr. Vibhu Tiwari, Adv.
+                   Mr. Mahipal, Adv.
+                   Mr. Satish C Kaushik, Adv.
+                   Mr. Tarurag Gaur, Adv.
+                                      
+For Respondent(s) : Mr. Shiv Mangal Sharma, AAG
+Mr. Vishal Kumar Yadav, Adv.
+Mr. Saurabh Rajpal, AOR 
+Mr. Archana Dave Pathak, ASG
+Mr. Sudarshan Lamba, AOR
+Mr. Parmod Kumar Vishnoi, Adv.
+Mr. Digvijay D., Adv.
+Mr. Prashant Singh-II, Adv.
+Mr. Amit Sharma-II, Adv.
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Delay condoned.
+2. We are informed by the learned Senior Counsel/Counsel for the
+parties that the main case is yet to be heard and decided in terms
+1
+
+--- Page 88 ---
+of our order dated 29.09.2026.  According to learned Counsel,
+various applications for interventions have been moved and the case
+is now listed on 07.12.2026.  The High Court is requested to ensure
+that no frivolous application is filed and/or entertained. Ignoring
+such application(s), the High Court may decide the main and other
+allied  issues  expeditiously,  which  have  been  referred  for
+adjudication.
+3.  IA  No.  343179/2026  and  Miscellaneous  Application  stand
+disposed of with pending application(s), if any.
+(NITIN TALREJA)                           (PREETHI DILEEP KUMAR)
+ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
+2
+
+--- Page 89 ---
+ITEM NO.109               COURT NO.7               SECTION XV
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Civil Appeal No.1650/2024
+LOON SINGH & ORS.                                  Appellants
+                                VERSUS
+THE STATE OF RAJASTHAN & ORS.                      Respondents
+I.A. No.133202/2018-PERMISSION TO FILE ADDITIONAL DOCUMENTS/FACTS/
+ANNEXURES
+ 
+WITH
+C.A. No.1651/2024 (XV)
+I.A. No.133285/2018-EXEMPTION FROM FILING O.T.
+ 
+C.A. No.1652/2024 (XV)
+I.A. No.134343/2018-EXEMPTION FROM FILING O.T.
+ 
+C.A. No.1653/2024 (XV)
+I.A. No.134362/2018-EXEMPTION FROM FILING O.T.
+ 
+Date : 25-11-2026 These matters were called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE DIPANKAR DATTA
+         HON'BLE MR. JUSTICE SHEEL NAGU
+For Appellant(s) :  Mr. R P Bhat, Sr. Adv.
+                    Mr. S Sukumaran, Adv.
+                    Mr. Anand Sukumar- 3058, AOR
+                    Mr. Bhupesh Pathak, Adv.
+                    Mrs. Ruche Anand, Adv.
+                    Mr. Priyanshi Chandarana, Adv.                 
+                   
+                    Mr. S Sukumaran, Adv.
+                    Mr. Sanjiv Sen, Sr. Adv.
+                    Mr. S. Sukumaran, Adv.
+                    Mr. Bhupesh Pathak, Adv.
+                    Mr. Anand Sukumar, Adv.
+                    Mr. Bhupesh Kumar Pathak, Adv.
+                    Mrs. Ruche Anand, Adv.
+                    Mr. Prahlad Balaji, Adv.
+                    Ms. Jharna Singh, Adv.
+                    Ms. Meera Mathur- 1247, AOR
+                                      
+For Respondent(s) : Mr. Shiv Mangal Sharma, A.A.G.
+                    Mr. Shivansh B. Pandya, Adv.
+1
+
+--- Page 90 ---
+                    Mr. Kritin Sardana, Adv.
+                    Mr. Saurabh Rajpal- 3577, AOR                  
+                   
+                    Mr. Arvind Kumar Sharma- 1133, AOR
+                    Ms. Aishwarya Bhati, A.S.G.
+                    Mr. Ashok Panigrahi, Adv.
+                    Ms. Ruchi Kohli, Adv.
+                    Mr. B K Satija, Adv.
+                    Ms. Nasadiya Singh, Adv.
+                    Mr. Amrish Kumar-aor, Adv.
+                    Dr. Arun Kumar Yadav, Adv.
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. An adjournment is sought on behalf of the respondent(s) as Mr. Vikramjit
+Banerjee, learned senior counsel is in some personal difficulty.
+2. Re-list the civil appeals after one week.
+3. In  the  meanwhile,  rejoinder  affidavit,  if  any,  may  be  filed  by  27th
+November, 2026.
+      (MANIK KUMAR)                         (SUDHIR KUMAR SHARMA)
+SENIOR PERSONAL ASSISTANT                     COURT MASTER (NSH)
+2
+
+--- Page 91 ---
+REVISED
+ITEM NO.6 COURT NO.16 SECTION XI-B
+S U P R E M E  C O U R T  O F  I N D I A
+RECORD OF PROCEEDINGS
+SPECIAL LEAVE PETITION (CIVIL) Diary No.11054/2026
+[Arising out of impugned final judgment/order dated 21.03.2025 in
+MACA No.1517/2018 passed by the High Court of Kerala at Ernakulam]
+M/S ICICI LOMBARD GENERAL INSURANCE COMPANY LIMITED PETITIONER(S)
+VERSUS
+ASHOKAN & ORS. RESPONDENT(S)
+IA No.104271/2026 - CONDONATION OF DELAY IN FILING
+IA No.104277/2026 - CONDONATION OF DELAY IN REFILING / CURING
+THE DEFECTS
+IA No.104275/2026 - EXEMPTION FROM FILING C/C OF THE
+IMPUGNED JUDGMENT
+IA No.140639/2026 - EXEMPTION FROM FILING O.T.
+IA No.115367/2026 - PERMISSION TO FILE
+ADDITIONAL DOCUMENTS/FACTS/ANNEXURES
+Date : 25.11.2026 This matter was called on for hearing today.
+CORAM : HON'BLE MR. JUSTICE AUGUSTINE GEORGE MASIH
+HON'BLE MR. JUSTICE ALOK ARADHE
+For Petitioner(s) : Mr. Gagan Gupta, Sr. Adv.
+Mr. Suraj Raj Kesherwani, Adv.
+Mr. Karun Sharma- 4310, AOR
+Mr. Mayank Raj, Adv.
+Mr. Akash Sharma, Adv.
+For Respondent(s) : Mr. Roy Abraham, Adv.
+Mr. Akhil A. Roy, Adv.
+Mr. Himinder Lal- 1145, AOR
+O R D E R
+1. Delay condoned.
+2. Subject to the petitioner depositing the amount awarded
+by the High Court with the Registry of this Court within
+two (02) weeks, issue notice, returnable in seven (07)
+weeks.
+1
+
+--- Page 92 ---
+3. Dasti service, in addition, is permitted.
+4. Mr. Himinder Lal, learned counsel, accepts notice on
+behalf of respondent No.1. Hence, formal service of notice
+on the said respondent is waived.
+5. The petitioner shall serve a copy of the present
+petition  upon  learned  counsel  for  respondent  No.1
+forthwith.
+6. Learned counsel for respondent No.1 prays for and is
+granted  four  (04)  weeks'  time  to  file  the  counter
+affidavit, not only to the main petition, but also to the
+additional documents. Rejoinder affidavit thereto, if any,
+shall be filed within two (02) weeks of receipt of the
+counter affidavit.
+  (D. NAVEEN)                       (MAYA KUMARI)
+        COURT MASTER (SH)                 COURT MASTER (NSH)     
+2
+
+--- Page 93 ---
 ITEM NO.33               COURT NO.13               SECTION IV-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -1967,7 +3394,7 @@ vehicle. He remained unrepresented before the High
 Court. He, therefore, prays for striking off the name
 1
 
---- Page 46 ---
+--- Page 94 ---
 of Respondent No.2 from the list of respondents.
 3. At the risk of the petitioner, Respondent No.2 is
 struck off from the list of respondents in all the
@@ -1977,7 +3404,7 @@ matters.
 COURT MASTER (SH)                             COURT MASTER (NSH)
 2
 
---- Page 47 ---
+--- Page 95 ---
 ITEM NO.15               COURT NO.13               SECTION III-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2017,7 +3444,7 @@ she has filed counter affidavit on Monday, i.e.
 submits that respondent has rectified the error in
 1
 
---- Page 48 ---
+--- Page 96 ---
 the  notice  dated  08.07.2025  and  there  is  no
 subsisting demand, qua the petitioner. Therefore,
 nothing survives in this petition.
@@ -2028,7 +3455,7 @@ matter  along  with  the  counter  affidavit  on
 COURT MASTER (SH)                             COURT MASTER (NSH)
 2
 
---- Page 49 ---
+--- Page 97 ---
 ITEM NO.5               COURT NO.12               SECTION II-B
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2068,7 +3495,7 @@ have not yet been framed.
 2. Though in the counter affidavit, it is stated
 1
 
---- Page 50 ---
+--- Page 98 ---
 that 07.12.2026 is the date fixed for framing of
 charges, we want to know from the learned counsel
 for the respondent-State of West Bengal as to why
@@ -2080,7 +3507,7 @@ next date.
 COURT MASTER (SH)                             COURT MASTER (NSH)
 2
 
---- Page 51 ---
+--- Page 99 ---
 ITEM NO.2               COURT NO.12               SECTION II-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2124,7 +3551,7 @@ For Respondent(s): Mr. Azmat Hayat Amanullah- 2758, AOR
 petitioner that petitioner has been convicted by the
 1
 
---- Page 52 ---
+--- Page 100 ---
 Trial Court and for orders on sentence, hearing is
 fixed on 30.11.2026.
 2. Since petitioner has already been convicted, we
@@ -2142,7 +3569,7 @@ disposed of.
 COURT MASTER (SH)                             COURT MASTER (NSH)
 2
 
---- Page 53 ---
+--- Page 101 ---
 ITEM NO.11               COURT NO.12               SECTION II
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2181,7 +3608,7 @@ suspension of sentence in Criminal Appeal No.7655 of
 2022  (Azad @ Neetu And Another versus State of
 1
 
---- Page 54 ---
+--- Page 102 ---
 U.P.).
 3. If such a request is made, the High Court may
 prepone the hearing of the aforesaid application and
@@ -2198,7 +3625,7 @@ disposed of.
 COURT MASTER (SH)                             COURT MASTER (NSH)
 2
 
---- Page 55 ---
+--- Page 103 ---
 ITEM NO.27               COURT NO.12               SECTION II-D
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2237,7 +3664,7 @@ have not expressed any opinion on merit.
 3. Subject to the above, the Special Leave Petitions
 1
 
---- Page 56 ---
+--- Page 104 ---
 are disposed of.
 4. Pending application(s), if any, shall also stand
 disposed of.
@@ -2245,7 +3672,7 @@ disposed of.
 COURT MASTER (SH)                             COURT MASTER (NSH)
 2
 
---- Page 57 ---
+--- Page 105 ---
 IN THE SUPREME COURT OF INDIA
 CIVIL APPELLATE JURISDICTION
 CIVIL APPEAL No.           of 2026
@@ -2272,7 +3699,7 @@ NEW DELHI;
 23rd NOVEMBER, 2026.
 AK
 
---- Page 58 ---
+--- Page 106 ---
 ITEM NO.29               COURT NO.12               SECTION XVII-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2307,7 +3734,7 @@ disposed of.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 59 ---
+--- Page 107 ---
 ITEM NO.27               COURT NO.16               SECTION XVII-B
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2345,7 +3772,7 @@ Mediator/Conciliator to enable the parties to make an
 effort to settle the matter amicably.
 1
 
---- Page 60 ---
+--- Page 108 ---
 3.  Initially,  the  parties  are  permitted  to  appear
 virtually, and thereafter, the parties shall appear as per
 the directions of the learned Mediator/Conciliator.
@@ -2361,7 +3788,7 @@ report to this Court as expeditiously as possible.
   ASTT. REGISTRAR-cum-PS                      COURT MASTER(NSH)
 2
 
---- Page 61 ---
+--- Page 109 ---
 ITEM NO.21               COURT NO.16               SECTION X
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2406,7 +3833,7 @@ For Respondent(s) :Mr. Raja Thakare, A.S.G.
                    Ms. Puja Sharma- 1559, AOR
 1
 
---- Page 62 ---
+--- Page 110 ---
 W.P.(Crl.) No. 68/2025
                    
                    
@@ -2423,7 +3850,7 @@ be filed within two weeks thereafter.
 ASTT. REGISTRAR-cum-PS                  COURT MASTER (NSH)
 2
 
---- Page 63 ---
+--- Page 111 ---
 ITEM NO.28               COURT NO.16               SECTION XII-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2461,7 +3888,7 @@ Mediator/Conciliator to enable the parties to make an
 effort to settle the matter amicably.
 1
 
---- Page 64 ---
+--- Page 112 ---
 3.  Initially,  the  parties  are  permitted  to  appear
 virtually, and thereafter, the parties shall appear as per
 the directions of the learned Mediator/Conciliator.
@@ -2477,7 +3904,7 @@ report to this Court as expeditiously as possible.
 ASTT. REGISTRAR-cum-PS                      COURT MASTER(NSH)
 2
 
---- Page 65 ---
+--- Page 113 ---
 ITEM NO.30               COURT NO.16               SECTION XVI
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2520,7 +3947,7 @@ reveal the desire of the parties to explore the possibility
 of an amicable settlement.
 1
 
---- Page 66 ---
+--- Page 114 ---
 2. In such circumstances, the parties are directed to
 appear before the Coordinator, Supreme Court Mediation
 Centre on 01.12.2026 at 11:00 a.m., for mediation and
@@ -2542,7 +3969,7 @@ report to this Court as expeditiously as possible.
 ASTT. REGISTRAR-cum-PS                      COURT MASTER(NSH)
 2
 
---- Page 67 ---
+--- Page 115 ---
 IN THE SUPREME COURT OF INDIA
 CRIMINAL ORIGINAL JURISDICTION
 Transfer Petition (Criminal)   @ Diary No. 48442/2026
@@ -2561,7 +3988,7 @@ of.
 NEW DELHI;
 NOVEMBER 20, 2026.
 
---- Page 68 ---
+--- Page 116 ---
 ITEM NO.1604               COURT NO.18               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2597,7 +4024,7 @@ disposed of.
 (VARSHA)                               (JAYANT RAJ KATYAL)
 SR. PERSONAL ASTT.                     COURT MASTER (NSH)
 
---- Page 69 ---
+--- Page 117 ---
 IN THE SUPREME COURT OF INDIA
 CRIMINAL ORIGINAL JURISDICTION
 Transfer Petition (Criminal)    @Diary No. 57216/2026
@@ -2618,7 +4045,7 @@ of.
 NEW DELHI;
 NOVEMBER 20, 2026.
 
---- Page 70 ---
+--- Page 118 ---
 ITEM NO.1605               COURT NO.18               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2646,7 +4073,7 @@ disposed of.
 (VARSHA)                               (JAYANT RAJ KATYAL)
 SR. PERSONAL ASTT.                     COURT MASTER (NSH)
 
---- Page 71 ---
+--- Page 119 ---
 IN THE SUPREME COURT OF INDIA
 CRIMINAL ORIGINAL JURISDICTION
 Transfer Petition (Criminal) No. 1236/2026
@@ -2666,7 +4093,7 @@ of.
 NEW DELHI;
 NOVEMBER 20, 2026.
 
---- Page 72 ---
+--- Page 120 ---
 ITEM NO.1611               COURT NO.18               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2699,7 +4126,7 @@ disposed of.
 (VARSHA)                               (JAYANT RAJ KATYAL)
 SR. PERSONAL ASTT.                     COURT MASTER (NSH)
 
---- Page 73 ---
+--- Page 121 ---
 ITEM NO.1605               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2735,7 +4162,7 @@ respondent (caveat).
 to the other side.
 1
 
---- Page 74 ---
+--- Page 122 ---
 5. Learned counsel for both the parties submit that
 there  is  a  possibility  of  settlement  through
 mediation. Accordingly, the matter is referred for
@@ -2750,7 +4177,7 @@ the Mediation Centre.
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 2
 
---- Page 75 ---
+--- Page 123 ---
 ITEM NO.301               COURT NO.1               SECTION XVII
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2786,7 +4213,7 @@ filed by him before the Armed Forces Tribunal on 27.07.2020.
 the jurisdictional Police Station to provide full assistance to the
 1
 
---- Page 76 ---
+--- Page 124 ---
 petitioner-authorities to enable them to ascertain the legal heirs
 of the deceased. A separate report to this effect shall be placed
 on record by the next date.
@@ -2794,7 +4221,331 @@ on record by the next date.
 ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
 2
 
---- Page 77 ---
+--- Page 125 ---
+ITEM NO.20               COURT NO.13               SECTION II-A
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.)  No(s).  15577/2026
+[Arising out of impugned final judgment and order dated 08-04-2025
+in CRADB No. 70/1999 passed by the High Court of Jharkhand at
+Ranchi]
+JYOTINDRA PANDEY                                   Petitioner(s)
+                                VERSUS
+THE STATE OF BIHAR NOW JHARKHAND                   Respondent(s)
+(IA No. 184007/2025 - EXEMPTION FROM FILING O.T.)
+ 
+Date : 25-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE UJJAL BHUYAN
+         HON'BLE MR. JUSTICE ATUL S. CHANDURKAR
+For Petitioner(s): Mr. Shekhar Prit Jha- 1245, AOR
+                   Ms. Preeti Kumar, Adv.
+                   Ms. Akansha Yadav, Adv.
+                   Ms. Sushmita Rawat, Adv.
+                   Mr. Anurag Bansal, Adv.                   
+                   
+For Respondent(s): Mr. Shantanu Sagar- 2058, AOR
+                   Mr. Anil Kumar, Adv.
+                   Mr. Gunjesh Ranjan, Adv.
+                   Mr. Prakash Kumar Mangalam, Adv.
+                   Ms. Anshala Verma, Adv.                      
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Leave granted.
+2. Insofar the prayer for suspension of sentence and
+grant of bail is concerned, learned counsel for the
+appellant submits that as of now, appellant has
+undergone more than 07 years 08 months of actual
+incarceration.
+3. Issue notice on the prayer for suspension of
+sentence  and  grant  of  bail,  returnable  on
+25.01.2027.
+(ABHINAV KUMAR)                                 (POOJA KOHLI)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 126 ---
+ITEM NO.28               COURT NO.13               SECTION XII
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (C)  No(s).  25356/2026
+[Arising out of impugned final judgment and order dated 09-08-2024
+in CMA No. 2679/2023 passed by the High Court of Judicature at
+Madras]
+KAMATCHI & ORS.                                    Petitioner(s)
+                                VERSUS
+THE MANAGING DIRECTOR                              Respondent(s)
+(IA No. 195587/2026 - EXEMPTION FROM FILING O.T.)
+ 
+Date : 25-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE UJJAL BHUYAN
+         HON'BLE MR. JUSTICE ATUL S. CHANDURKAR
+For Petitioner(s): Mr. T. Harish Kumar- 1418, AOR
+                   Mr. Shubham Kothari, Adv.
+                   Mr. Shubham P. Chopra, Adv.
+                   Mr. Gowthamkumar V, Adv.                   
+                   
+For Respondent(s): Ms. Kanika Kalaiyarasan- 3896, AOR              
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. We have heard the matter at some length.
+2. We call upon learned counsel for the petitioner
+as well as learned counsel for the respondent to
+place before the Court the notification subsequent to
+notification  dated  18.06.2014  of  the  Labour  and
+Employment Department, Government of Tamil Nadu under
+the  Minimum  Wages  Act,  1948,  providing  for  the
+minimum wages to masons.
+3. List on 02.02.2027.
+(ABHINAV KUMAR)                                 (POOJA KOHLI)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 127 ---
+ITEM NO.23               COURT NO.13               SECTION II-E
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.) No(s). 18649-18650/2026
+[Arising out of impugned final judgment and order dated 26-07-2024
+in CRR No. 3618/2024 06-07-2026 in MCRC No. 33687/2024 passed by
+the High Court of Madhya Pradesh Principal Seat at Jabalpur]
+RAM BABU DHAKAD                                    Petitioner(s)
+                                VERSUS
+THE STATE OF MADHYA PRADESH & ORS.                 Respondent(s)
+[IA No. 266004/2026 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+IA No. 266001/2026 - EXEMPTION FROM FILING O.T.]
+ 
+Date : 25-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE UJJAL BHUYAN
+         HON'BLE MR. JUSTICE ATUL S. CHANDURKAR
+For Petitioner(s): Mr. Ibad Mushtaq, AOR
+                   Mr. Satvik Issar, Adv.
+                   Ms. Rushda Abdin, Adv.
+                   Ms. Dikshita, Adv.
+                   
+For Respondent(s): Mr. Aditya Vaibhav Singh Ga, Adv.
+                   Mr. Harmeet Singh Ruprah- 2308, AOR
+                   Ms. Sakshi Raman, Adv.                   
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Learned  counsel  for  the  respondent-State  of
+Madhya  Pradesh  submits  that  respondent-State  of
+Madhya Pradesh has filed counter affidavit. However,
+the same is not on record.
+2. Registry to verify and place the same on record.
+3. List on 18.03.2027.
+(ABHINAV KUMAR)                                 (POOJA KOHLI)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 128 ---
+ITEM NO.22               COURT NO.13               SECTION II
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.) No(s). 17200-17201/2026
+[Arising out of impugned final judgment and order dated 26-02-2026
+in CRLA No. 145/2024 26-02-2026 in CRLA No. 104/2024 passed by the
+Gauhati High Court]
+MD RAFIK ALI & ANR.                                Petitioner(s)
+                                VERSUS
+STATE OF ASSAM                                     Respondent(s)
+Date : 25-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE UJJAL BHUYAN
+         HON'BLE MR. JUSTICE ATUL S. CHANDURKAR
+For Petitioner(s): Mr. Parthiv Goswami, Sr. Adv.
+                   Mr. Siddhartha Jha- 2286, AOR
+                   Mr. Kartik Jha, Adv.
+                   Ms. Atiga Singh, Adv.                   
+                   
+For Respondent(s): Mr. Ankit Roy- 3248, AOR
+                   Ms. Mrinalini Ramesh, Adv.
+                   Mr. Prem Mankani, Adv.                   
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+In terms of the letter circulated on behalf of
+the respondent seeking adjournment on the ground of
+filing reply, list after four weeks.
+(ABHINAV KUMAR)                                 (POOJA KOHLI)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 129 ---
+ITEM NO.18               COURT NO.13               SECTION IV-A
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (C)  No(s).  33324/2026
+[Arising out of impugned final judgment and order dated 01-04-2026
+in RSA No. 5253/2009 passed by the High Court of Karnataka Circuit
+Bench at Dharwad]
+GURUNATHA S/O VEERAPPA MULLUR & ORS.               Petitioner(s)
+                                VERSUS
+RAMAPPA YALLAPPA MULLUR                            Respondent(s)
+ 
+Date : 25-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE UJJAL BHUYAN
+         HON'BLE MR. JUSTICE ATUL S. CHANDURKAR
+For Petitioner(s): Mr. C. M. Angadi, Adv.
+                   Mrs. Manisha Chava, Adv.
+                   Mr. Madhav Anand, Adv.
+                   Mr. Rameshwar Prasad Goyal- 1350, AOR           
+                   
+For Respondent(s): Mr. Raghvendra M. Kulkarni, Adv.
+    Mr. Hemanth Kumar J., Adv.
+    Mr. V.N. Raghupathy, AOR
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. Leave granted.
+2. Status quo order passed earlier to continue until
+further orders.
+3. List the appeal for hearing in due course.
+(ABHINAV KUMAR)                                 (POOJA KOHLI)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 130 ---
+ITEM NO.118               COURT NO.14               SECTION II-D
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Criminal Appeal  No(s).  453/2017
+SEEMA SHARMA                                       Appellant(s)
+                                VERSUS
+THE STATE OF RAJASTHAN                             Respondent(s)
+[ SPEAKING TO THE MINUTES ] 
+ 
+Date : 26-11-2026 This appeal was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE UJJAL BHUYAN
+         HON'BLE MR. JUSTICE ATUL S. CHANDURKAR
+For Appellant(s):  Mr. E. C. Vidya Sagar- 1105, AOR
+    Mr. Hemand Kumar Sagar, Adv.
+    Mr. Subhash Chandra Sagar, Adv.
+                   
+For Respondent(s): Mr. Shiv Mangal Sharma, A.A.G.
+                   Mr. Shivansh B Pandya, Adv.
+                   Mr. Saurabh Rajpal- 3577, AOR                   
+                   
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. On  18.11.2026,  the  case  was  adjourned  for
+translation of the documents.
+2. Learned counsel for the appellant submits that
+since the documents are voluminous, he is finding it
+difficult to carry out the translation.
+3. Let the translation be done by the Registry.
+4. Once translation is completed, case be listed for
+hearing.
+(ABHINAV KUMAR)                                 (POOJA KOHLI)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 131 ---
+ITEM NO.101               COURT NO.14               SECTION II
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Criminal Appeal  No(s).  1270/2022
+THE STATE OF UTTAR PRADESH                         Appellant(s)
+                                VERSUS
+PAWAN KUMAR                                        Respondent(s)
+(IA No. 86473/2017 - EXEMPTION FROM FILING O.T.)
+ 
+Date : 26-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE UJJAL BHUYAN
+         HON'BLE MR. JUSTICE ATUL S. CHANDURKAR
+For Appellant(s):  Mr. Abhishek Saket, Adv.
+                   Mr. Sudeep Kumar- 2779, AOR
+                   Ms. Manisha, Adv.
+                   Ms. Reya Paul, Adv.
+                   Ms. Harshita Chawla, Adv.                   
+                   
+For Respondent(s): Mr. Mohit Kumar Gupta, Adv.
+    Ms. Surabhi Sanchita- 2612, AOR                 
+    Ms. Kalpana, Adv.
+    Ms. Kalyani Singh, Adv.
+    Mr. Prashant Tyagi, Adv.
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. We have heard Mr. Abhishek Saket, learned counsel
+for the appellant-State of Uttar Pradesh and Mr. Mohit
+Kumar Gupta, learned counsel for the respondent.
+2. Arguments concluded.
+3. Judgment is reserved.
+(ABHINAV KUMAR)                                 (POOJA KOHLI)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 132 ---
+ITEM NO.1501               COURT NO.14               SECTION XVII-A
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Civil Appeal  No(s).  9051/2026
+RAMSAKHI GUPTA                                     Appellant(s)
+                                VERSUS
+ICICI LOMBARD GENERAL INSURANCE CO. LTD. & ANR.    Respondent(s)
+(IA No. 69096/2020 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT
+IA No. 69098/2020 - EXEMPTION FROM FILING O.T.)
+ 
+Date : 26-11-2026 This Appeal was called on for pronouncement of 
+   judgment today.
+For Appellant(s):  Mr. Navin Pahwa, Sr. Adv.
+                   Mr. Rajul Shrivastav, Adv.
+                   Mr. Mohit D. Ram, AOR
+                   Ms. Nayan Gupta, Adv.                   
+                   
+For Respondent(s): Mr. Vishnu Mehra, Sr. Adv.
+                   Mr. Gautam Jha- 1980, AOR
+                   Mr. Pankaj Kumar, Adv.
+                   Mr. Vimal Prakash Pandey, Adv.
+                   Mr. Kartik Jha, Adv.                   
+        
+Hon’ble Mr. Justice Ujjal Bhuyan has pronounced
+the reportable judgment of the Bench comprising His
+Lordship and Hon’ble Mr. Justice Atul S. Chandurkar.
+The Appeal is allowed in terms of the signed
+reportable judgment.
+Pending  application(s),  if  any,  shall  stand
+disposed of.
+(ABHINAV KUMAR)                                 (POOJA KOHLI)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+(Signed reportable judgment is placed on the file)
+
+--- Page 133 ---
+ITEM NO.21               COURT NO.12               SECTION II-B
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+SPECIAL LEAVE PETITION (CRIMINAL) Diary No(s). 51133/2026
+[Arising out of impugned final judgment and order dated 15-07-2026
+in CRLMC No. 2192/2026 passed by the High Court of Orissa at
+Cuttack]
+BABU @ GYANENDRA SAHOO                             Petitioner(s)
+                                VERSUS
+STATE OF ODISHA                                Respondent(s)
+FOR ADMISSION 
+(IA No. 341488/2026 - CONDONATION OF DELAY IN REFILING /  CURING 
+THE DEFECTS
+IA No. 341486/2026 - EXEMPTION FROM FILING O.T.)
+ 
+Date : 23-11-2026 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE UJJAL BHUYAN
+         HON'BLE MR. JUSTICE ATUL S. CHANDURKAR
+For Petitioner(s): Ms. Stuti Singh, Adv.
+                   Ms. Mridula Ray Bharadwaj- 380, AOR
+                   Mr. Anshu Singh, Adv.
+                   Mr. Ajay Kumar, Adv.
+                   Ms. Poulzmi Das, Adv.                   
+                   
+For Respondent(s): 
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+1. We have heard learned counsel for the petitioner.
+2. Delay condoned.
+3. In view of what has been observed by the High
+Court in paragraph No.8 of the impugned order, we
+are not inclined to entertain the Special Leave
+Petition.
+4. Accordingly,  the  Special  Leave  Petition  is
+dismissed.
+5. Pending  application(s),  if  any,  shall  stand
+disposed of.
+(ABHINAV KUMAR)                                 (POOJA KOHLI)
+COURT MASTER (SH)                             COURT MASTER (NSH)
+
+--- Page 134 ---
 ITEM NO.32               COURT NO.13               SECTION III-B
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2821,7 +4572,7 @@ time to file counter affidavit.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 78 ---
+--- Page 135 ---
 ITEM NO.16               COURT NO.13               SECTION IX
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2861,7 +4612,7 @@ affidavit.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 79 ---
+--- Page 136 ---
 ITEM NO.21               COURT NO.13               SECTION II-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2899,7 +4650,7 @@ shall continue.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 80 ---
+--- Page 137 ---
 ITEM NO.29               COURT NO.13               SECTION IV-B
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2940,7 +4691,7 @@ is granted 03 weeks’ time to file counter affidavit.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 81 ---
+--- Page 138 ---
 ITEM NO.30               COURT NO.13               SECTION IV-B
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -2980,7 +4731,7 @@ Trial Court.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 82 ---
+--- Page 139 ---
 ITEM NO.101               COURT NO.13               SECTION II-B
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3013,7 +4764,7 @@ counsel for the respondent-State of Uttarakhand.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 83 ---
+--- Page 140 ---
 ITEM NO.35               COURT NO.13               SECTION III-B
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3051,7 +4802,7 @@ proceedings.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 84 ---
+--- Page 141 ---
 ITEM NO.26               COURT NO.13               SECTION XVII-B
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3075,7 +4826,7 @@ personal difficulty, list the matter after one week.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 85 ---
+--- Page 142 ---
 ITEM NO.31               COURT NO.13               SECTION III-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3115,7 +4866,7 @@ after two weeks.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 86 ---
+--- Page 143 ---
 ITEM NO.36               COURT NO.13               SECTION II-B
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3145,7 +4896,7 @@ report of the informant.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 87 ---
+--- Page 144 ---
 ITEM NO.25               COURT NO.13               SECTION IV-C
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3182,7 +4933,7 @@ one week.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 88 ---
+--- Page 145 ---
 ITEM NO.105               COURT NO.13               SECTION II-E
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3221,7 +4972,7 @@ appellant(s) is indisposed.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 89 ---
+--- Page 146 ---
 ITEM NO.27               COURT NO.13               SECTION XII
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3261,7 +5012,7 @@ counter affidavit.
 (ABHINAV KUMAR)                                 (POOJA KOHLI)
 COURT MASTER (SH)                             COURT MASTER (NSH)
 
---- Page 90 ---
+--- Page 147 ---
 ITEM NO.34               COURT NO.1               SECTION XV
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3300,7 +5051,7 @@ High Court to approach it.
 (ARJUN BISHT)                              (PREETHI DILEEP KUMAR)
 ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
 
---- Page 91 ---
+--- Page 148 ---
 ITEM NO.64               COURT NO.1               SECTION XIV
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3337,7 +5088,7 @@ accordance with law.
 (ARJUN BISHT)                              (PREETHI DILEEP KUMAR)
 ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
 
---- Page 92 ---
+--- Page 149 ---
 ITEM NO.63               COURT NO.1               SECTION II-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3375,7 +5126,7 @@ issues are pending before this Court.
 (ARJUN BISHT)                              (PREETHI DILEEP KUMAR)
 ASTT. REGISTRAR-cum-PS                        DY. REGISTRAR
 
---- Page 93 ---
+--- Page 150 ---
 ITEM NO.26               COURT NO.16               SECTION XII-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3419,7 +5170,7 @@ the driver of the of offending vehicle, through publication.
 (RAJNI MUKHI)                                (MAYA KUMARI)
 ASTT. REGISTRAR-cum-PS                      COURT MASTER(NSH)
 
---- Page 94 ---
+--- Page 151 ---
 ITEM NO.22               COURT NO.16               SECTION II-C
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3452,7 +5203,7 @@ petitioner.
 (RAJNI MUKHI)                                (MAYA KUMARI)
 ASTT. REGISTRAR-cum-PS                      COURT MASTER(NSH)
 
---- Page 95 ---
+--- Page 152 ---
 ITEM NO.23               COURT NO.16               SECTION IX
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3491,7 +5242,7 @@ Insurance Company.
 (RAJNI MUKHI)                            (MAYA KUMARI)
 ASTT. REGISTRAR-cum-PS                      COURT MASTER (NSH)
 
---- Page 96 ---
+--- Page 153 ---
 ITEM NO.1601               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3520,7 +5271,7 @@ For Respondent(s) :
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 97 ---
+--- Page 154 ---
 ITEM NO.1602               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3555,7 +5306,7 @@ before the Family Court, Dwarka, New Delhi.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 98 ---
+--- Page 155 ---
 ITEM NO.1619               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3589,7 +5340,7 @@ through their counsel in the trial court.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 99 ---
+--- Page 156 ---
 ITEM NO.1620               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3614,7 +5365,7 @@ two weeks’ time to file the counter affidavit.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                       BRANCH OFFICER
 
---- Page 100 ---
+--- Page 157 ---
 ITEM NO.1618               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3649,7 +5400,7 @@ file the counter affidavit.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 101 ---
+--- Page 158 ---
 ITEM NO.1611               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3680,7 +5431,7 @@ Odisha.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 102 ---
+--- Page 159 ---
 ITEM NO.1608               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3708,7 +5459,7 @@ District Rayagada, Odisha.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 103 ---
+--- Page 160 ---
 ITEM NO.1614               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3742,7 +5493,7 @@ Issue notice, returnable in six weeks.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 104 ---
+--- Page 161 ---
 ITEM NO.1606               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3773,7 +5524,7 @@ Jalandhar District Court, Punjab.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 105 ---
+--- Page 162 ---
 ITEM NO.1613               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3804,7 +5555,7 @@ Muzafarnagar, Uttar Pradesh.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 106 ---
+--- Page 163 ---
 ITEM NO.1616               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3833,7 +5584,7 @@ Family Court, Bengaluru, Karnataka.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 107 ---
+--- Page 164 ---
 ITEM NO.1612               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3864,7 +5615,7 @@ Karnataka.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 108 ---
+--- Page 165 ---
 ITEM NO.1609               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3897,7 +5648,7 @@ Bareilly, Uttar Pradesh.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 109 ---
+--- Page 166 ---
 ITEM NO.1617               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3926,7 +5677,7 @@ before the Court of Family Judge at Visakhapatnam.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 110 ---
+--- Page 167 ---
 ITEM NO.1621               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3959,7 +5710,7 @@ New DelhiDistrict, Patiala House Courts, New Delhi.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 111 ---
+--- Page 168 ---
 ITEM NO.1604               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -3993,7 +5744,7 @@ District Court Complex, Faridabad, Haryana.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 112 ---
+--- Page 169 ---
 ITEM NO.1610               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -4022,7 +5773,7 @@ Advocate on Record is absent.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 113 ---
+--- Page 170 ---
 ITEM NO.1607               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -4058,7 +5809,7 @@ disposed of.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 114 ---
+--- Page 171 ---
 ITEM NO.1615               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
@@ -4091,7 +5842,7 @@ Family Court, Darbhanga, Bihar.
 (VARSHA)                              (AJEET SINGH TARIYAL)
 SR. PERSONAL ASTT.                      BRANCH OFFICER
 
---- Page 115 ---
+--- Page 172 ---
 ITEM NO.1603               COURT NO.7               SECTION XVI-A
                S U P R E M E  C O U R T  O F  I N D I A
                        RECORD OF PROCEEDINGS
